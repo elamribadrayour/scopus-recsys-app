@@ -1,0 +1,101 @@
+DOI,datasets,algorithms,application
+10.1109/CLOUD.2018.00111,[],"['Revolver', 'reinforcement learning', 'label propagation', 'graph partitioning algorithms']",recommendation systems
+10.14733/cadaps.2024.S13.105-118,[],"['collaborative filtering', 'opinion pre-filtering', 'user ratings embedding']",education
+10.1155/2022/4140774,[],"['machine learning algorithm', 'knowledge graph algorithm', 'matrix decomposition', 'matrix transformation']",education
+10.1109/CiSt49399.2021.9357241,[],"['MLP deep learning', 'hybrid recommendation system', 'content-based approach', 'demographic approach', 'collaborative filtering']",ecommerce
+10.1016/j.knosys.2021.107970,[],['knowledge graph attention network'],ecommerce
+10.1109/AICCSA50499.2020.9316492,['publicly available English and Arabic languages datasets'],"['Collaborative Filtering', 'Content-based Filtering', 'Hybrid models', 'CFMDNN (Collaborative Filtering based Deep Neural Network)', 'MCNN (Multichannel Convolutional Neural Network)']",retail and business sector
+10.1049/PBSE025E,[],[],recommendation systems
+10.1109/ICCES51350.2021.9488980,[],['recommendation method based on user preference'],ecommerce
+10.1201/9781003393580-105,[],[],
+10.3233/FAIA200033,[],"['TF-IDF', 'word frequency (WF)', 'score calculation (SC)']",tourism
+10.1088/1742-6596/1302/2/022025,[],['collaborative filtering'],digital libraries
+10.1016/j.apenergy.2016.03.112,"['48 test buildings', 'one real building', 'operational data', 'energy consumption data']","['meta-learning', 'load forecasting model recommendation']",building energy management
+10.1007/978-3-030-55187-2_50,['cloud-native microservices graphs'],"['latent factor models', 'graph-based models', 'matrix factorization techniques']",entertainment
+10.1021/acs.jmedchem.9b02130,[],[],drug discovery
+10.1155/2024/7405217,"['comprehensive dataset that includes various agricultural parameters, historical crop yields, and environmental conditions']","['random forest', 'SHapley Additive exPlanations (SHAP)', 'local interpretable model-agnostic explanations (LIMEs)']",agriculture
+10.1109/ICAC61394.2024.10718828,[],['non-stationary transformer'],entertainment
+10.1109/R10-HTC54060.2022.9929681,[],['neural collaborative filtering'],recommendation systems
+10.1007/s00521-024-10699-w,['three publicly available datasets'],"['cross-view contrastive learning', 'graph neural networks (GNNs)']",ecommerce
+10.1016/j.neucom.2020.12.043,[],"['neural attention techniques', 'BiLSTM sequence encoder', 'Co-attention network', 'attentive factorization machine (FM)']",ecommerce
+10.1109/I2CT61223.2024.10543230,[],[],
+10.4018/9798369314876.ch010,[],"['deep learning', 'reinforcement learning', 'ensemble methods']",recommendation systems
+10.1049/ccs2.12090,['Kzomato (publicly available dataset from Kaggle)'],"['collaborative filtering', 'A Lite Bidirectional Encoder Representations from Transformers', 'Simple Recurrent Unit']",restaurant recommendation
+10.1007/978-3-031-40289-0_10,['public datasets'],"['Graph Convolution Network (GCN)', 'collaborative filtering', 'Degree-aware embedding', 'Interaction feature fusion']",ecommerce
+10.1016/S0933-3657(02)00113-6,[],"['case-based reasoning (CBR)', 'incremental knowledge acquisition system (MIKAS)']",medical
+10.1109/BigDataSE53435.2021.00026,[],"['local differential privacy', 'PRR (Permanent Randomized Response)', 'IRR (Instantaneous Randomized Response)', 'machine learning decoding algorithm', 'neural network', 'XGBoost', 'Kmeans']",privacy-preserving recommendation systems
+10.1007/978-3-030-18576-3_26,[],['deep learning framework'],recommendation
+10.1109/APEIE52976.2021.9647623,"[""data provided by the company 'FB Consult'""]",['Apriori algorithm'],ecommerce
+10.4018/978-1-4666-9882-6.ch004,[],[],healthcare
+10.1007/978-3-030-99108-1_11,[],"['trust-based model', 'recommendation systems']",industrial systems
+10.1109/ICSSAS57918.2023.10331810,[],['Random Forest'],agriculture
+10.1145/3336191.3371836,"['Amazon', 'Etsy']","['attention mechanism', 'gating layer']",ecommerce
+10.1109/ICIEV.2012.6317401,[],"['C4.5', 'PART classifier']",entertainment
+10.1016/j.neucom.2023.126881,[],"['Deep Learning (DL)', 'traditional techniques', 'hybrid techniques']",news
+10.1109/SMDS53860.2021.00016,[],"['recommendation system', 'AutoML']",data readiness
+10.1007/978-3-030-75765-6_45,[],"['Influence-aware and Attention-based Co-evolutionary Network (IACN)', 'interaction modeling', 'influence modeling', 'fusion layer']",online communities
+10.1016/j.procs.2023.09.061,[],[],education
+10.1007/s10994-022-06263-z,"['APLC-XLNet', 'AttentionXML']",[],recommendation systems
+10.1108/IMDS-05-2023-0298,"['e-commerce', 'industrial retail', 'streaming service']","['matrix factorization (MF)', 'recurrent neural network (RNN)', 'cumulative factorization', 'V-LSTM']",ecommerce
+10.1002/9781394268832.ch7,[],[],healthcare
+10.1007/978-3-031-48316-5_37,['Movielens 20M'],"['LSTM-RNN', 'Tag2Seq']",entertainment
+10.1145/3637528.3672001,[],"['RepeatMixer', 'MLP-based encoder']",recommendation systems
+10.24507/ijicic.20.06.1733,[],"['data mining', 'collaborative filtering', 'decision tree', 'clustering']",university libraries
+10.3389/fonc.2023.1092478,"['National Cancer Institute Surveillance, Epidemiology, and End Results (SEER) database']","['deep learning neural network', 'random forest', 'cox proportional hazard model']",cancer diagnosis
+10.1145/3593314,['real-world datasets'],['influence propagation-enhanced deep co-evolutionary method'],recommendation
+10.1109/ICRITO56286.2022.9965009,[],"['content based', 'collaborative filtering']",ecommerce
+10.1007/978-981-13-6661-1_24,"['Surveillance, Epidemiology, and End Results (SEER) program']",['Alternating Least Square (ALS)'],medical
+10.55549/epstem.1219174,['GTZAN Genre dataset'],"['RNN-LSTM', 'GRU', 'CNN']",entertainment
+10.1007/978-3-319-56538-5_55,[],"['web mining', 'real time web analytic tools']",web navigation
+10.1016/j.isci.2023.108660,[],"['spectral clustering (SC)', 'gated recurrent unit (GRU)', 'GRU-KSC', 'K-means++ SC (KSC)', 'Hybrid GRU (HGRU)']",ecommerce
+10.1109/RAIT.2018.8389068,[],"['Artificial Neural Networks (ANNs)', 'Convolutional Neural Network (CNN)']",medical
+10.1109/WISM.2009.27,[],"['novel algorithms', ""analysis of web users' Web Log Data""]",web recommendation
+10.1145/3506860.3506882,[],['Bayesian knowledge tracing models'],education
+10.1007/978-3-031-22018-0_12,[],[],
+10.1016/j.petrol.2020.107504,"['digital database of field data from several thousands of multistage HF jobs on vertical, inclined and near-horizontal wells from circa 20 different oilfields in Western Siberia, Russia', 'about 5000 data points']","['collaborative filtering', 't-SNE', 'CatBoost']",energy
+10.1007/978-3-030-34872-4_26,[],"['Collaborative Filtering', 'Bernoulli Restricted Boltzmann Machine (RBM)', 'k-means Clustering']",entertainment
+10.1007/978-981-99-1414-2_25,['product reviews'],"['content-based image retrieval (CBIR)', 'CNN', 'cosine similarity']",ecommerce
+10.1109/ACCESS.2018.2789866,['three public datasets'],"['collaborative filtering', 'matrix factorization', 'deep learning', 'deep neural network']",ecommerce
+10.1007/978-981-97-1313-4_26,['Yahoo! multi-criteria Movie database'],"['neural collaborative filtering', 'matrix factorization']",entertainment
+10.3390/s22145337,[],[],
+10.1145/3613424.3614303,[],[],
+10.1609/aaai.v26i1.8185,[],"['probabilistic data', 'voting theory']",decision making
+10.14313/JAMRIS/4-2021/28,['election data'],"['Machine Learning Algorithms', 'Vector Representation Algorithms', 'Latent Factor Model Algorithms', 'Neighbourhood Methods', 'K-NN', 'content-based filtering', 'collaborative filtering']",elections
+10.3233/JIFS-230246,[],"['Long Short-Term Memory (LSTM)', 'Naïve Bayes', 'Support Vector Machines', 'Convolution Neural Network (CNN)', 'Recurrent Neural Networks (RNN)', 'Bi-directional Encoder Representation from Transformers (BERT)', 'Convolution Bi-directional Recurrent Neural Network (CBRNN)', 'LSTMWTR']",digital marketing
+10.1109/ICCCNT61001.2024.10725920,[],"['RNN', 'LSTM']",entertainment
+10.2196/37233,['University of California Irvine Machine Learning Repository'],"['collaborative filtering', 'clustering', 'principal component analysis']",healthcare
+10.1109/IIAI-AAI.2019.00235,[],[],tourism
+10.4018/978-1-60566-114-8.ch017,[],"['content-based filtering', 'collaborative filtering']",green products
+10.14257/ijgdc.2017.10.1.12,[],"['hybrid recommendation algorithm', 'opinion mining', 'web data mining']",E-commerce
+10.14569/IJACSA.2022.01306108,['Stack Overflow dataset with over a million Java developers’ questions'],"['K-mean clustering', 'Random Forest classifier']",software development
+10.1109/ACCESS.2023.3246060,['Amazon datasets'],"['collaborative filtering', 'matrix factorization', 'LDA (Latent Dirichlet Allocation)', 'BERT (Bidirectional Encoder Representation from Transformers)']",ecommerce
+10.3991/ijim.v18i22.52449,[],['knowledge recommendation system'],education
+10.3233/978-1-61499-484-8-583,['Facebook'],"['public preference model', 'social relation graph', 'social influence calculation']",social media
+10.1007/978-981-15-1468-5_134,[],"['deep learning model', 'Pearson coefficient']",education
+10.3233/978-1-61499-512-8-190,[],"['knowledge-driven', 'data-driven', 'patient similarity analysis']",medical
+10.1109/IJCNN60899.2024.10650912,['Amazon review datasets'],['Four-view graph convolutional network'],ecommerce
+10.1007/s10796-024-10529-3,[],['knowledge graph-based framework'],ecommerce
+10.1007/s10115-022-01726-0,['LETOR 4'],"['SAS-Rank', 'ES-Rank', 'Online Dependent Click Model (DCM)', 'Simulated Annealing', 'Evolutionary Strategy']",Information retrieval
+10.1109/ITQMIS.2019.8928398,[],[],
+10.1016/j.hcc.2024.100228,[],"['clustering', 'association rule algorithms', 'K-means clustering']",education
+10.1007/3-540-48414-0_24,[],['heuristic search'],entertainment
+10.1109/ASONAM.2012.179,[],"['semantic similarity measure', 'classification analysis']",social network analysis
+10.1109/IS.2016.7737435,[],"['Lambda Architecture', 'real-time recommendation algorithms', 'consistent hash algorithm', 'off-line machine learning algorithms']",consumer wireless
+10.37936/ecti-cit.2022164.245873,"['real MOOCs data from Harvard University', 'real MOOCs data from MIT']","['MCR-C-FGM', 'Deep Neural Network', 'Long Short-Term Memory', 'fit-generator method']",education
+10.1007/978-3-319-44944-9_41,"['supermarket database', 'Amazon Company database']",[],ecommerce
+10.1007/978-3-031-16210-7_5,[],"['content based recommendation techniques', 'data augmentation', 'machine learning (ML) libraries']",human resources
+10.1145/2339530.2339594,[],"['clustering', 'buzz scores', 'entropy', 'user feedback optimization']",entertainment
+10.1109/IDCIoT56793.2023.10053451,"['pH', 'yearly rainfall values (n=100)']","['System Vector Machine (SVM)', 'Random Forest', 'Decision Tree', 'KNN']",agriculture
+10.1109/ICCCE50029.2021.9467135,['MovieLens 100k'],"['cosine similarity', 'k-NN']",entertainment
+10.1007/978-981-99-3250-4_60,[],"['deep learning', 'information retrieval']",online applications
+10.1109/IJCNN.2019.8852034,[],['Recommendation System Boosted Local Interpretable Model-Agnostic Explanations (RSLIME)'],entertainment
+10.1155/2022/7696840,[],"['deep learning', 'candidate matrix compression', 'music-music recommendation method', 'automatic tag generation']",music
+10.1109/INCOFT60753.2023.10425522,"['Spotify Features dataset', 'personal listening data']","['Naïve Bayes', 'XG Boost', 'Logistic Regression', 'LGBM Classification', 'Random Forest', 'Artificial Neural Network (ANN)', 'K-Nearest Neighbors Classification (KNN)', 'Gradient Boost', 'AdaBoost', 'Decision Tree']",music
+10.1145/3019612.3019696,"['MQ2007', 'MQ2008', 'MSLR-WEB10K']","['(1+1) Evolutionary Strategy', 'ES-Rank']",product recommendation systems
+10.1109/INTECH.2014.6927766,[],['association rule'],library
+10.1109/SNPD.2019.8935654,['music database (100 pieces)'],['Interactive Genetic Algorithm (IGA)'],music
+10.1142/S0218194009004507,[],[],ecommerce
+10.1109/ICDMW.2016.0146,['manually curated dataset of PubMed articles'],"['Context Specific Recommendation System (CSRS)', 'Natural Language Processing (NLP) techniques']",biomedical
+10.1016/j.neucom.2019.12.125,"['Zoo dataset', ""McDonald's dataset"", 'artificial formant dataset']","['self-organizing map (SOM)', 'landmark map (LAMA)']",recommendation systems
+10.1088/1742-6596/1187/5/052044,[],[],business
+10.1007/978-3-319-26350-2_12,['MovieLens'],"['graph-based random walk', 'collaborative filtering']",entertainment

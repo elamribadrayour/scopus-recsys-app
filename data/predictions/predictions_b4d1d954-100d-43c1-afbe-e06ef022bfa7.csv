@@ -1,0 +1,101 @@
+DOI,datasets,algorithms,application
+10.1109/CSNT57126.2023.10134673,[],"['selective coverage mechanism', 'adaptive memory neural network']",medical
+10.24963/ijcai.2022/333,['real-world datasets'],['Graph Contrastive Learning for Sequential Recommendation (GCL4SR)'],ecommerce
+10.1109/MDM48529.2020.00078,[],['machine learning'],airports
+10.1109/DSC54232.2022.9888898,['experimental dataset'],"['3M (Multi-task, Multi-interest, Multi-feature) model', 'deep learning models', 'CTR (Click - Through Rate) prediction model']",ecommerce
+10.1186/s40537-020-00309-6,['real-world dataset'],"['collaborative filtering', 'deep neural network', 'matrix factorization']",entertainment
+10.1007/978-3-642-23605-1_26,['rating data set of online movies'],"['matrix projection', 'matrix maximization problems']",entertainment
+10.1007/978-3-030-71305-8_8,[],['personalization recommendation system'],entertainment
+10.1109/ICMCCE48743.2019.00192,[],"['deep learning', 'recommendation system']",education
+10.4156/jdcta.vol6.issue12.47,[],[],ecommerce
+10.7717/peerj-cs.1858,[],"['graph convolutional networks (GCN)', 'neural matrix factorization (NMF)']",children’s book recommendation
+10.1109/ICDSIS61070.2024.10594175,[],"['Convolutional Neural Network (CNN)', 'Bidirectional Long Short-Term Memory (BiLSTM)', 'Autoencoder-based multi-criteria recommendation algorithm (AEMC)', 'CNN-LSTM', 'Personalized Travel Route Recommendation-Deep learning algorithm (PTRR-DL)']",tourism
+10.1109/eIT60633.2024.10609841,[],"['General Bidirectional framework (BiDiGen)', 'knowledge distillation', 'collaborative filtering']",ecommerce
+10.38023/72720413-36C5-4EE3-BA65-B7D0396FCD82,[],['Neural-Text-to-Speech (NTTS)'],entertainment
+10.1016/j.procs.2024.05.103,[],['Artificial Intelligence techniques'],ecommerce
+10.1007/978-3-031-77426-3_12,[],"['computer vision algorithms', 'CNN', 'VGG16', 'transfer learning', 'fine-tuning', 'Deepface']",skincare
+10.1016/j.procs.2021.12.246,[],"['context-aware recommendation', 'multi-class classification']",e-commerce
+10.1109/ICCINS58907.2023.10450021,[],['hybrid recommendation system'],cloud data auditing
+10.1609/aaai.v37i4.25630,"['two real-world public datasets', 'one industrial dataset']","['Set-to-Sequence Ranking-Based Concept-Aware Learning Path Recommendation (SRC)', 'policy gradient', 'concept-aware encoder', 'decoder module with attention mechanism']",online education
+10.1371/journal.pcbi.1011945,[],['graph neural networks'],drug discovery
+10.5565/rev/elcvia.1232,[],"['Collaborative Filtering', 'Content Based Filtering', 'Hybrid Approach', 'Deep Learning Based Methods']",entertainment
+10.1109/ICETCS61022.2024.10543400,[],[],
+10.1109/GECOST55694.2022.10010659,['job vacancies information'],"['KNN', 'SVM']",IT
+10.1109/SCC.2016.105,[],"['Latent Factor Model (LFM)', 'Latent Interest and Topic Mining model (LITM)']",service recommendation
+10.1109/ICNSC55942.2022.10004090,['recommendation datasets'],['graph convolutional networks'],recommendation systems
+10.1609/aaai.v36i11.21501,"['62 key categories of products', 'more than 4 million products']",[],ecommerce
+10.1109/ISCC61673.2024.10733684,[],[],
+10.1109/ICERCS57948.2023.10433972,[],"['linear regression', 'random forests', 'k-nearest neighbors', 'outlier detection']",agriculture
+10.1007/978-3-030-30244-3_8,"['data set supplied by an European Telecommunication Operator, with two years of advertised campaigns to a specific group of clients, and more than forty-six million lines of raw data']",[],telecommunication
+10.53759/7669/jmc202404007,[],['machine learning algorithms'],electronics
+10.1038/s41598-024-79011-z,['Movielens 100k'],"['Collaborative Filtering (CF)', 'Neural Collaborative Filtering (NCF)', 'Recurrent Neural Networks (RNN)', 'Content-Based Filtering (CBF)', 'Term Frequency-Inverse Document Frequency (TF-IDF)', 'Cosine Similarity', 'Singular Value Decomposition (SVD)']",entertainment
+10.1109/ICPCSN62568.2024.00075,[],"['Machine Learning', 'semantic analysis']",education
+10.1109/ICEIB61477.2024.10602611,[],['machine learning'],entertainment
+10.1007/s10772-020-09703-0,[],[],mobile app recommendation
+10.1145/2556195.2556253,['Kiva.org data'],"['supervised learning', 'gradient boosting tree', 'joint nonnegative matrix factorizations']",micro-finance
+10.1109/ICAICST53116.2021.9497824,"['120 patient data', '10 other data']",['Particle Swarm Optimization (PSO)'],healthcare
+10.1609/aaai.v37i13.26911,"['AffectNet', 'Spotify']","['DRViT', 'InvNet50']",entertainment
+10.1007/978-3-030-23541-3_28,[],[],
+10.32629/jai.v6i1.593,[],"['Minits-AllOcc', 'MMinits-AllOcc']",transportation
+10.1109/ACCESS.2024.3357114,['40 million stock comments from the Guba platform'],"['Sentiment and Price Combined Model (SPCM)', 'BERT transformer models']",financial services
+10.1109/ECAI52376.2021.9515087,['screenshots and metadata of 12000 android apps'],"['CNN model architecture', 'Vgg16 ImageNet weights', 'Feature Extraction', 'Linear Regression']",entertainment
+10.1109/AICERA/ICIS59538.2023.10420055,[],"['deep reinforcement learning (DRL)', 'Markov decision process']",education
+10.1109/ICKII58656.2023.10332609,"['online sales data', 'user reviews']","['Latent Dirichlet Allocation (LDA)', 'various machine learning technologies']",ecommerce
+10.14257/ijmue.2014.9.5.32,[],[],
+10.1109/SMART55829.2022.10047397,[],[],
+10.3390/app12157369,"['MovieLens 20M', 'MovieLens Latest']","['deep learning', 'matrix factorization', 'multi-layer perceptron', 'Two-layer Matrix factorization and Multi-layer perceptron Neural Network (TMMNN)']",entertainment
+10.1109/CONECCT55679.2022.9865766,[],"['content based filtering', 'collaborative item-item filtering']",online market
+10.1109/TKDE.2021.3100564,"['USCFC', 'OTC']","['Factorization Machines', 'Neural Factorization Machines', 'Graph Bayesian Optimization', 'Graph-convolved Factorization Machine']",financial services
+10.1007/s10115-024-02218-z,['MovieLens dataset'],"['collaborative filtering (CF)', 'matrix factorization (MF)', 'neural network matrix factorization (NNMF)']",entertainment
+10.1109/ICITEED.2019.8929970,[],['collaborative filtering'],service-based companies
+10.1109/CINC.2009.219,[],"['user-based collaborative filtering', 'item-based collaborative filtering']",ecommerce
+10.1109/ICDMW.2015.139,"['multi-channel data set-online browse and purchase, and in-store purchase']","['learning to rank', 'minimizing rank loss', 'surrogate loss functions']",retail
+10.1007/978-981-16-7657-4_49,[],"['demographic filtering', 'content-based filtering', 'collaborative filtering', 'hybrid approach', 'item-based recommender', 'user-based recommender', 'LDA analysis', 'TF-IDF methods']",entertainment
+10.1109/ICCIKE51210.2021.9410768,['FER2013'],"['Convolutional Neural Network (CNN)', 'Recurrent Neural Network (RNN)']",entertainment
+10.1007/11893011_100,['Web log collected during the World FIFA Cup 1998'],"['clustering', 'associations', 'sequential pattern mining']",Web personalization
+10.1186/s13321-024-00805-4,[],"['multi-label classification', 'ranking model', 'hard negative sampling']",chemical synthesis planning
+10.1109/ICRAIE56454.2022.10054275,['MovieLens'],"['RBM', 'Autoencoder', 'DNN']",entertainment
+10.1007/s11518-022-5540-x,[],['Doc2vec'],knowledge payment
+10.4028/www.scientific.net/AMM.39.540,[],"['content-based filtering', 'collaborative filtering', 'association rule mining']",information overload
+10.1109/CEC48606.2020.9185893,"['dataset of approximately 120,000 article pairs']","['machine learning', 'AutoML']",scientific research
+10.1109/ICECA.2018.8474589,[],"['Ant Colony Optimization (ACO)', 'Genetic Algorithm (GA)']",travel
+10.1109/ICOEI51242.2021.9452960,[],"['Natural Language Processing (NLP)', 'data analysis', 'machine learning algorithms', 'sentimental analysis']",healthcare
+10.1109/ICECOME.2018.8644821,['real-world dataset'],"['multi-branch network', 'non-linear procedure', 'knowledge extraction']",recommendation system
+10.24138/jcomss.v14i4.602,[],"['Hybrid Discriminative Restricted Boltzmann Machines', 'Random Forest', 'SVM', 'DRBM']",ridesharing
+10.1016/j.simpat.2015.10.001,['real datasets'],['cluster based association rules mining'],web personalization
+10.1109/ICACCS51430.2021.9441762,[],['Data Mining algorithms'],ecommerce
+10.1109/ICSCEE.2018.8538403,[],"['multi-agent framework', 'sentiment analysis']",news recommendation
+10.1145/3589335.3648336,[],"['AutoML', 'neural architecture search', 'hyperparameter optimization', 'reinforcement learning']",ranking systems
+10.1109/ICDM.2011.150,['real-life data sets'],"['probabilistic modeling', 'collaborative filtering', 'estimation algorithm', 'parallelized algorithm using MapReduce']",social media
+10.1007/978-3-031-35989-7_19,[],"['natural language processing', 'machine learning']",design and computation workshops
+10.1109/INCET61516.2024.10593469,"['Western music datasets', 'Indian music datasets']",['Convolutional Neural Network (CNN)'],music genre classification
+10.12928/TELKOMNIKA.v20i4.23763,[],['machine learning (ML)-based recommendation system'],smart home systems
+10.1007/978-3-030-59419-0_38,['e-commerce data sets'],"['Deep Exposure-Aware Multimodal content-based Recommender (DEAMER)', 'multi-task learning']",ecommerce
+10.1109/Deep-ML.2019.00017,['standard data set'],['Generative Adversarial Network'],ecommerce
+10.1109/ISAECT.2018.8618761,"[""MOOC 'Back to English' (Ibn Tofail University, Kenitra, Morocco)""]","['unsupervised classification (clustering)', 'association algorithms', 'recommendation system']",online learning
+10.1007/978-3-031-56396-6_17,[],[],health
+10.1109/ACCESS.2018.2866880,['real networks'],"['bipartite networks', 'time window adjustment']",recommendation systems
+10.1088/1742-6596/1684/1/012081,['MovieLens 100K'],"['UT-CF', 'K-means clustering']",entertainment
+10.1145/3490422.3502359,[],['sampling-based GNN training algorithms'],recommendation systems
+10.1145/3487572.3487599,['1 billion data points from Twitter'],"['Efficient Manifold Density Estimator (EMDE)', 'Locality Sensitive Hashing', 'Fourier Feature Encoding', 'residual feed-forward neural network']",social media
+10.1007/s42452-020-3046-z,[],"['Case Based Reasoning', 'Clustering', 'association rules mining', 'Apriori algorithm']",web personalization
+10.1109/ICCIT60459.2023.10441498,['250-300 songs (in .MP3 format) for each genre'],"['Principal Component Analysis', 'K-Fold', 'WaveNet']",music
+10.1007/978-981-15-8083-3_38,['Movielens data set'],"['Spark Streaming', 'online stream computing']",entertainment
+10.1109/ICICI62254.2024.00084,[],"['content-based filtering', 'collaborative filtering', 'KNN']",ecommerce
+10.1109/ICICT4SD50815.2021.9396882,"['4,16,289 news articles', '4,302 unique labels']","['ML-KNN', 'Neural Network', 'Count Vectorizer']",news articles recommendation
+10.15587/1729-4061.2019.175507,['MovieLens'],"['Collaborative Filtering (CF)', 'Content-Based Filtering (CBF)', 'hybrid methods', 'Machine Learning (ML)', 'hybrid recommendation system (HRS)']",entertainment
+10.1109/ACCESS.2020.2983583,[],"['deep learning', 'multi-modal embedding', 'attention mechanisms']",social media
+10.1109/ICCITechn.2014.7073094,[],"['collaborative filtering', 'novel algorithm']",entertainment
+10.1088/1742-6596/1744/3/032111,['Web log file'],"['New-Apriori algorithm', 'Fp-growth algorithm', 'personalized recommendation algorithm']",personalized recommendation system
+10.1007/978-3-031-23724-9_33,"['leaf dataset', 'pest dataset']","['Convolutional Neural Network (CNN)', 'Inception V3', 'MobileNet V2', 'EfficientNet_lite1', 'ResNet50']",agriculture
+10.1109/SNAMS.2018.8554909,[],['Apriori algorithm'],requirements engineering
+10.1109/CSCI46756.2018.00185,['Porto points of interest'],"['iterative branch-and-bound based process', 'sequential addition of the nearest feasible sub-route']",tourism
+10.1145/3688351.3689155,[],"['deep learning recommendation models', 'temporal-aware memory system optimization', 'replacement policy', 'vector grouping']",data centers
+10.5750/ijme.v1i1.1347,[],['Gradient Probabilistic Automated Recommender System with Machine Learning (GPA-RS-ML)'],fitness
+10.1016/j.jksuci.2022.12.017,"['Mozilla', 'Eclipse', 'Firefox', 'JBoss', 'OpenFOAM']","['Ant colony optimization (ACO)', 'SVM', 'NB', 'C4.5']",software engineering
+10.1109/JSYST.2020.3019368,[],"['matrix factorization', 'singular value decomposition (SVD)']",big data management
+10.1007/s11042-021-11544-1,[],"['machine learning-based RS models', 'bipartite relationship', 'inversion similarity concept', 'cluster analysis']",entertainment
+10.1145/3442381.3449787,[],"['machine learning based model', 'mathematical programming', 'recommender system', 'online algorithm']",food waste and insecurity
+10.1109/ICEACE60673.2023.10442629,[],"['Word2Vec', 'RNN', 'SimpleRNN', 'CNN']",travel
+10.1609/hcomp.v1i1.13100,[],[],ecommerce
+10.3389/fninf.2022.997282,[],[],music

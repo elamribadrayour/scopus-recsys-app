@@ -1,0 +1,101 @@
+DOI,datasets,algorithms,application
+10.3390/electronics11030400,['Avazu dataset'],"['deep learning', 'factorization machines']",internet advertising
+10.1109/ICDT61202.2024.10489293,['product dataset'],"['machine learning algorithms', 'collaborative filtering']",ecommerce
+10.1109/ITAIC49862.2020.9339083,[],"['KMFSCF', 'K-means', 'Funk-SVD', 'collaborative filtering']",ecommerce
+10.3233/978-1-61499-927-0-653,[],[],
+10.1109/ICECE59822.2023.10462284,[],"['multi-scale clothing image landmark area positioning algorithm based on YOLOv3', 'Delete Common Features (DCF) algorithm', 'Combine Feature Descriptors (CFD) algorithm', 'multi-scale convolutional neural networks (MCSF)']",clothing style recommendation
+10.1109/ICSCT53883.2021.9642580,['Deskdrop dataset'],"['Popularity-based filtering', 'Content-based filtering', 'Collaborative filtering', 'textual clustering']",business
+10.1109/ICDM50108.2020.00088,[],[],
+10.1109/ICCCNT61001.2024.10724650,[],[],
+10.1109/ICCMC56507.2023.10083728,['dynamic dataset'],"['classification algorithms', 'Logistic Regression', 'Support Vector Machine', 'Naive Bayes', 'Decision Tree', 'Random Forest']",job recommendation
+10.1016/j.aej.2023.09.046,[],"['distrust-based recommendation system', 'Social Contact Similarity mechanism']",home automation
+10.1007/s11042-024-19555-4,"['twitter dataset of 1.6 million data consisting of general tweets on various domains with 800,000 POSITIVE and 800,000 NEGATIVE sentiments']","['Recurrent Neural Network (RNN)', 'Bi-directional RNN', 'Long Short-Term Memory (LSTM)']",social media
+10.1177/01655515231176668,"['real data from conferences', 'bibliographic databases', 'online academic search engines']","['decision support systems', 'recommendation systems', 'machine learning-oriented approaches', 'heuristics', 'metaheuristics', 'deep neural networks']",academic
+10.1145/2507157.2507219,['1766 Sina micro blog users'],['machine learning algorithms'],social media
+10.1177/1367549415577387,['The Echo Nest'],['data mining techniques'],entertainment
+10.1109/ICCUBEA.2018.8697492,[],['fuzzy inference engine'],web usage mining
+10.31838/ijpr/2020.12.01.226,[],[],social media
+10.1007/978-3-031-49039-2_13,[],[],ecommerce
+10.1109/AISP.2011.5960971,[],"['distributed learning automata', 'graph partitioning', 'Hebbian algorithm']",web mining
+10.3389/fpsyg.2020.01346,[],"['probability matrix factorization (PMF)', 'deep belief network (DBN)']",entrepreneurship education
+10.1145/3523227.3547417,[],[],ecommerce
+10.1109/ICAISS58487.2023.10250531,['Crop Recommendation Dataset from Kaggle'],"['XG-Boost classification model', 'seven machine learning models']",agriculture
+10.1109/JSAC.2011.110808,['Dshield'],"['multi-level prediction model', 'neighborhood models', 'singular value decomposition']",cybersecurity
+10.1109/AICCSA50499.2020.9316466,['Linked Open Data (LOD)'],"['content-based recommender', 'vector space model', 'deep learning', 'semantic-aware content-based recommendation', 'BERT (Bidirectional Encoder Representations from Transformers)']",entertainment
+10.1117/12.3034062,[],"['Transformer pre-training model', 'personalized recommendation system']",ecommerce
+10.1109/TrustCom56396.2022.00153,[],"['X-armed bandits', 'Multi-armed bandits (MAB)', 'lower bound tree (LBT)', 'high confidence tree (HCT)', 'RoHCT']",personalized recommendation system
+10.1007/978-981-99-5847-4_14,[],"['deep reinforcement learning', 'self-attention mechanisms', 'graph neural collaborative filtering', 'implicit feedback transformation']",ecommerce
+10.1007/978-3-319-13186-3_24,[],['product recommendation algorithm'],ecommerce
+10.1109/ICIRCA51532.2021.9545053,[],['Graph Neural Networks (GNN)'],ecommerce
+10.56977/jicce.2022.20.4.288,[],['deep learning'],media
+10.1109/ICSINTESA62455.2024.10747875,"['data collected from a university in A', ""information on employees' abilities"", 'performance', 'psychometric aspects']",['Support Vector Machine (SVM)'],talent management
+10.1109/VLSI-SoC57769.2023.10321838,[],"['graph neural networks', 'recommendation systems']",
+10.14569/IJACSA.2023.0140696,[],"['deep learning', 'collaborative filtering', 'neural matrix decomposition', 'neural network']",education
+10.1109/ICMLA55696.2022.00111,[],[],
+10.32473/flairs.36.133375,[],[],recommendation systems
+10.1016/j.ins.2020.03.062,['public datasets'],"['collaborative filtering', 'matrix decomposition', 'deep neural networks', 'deep alliance neural network', 'deep series network (DSN)', 'deep parallel network (DPN)', 'deep random network (DRN)', 'Multi-Layer Perceptron (MLP)', 'fusion model SMLP']",recommendation
+10.1109/ICECAA55415.2022.9936103,[],"['Relevance Vector Analysis', 'machine learning']",agriculture
+10.1109/ICSPIS57063.2022.10002437,['real and simulated datasets'],"['machine learning algorithms', ""K-neighbors neighbors' algorithm""]",energy consumption reduction behaviors in residential buildings
+10.1145/3383313.3411524,['standard recommendation datasets'],"['BETA-Rec', 'deep learning techniques', 'recommender models']",ecommerce
+10.1016/j.neucom.2024.127417,[],['Adaptive Meta-Optimization (AdaMO)'],recommendation systems
+10.1109/CIE.2002.1185862,[],['web mining techniques'],e-learning
+10.1007/978-3-031-26384-2_7,['El País newspaper articles'],"['K-means clustering', 'deep neural network']",entertainment
+10.1109/ISIC.2012.6449721,[],[],Location-Based Services
+10.1080/00051144.2024.2318168,['UN SDG datasets'],"['Cat Swarm Optimization', 'Feed Forward Extreme Learning Machines']",health and education
+10.1109/ITAIC.2019.8785589,[],"['collaborative filtering', 'SGNS', 'f-item2vec']",ecommerce
+10.1016/j.iedeen.2023.100223,"['Spanish innovation barometer survey (N = 3,005)']",['non-metrical multidimensional scaling (NMDS)'],AI-based products
+10.1145/2792838.2796546,[],"['unsupervised deep learning', 'latent context recommendation', 'dimensionality reduction']",context-aware recommendation systems
+10.1109/ICMLC.2015.7340611,"['Movielens (100k)', 'Movielens (1M)']","['collaborative filtering', 'biclustering algorithms', 'Bimax', 'Order-Preserving Submatrix', 'Root mean square error (RMSE)', 'Mean absolute error (MAE)']",entertainment
+10.1016/j.knosys.2014.01.008,[],"['multi-instance learning', 'Rocchio classifier']",web index recommendation
+10.1007/978-3-642-28658-2_83,[],[],ecommerce
+10.3390/app13031510,['real datasheet'],"['clustering models', 'machine learning algorithms']",transportation
+10.1109/CITISIA50690.2020.9371817,[],"['Autoencoder', 'unsupervised machine learning', 'rating prediction algorithm']",ecommerce
+10.1145/3579371.3589351,[],[],recommendation systems
+10.1016/j.infsof.2022.107037,[],[],
+10.1145/3123266.3127938,[],['deep neural networks'],entertainment
+10.1007/978-3-030-46133-1_30,[],"['matrix factorization', 'LDA', 'SPPMI matrix factorization']",entertainment
+10.3390/app11083719,[],"['Collaborative Filtering (CF)', 'k-recursive reliability-based imputation (k-RRI)']",entertainment
+10.1007/978-3-031-21707-4_41,[],"['hybrid recommendation system', 'conversational AI']",knowledge work
+10.1109/AIKE55402.2022.00007,[],"['SimE4KG', 'distributed approach using Apache Spark']",data analytic pipelines
+10.1117/12.3026953,[],"['collaborative filtering', 'DeepFM', 'NeuMF']",internet learning
+10.1007/s40747-023-01191-4,"['Tripadvisor', 'Yelp']","['Neural Network', 'Long Short-Term Memory (LSTM)', 'Bidirectional Encoder Representations from Transformer (BERT)']",tourism
+10.1109/CAI59869.2024.00069,['benchmark datasets'],['multi-layer perceptron (MLP)'],recommendation systems
+10.1016/j.ins.2020.02.073,[],"['evolutionary computation-based ARM', 'evolution-based approaches', 'swarm intelligence-based approaches', 'physics-inspired approaches', 'hybrid approaches']",recommendation systems
+10.1109/CAST.2016.7914968,[],['biclustering'],ecommerce
+10.1016/j.cels.2019.11.006,[],['automated metabolic model ensemble-driven elimination of uncertainty with statistical learning (AMMEDEUS)'],biochemical knowledgebases
+10.1109/PlatCon.2016.7456777,[],"['Tf-idf', 'LDA']",human-robot interaction
+10.1109/ICICT57646.2023.10134234,[],"['TF-IDF', 'cosine similarity']",education
+10.1109/ICETET-SIP58143.2023.10151584,[],"['machine learning', 'recommendation system']",charity
+10.1109/ICISSGT52025.2021.00015,['Amazon-ratings dataset'],"['Collaborative Filtering', 'K-Means clustering']",ecommerce
+10.1007/s41060-023-00467-9,[],"['Transfer Learning', 'Deep Neural Networks']",medical
+10.1007/978-3-030-82153-1_40,['three real-world datasets'],"['Enhanced Multi-source Review-based Model (EMRM)', 'Ordered-Neurons Long Short-Term Memory (ON-LSTM)']",recommendation systems
+10.1080/09720529.2018.1526408,[],"['hybrid recommendation algorithm', 'content based recommendation algorithm', 'item based collaborative filtering recommendation algorithm', 'demography based recommendation algorithm']",ecommerce
+10.17323/2587-814X.2022.2.21.35,['unique database collected as part of its implementation consisting of educational tasks for soft skills development plus data on their implementation by users with different soft skills profiles'],"['matrix factorization', 'neural networks']",education
+10.1145/3639567,['real-world datasets'],"['Cross-Domain Evolution Learning Recommendation (CD-ELR)', 'matrix factorization', 'recurrent neural network']",ecommerce
+10.1016/B978-0-32-385708-6.00015-1,[],[],
+10.1109/BigData52589.2021.9671789,[],"['Matrix Factorization', 'Federated Learning', 'Homomorphic Encryption']",supply chain automation
+10.1145/3631700.3665229,[],"['knowledge graph-based recommendation', 'clustering-based community generation']",e-learning
+10.1109/ICCMC48092.2020.ICCMC-00022,[],[],tourism
+10.1007/s40747-021-00274-4,['MovieLens'],"['collaborative filtering', 'matrix factorization', 'Stacked Denoising Auto Encoder', 'Gated Recurrent Unit', 'attention mechanism']",entertainment
+10.1109/ICCAKM58659.2023.10449612,[],[],
+10.1088/1367-2630/ad15b4,[],"['collaborative filtering', 'quantum eigensolver']",entertainment
+10.1142/S0219649224500187,"['multi-domain datasets', 'four benchmark sentiment analysis datasets', 'song datasets']","['Bidirectional Long Short-Term Memory (BiLSTM) Network', 'Bidirectional GRU Network (BiGRU)']",sentiment analysis
+10.1007/978-3-642-33078-0_22,[],"['Collaborative Filtering', 'Restricted Boltzmann Machine', 'RBM-CF']",ecommerce
+10.1007/978-3-031-69986-3_20,[],"['XG Boost', 'Support Vector Machine (SVM)', 'Decision Tree']",agriculture
+10.1109/ICCSP60870.2024.10544269,['a sizable dataset of medical records'],['K-means clustering'],medical
+10.1145/3604915.3608784,['four real-world datasets'],"['Distributionally Robust Optimization (DRO)', 'hard clustering technique']",recommender systems
+10.1007/978-3-031-40289-0_25,[],"['deep reinforcement learning', 'graph attention network', 'multi-layer attention social recommendation']",entertainment
+10.1007/s13198-023-02024-w,[],['collaborative recommendation algorithm'],financial services
+10.1109/ICCICT50803.2021.9509938,[],['Natural Language Processing'],ecommerce
+10.1109/SKG.2016.024,['tourism datasets'],"['Slope One', 'SVD', 'Weight Slope One', 'Item-Item', 'User-User']",tourism
+10.1016/B978-0-443-13185-1.00013-7,[],[],
+10.1007/978-981-97-6103-6_18,[],"['Random Forest', 'Decision Trees', 'Naive Bayes']",agriculture
+10.1109/ACCESS.2023.3289751,"['IMDb', 'Yelp2013', 'Yelp2014']","['Hybrid Neural Collaborative Filtering (HNCF)', 'Hierarchical User Attention', 'Hierarchical Product Attention', 'Deep Collaborative Filtering', 'Neural Sentiment Classifier', 'Deep Multivariant Rating']",ecommerce
+10.1007/978-3-319-57454-7_15,"['NUS-WIDE', 'Flickr-PTR']",['Convolutional Neural Networks (CNNs)'],social media
+10.1007/s10489-021-02911-4,['curated dataset'],['EvoPlan'],software development
+10.1145/3003733.3003805,[],"['TF-IDF', 'collaborative filtering', 'content-based filtering', 'graph based analysis']",academic research
+10.1109/ICIS.2016.7550752,[],"['collaborative filtering', 'content filtering']",entertainment
+10.3390/educsci12080567,[],"['recommendation algorithm', 'machine learning techniques']",e-Learning
+10.1109/CIACT.2018.8480264,[],[],social media
+10.1109/CONISOFT52520.2021.00038,[],[],
+10.35940/ijrte.B1009.0782S419,[],[],internet

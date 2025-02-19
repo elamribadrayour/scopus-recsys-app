@@ -1,0 +1,51 @@
+DOI,datasets,algorithms,application
+10.1609/aaai.v33i01.3301338,['off-line data set'],"['Click-Through Rate Prediction (CTR)', 'Conversion Rate Prediction (CVR)', 'Gradient Boosting Decision Trees (GBDT)', 'multiLevel Deep Cascade Trees (ldcTree)', 'Ensemble ldcTree (E-ldcTree)', 'Feature learning method based on EldcTree (F-EldcTree)']",ecommerce
+10.1016/j.cmpb.2023.107536,"['publicly available dataset of 45,723 recipes', '12 synthetic datasets about as many imaginary users', '6 experts’ prescriptions']","['neural networks (NN)', 'CART', 'logic solvers']",nutritional
+10.1007/978-3-319-07064-3_51,[],"['co-occurrence', 'adjacency', 'Variable-length Markov Models (VMM)']",web search
+10.3389/fgene.2018.00248,['adverse drug reaction (ADR) data'],"['metapath2vec', 'metapath2vec++', 'skip-gram model', 'kernelized Bayesian matrix factorization', 'Katz', 'CATAPULT', 'matrix factorization']",biomedical research
+10.11591/ijai.v13.i1.pp610-618,[],"['deep learning', 'learning-rates-based prediction']",ecommerce
+10.1109/ICIPTM59628.2024.10563840,['survey responses'],[],fashion
+10.1007/978-3-031-35783-1_6,['two publicly available datasets'],"['deep learning techniques', 'convolutional recurrent neural network', 'convolution neural network', 'weighted matrix factorization']",music
+10.1109/ACCESS.2020.3035162,[],"['score prediction algorithm', 'deep learning', 'matrix factorization', 'MF-NeuRec', 'user-based NeuRec', 'item-based NeuRec', 'matrix decomposition']",information retrieval
+10.1145/3568199.3568205,[],"['FNN', 'attention mechanism', 'TRM model']",entertainment
+10.1007/978-981-15-0094-7,[],[],Recommendation Systems
+10.1007/978-3-031-56066-8_29,[],"['neural ranking models', 'learning-to-rank (LTR)', 'TabNet', 'G-L2x', 'feature selection methods']",recommendation systems
+10.14257/ijsia.2016.10.2.37,[],"['web data mining', 'deep neural network', 'parallel data mining algorithm']",recommendation system
+10.1155/2021/5564326,[],"['Apriori algorithm', 'decision tree method']",university library
+10.1016/j.procs.2015.03.086,['real time E commerce data'],"['action based rational recommendation technique', 'user based techniques', 'product based techniques']",ecommerce
+10.1016/j.patcog.2023.109637,[],"['matrix completion', 'weighted rank-one matrix pursuit']",recommendation system
+10.1016/j.jocs.2018.03.010,[],['long short-term memory (LSTM)'],traffic management
+10.1109/ICSD60021.2024.10750996,[],[],entertainment
+10.1007/978-3-030-66103-8_5,['millions of customers and articles'],['attention-based deep learning model'],ecommerce
+10.1007/978-981-97-7235-3_2,['three real-world datasets'],"['Adaptive Augmentation and Neighbor Contrastive Learning (AANCL) framework', 'clustering algorithms']",recommendation systems
+10.1007/978-3-031-51167-7_56,['FER 2013'],"['Resnet50', 'CNN']",music
+10.1142/S1793351X23600012,[],"['semantic similarity estimation', 'distributed approach using Apache Spark']",recommendation systems
+10.1109/FUZZ-IEEE.2014.6891655,[],"['collaborative filtering', 'association analysis']",ecommerce
+10.1109/TCSS.2024.3446289,['three public datasets'],"['multitask learning (MTL)', 'relation attention mechanism', 'lightweight graph convolutional network']",recommendation
+10.1609/aaai.v36i11.21651,"['MovieLens 1m', 'MovieLens 20m']","['GRU4Rec', 'BERT']",entertainment
+10.1145/2072298.2072389,[],[],social media
+10.1007/978-3-031-01942-5_3,['Food.com Recipes and Interaction'],"['RNN classification', 'SemantoSim', 'Kullback-Leibler divergence', 'Shuffled Frog-Leaping algorithm']",culinary
+10.1007/s40846-024-00922-3,['Stroke Analysis dataset'],"['CatBoost classifier', 'SHAP explainer']",healthcare
+10.1109/ICSSAS64001.2024.10760516,[],"['EfficientNetB0', 'Annoy (Approximate Nearest Neighbors Oh Yeah)']",ecommerce
+10.1145/2487788.2488151,['MovieLens'],"['personalized recommendation system', 'grouping users with equivalent profiles']",entertainment
+10.1109/ICDMW.2019.00076,[],['network mining algorithms'],geographic information retrieval
+10.1109/TCE.2023.3342187,[],"['federated learning', 'game-based incentive mechanism algorithm (GIMA)']",consumer electronics
+10.1007/978-3-030-65411-5_4,[],[],
+10.1007/978-981-97-5588-2_6,['three public datasets'],"['Graph Collaborative Filtering (GCF)', 'Graph Contrastive Learning (GCL)', 'MessageDropout', 'MDGCL']",ecommerce
+10.1007/978-3-030-62365-4_21,[],['artificial neural networks'],social media
+10.1109/IAAI51705.2020.9332829,[],"['collaborative filtering', 'recommendation ranking weighting']",web information recommendation
+10.1016/j.jnlest.2024.100262,['two public datasets'],"['collaborative filtering', 'joint random walk', 'recommendation list optimization']",online learning
+10.1145/3308557.3308696,[],['machine learning algorithms'],workplace
+10.3390/admsci14060128,[],"['cluster analysis', 'machine learning algorithms']",sustainable tourism
+10.1007/978-3-031-25088-0_58,['two real-world datasets'],"['RBM', 'restricted Boltzmann machines (RBM)']",group event recommendations
+10.4018/9798369355930.ch013,[],[],
+10.1007/s42979-023-01995-8,[],"['Machine Learning', 'ensemble model', 'majority voting']",agriculture
+10.1007/978-3-031-15743-1_35,['Resilient Distributed Datasets (RDD)'],['Alternating Least Square (ALS)'],pharmaceutical
+10.1136/eb-2017-102688,['861 labelled electronic medical records (EMRs) documents'],"['deep neural network', 'brute force search', 'neural network algorithms']",research recruitment in youth depression
+10.1109/ACCESS.2019.2934633,[],"['model-based collaborative filtering', 'latent factor models']",online platforms
+10.5815/ijieeb.2024.06.06,"['individual datasets regarding temperature, PH and Turbidity']","['machine learning algorithms', 'Random Forest']",aquaculture
+10.5373/JARDCS/V12SP3/20201399,[],[],
+10.1109/ACAIT56212.2022.10138008,[],"['hybrid recommendation algorithm', 'collaborative filtering', 'tag recommendation algorithm']",music education
+10.1007/978-3-319-31753-3_41,['hotel reservation data'],"['Bayesian Personalized Ranking (BPR)', 'Implicit Matrix Factorization']",ecommerce
+10.1109/CSDE59766.2023.10487679,"['Flipkart dataset of over 13,000 smartphone reviews']","['ensemble voting methods', 'TF-IDF']",ecommerce
+10.1109/ICCD58817.2023.00083,[],"['graph neural networks (GNNs)', 'digital-PIM architecture', 'data-layout optimizations']",recommendation system

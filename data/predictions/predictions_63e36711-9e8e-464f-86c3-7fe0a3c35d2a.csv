@@ -1,0 +1,101 @@
+DOI,datasets,algorithms,application
+10.1109/SITA.2013.6560804,['hotel reviews'],"['Multinomial Naïve Bayes', 'Text Classification techniques']",entertainment
+10.3233/JIFS-213422,[],"['Enhanced Personalized Best Cuckoo Search Algorithm (EpBestCSA)', 'Enhanced Harris Hawks Optimization Algorithm (EHHOA)', 'Deep Semantic Structure Model (DSSM)', 'Artificial Neural Network (ANN)', 'Convolutional Neural Network (CNN)']",e-learning
+10.1007/978-3-030-85030-2_39,[],"['metalearning', 'unsupervised correlation-based feature selection']",machine learning
+10.1016/B978-0-323-90550-3.00014-X,[],"['cascaded autoencoder', 'convolutional neural network', 'stacked autoencoder']",agriculture
+10.24247/ijmperdjun20198,[],[],
+10.1609/aaai.v33i01.33011036,['large-scale map query data'],"['joint representation learning', 'anchor embedding']",transportation
+10.1109/ACCESS.2021.3067901,[],"['GSE (Graph Summarization Embedding)', 'skip-gram', 'K_Means Clustering', 'Affinity Propagation Clustering', 'Canopy Clustering', 'ACP Clustering']",recommendation systems
+10.3233/FAIA190241,[],"['empirical mode decomposition (EMD)', 'long short term memory (LSTM)', 'collaborative filtering']",web services
+10.1007/s42979-023-01870-6,['dataset of recipes including food and images'],"['deep learning', 'rule-based approach']",food recipes
+10.1109/CONECCT55679.2022.9865785,"['fruit360', 'custom fruit dataset']","['deep learning', 'YoloV3', 'inceptionNet V3', 'MobileNet V2', 'Neural network classifier']",agriculture
+10.1155/2022/1013997,[],[],music
+10.1049/csy2.12095,['two common datasets'],"['tag recommendation systems', 'tensor decomposition methods', 'recommendation methods by autoencoders', 'deep feature fusion tag (DFFT)', 'stacked denoising autoencoders']",ecommerce
+10.1007/978-3-540-36841-0_816,['Framingham Heart Study'],['rule based clinical decision support'],health
+10.1007/s11042-020-10381-y,[],"['deep learning', 'convolutional neural networks (CNNs)', 'recurrent neural networks (RNNs)', 'multitask learning']",music
+10.1145/3383812.3383839,[],['collaborative filtering'],training
+10.1186/s13634-023-01027-w,['recommender system datasets'],"['low-rank matrix completion', 'truncated schatten 2/3-norm', 'fast and efficient algorithm']",recommendation systems
+10.14733/cadaps.2024.S21.166-180,[],"['big data-driven machine learning techniques', 'customized recommendation system', 'traditional recommendation methods']",digital media art
+10.1155/2022/1879367,"['Yoochoose1/64', 'Yoochoose1/4', 'RetailRocket']","['GNN', 'time-aware memory networks', 'session-based recommendation model', 'inner feature extraction module (IFEM)', 'outer feature extraction module (OFEM)', 'gating mechanism', 'softmax layer']",ecommerce
+10.1109/ICTBIG59752.2023.10456003,[],"['deep learning', 'neural network']",personalized content recommendations
+10.1007/s13042-023-01868-9,['Amazon datasets'],"['Adversarial Multimedia Ranking (AMR)', 'Visual Bayesian Pairwise Ranking (VBPR)', 'Adversarial Dynamic Collaborative Filtering (ADCF)', 'minimax adversarial learning']",entertainment
+10.1109/ISCID.2016.2094,[],"['collaborative filtering', 'MapReduce', 'inverted index technique', 'soft matching strategy', 'co word analysis']",E-commerce
+10.1109/JCSSE54890.2022.9836311,"['60,000 issue reports']","['Binary Relevance (BR)', 'machine learning techniques']",software development
+10.1109/InCACCT61598.2024.10551254,[],"['Content-Based Association Clustering', 'clustering', 'association rule tactics']",ecommerce
+10.1007/s00500-024-10329-6,[],"['KNN', 'NLP', 'knowledge graph technique']",education
+10.23919/FRUCT52173.2021.9435533,[],"['acoustic features analysis', 'deep learning', 'computer vision methods']",entertainment
+10.1109/CONIT61985.2024.10626458,[],['content-based filtering'],cosmetics
+10.1109/ISCON52037.2021.9702392,[],['SVM (Support Vector Machine)'],agriculture
+10.1145/1655925.1656073,[],['clustering algorithm'],commercial
+10.1109/ICNISC.2017.00048,[],['Collaborative Recommendation algorithm Based on Semi-Supervised Learning (SSLCF)'],entertainment
+10.1007/978-3-031-24340-0_13,[],"['Convolutional Neural Network (CNN)', 'Long Short Term Memory (LSTM)', 'probabilistic model']",medical
+10.1145/3339311.3339346,[],"['neural network', 'Bayesian network', 'clustering', 'classification']",medical
+10.1109/TCE.2023.3324009,['Flickscore dataset'],"['Multi-head cross-attention', 'classification-based model', 'keyframes extraction techniques']",entertainment
+10.23919/CCC50068.2020.9189600,['FER2013'],"['content-based music recommendation algorithm', 'cosine similarity algorithm']",music
+10.1007/978-981-97-3324-8_50,"['movies', 'books', 'online courses', 'music']","['graph neural network', 'graph attention network']",entertainment
+10.1016/j.susoc.2021.11.001,[],['Random Forest Classifier'],job portal
+10.1145/3512767,[],"['Maximum Inner Product Search (MIPS)', 'Nearest Neighbor Search (NNS)', 'graph-based methods', 'reinforcement learning', 'imitation learning']",recommendation systems
+10.1142/S0218001420510040,['Fashion-MNIST'],"['random-forest method based on genetic algorithm (GA-RF)', 'Visual Geometry Group-Image Enhancement algorithm (VGG-IE)', 'Deep Neural Network architectures']",ecommerce
+10.1115/DETC2021-69462,[],"['GraphSAGE', 'Exponential Random Graph Model']",automotive
+10.1016/j.bdr.2015.02.002,[],"['recommendation system', 'deep learning', 'network Analysis']",healthcare
+10.14569/IJACSA.2021.0120138,['ContextAct@A4H'],['deep one-dimensional convolutional neural network (Deep 1d-CNN)'],smart homes
+10.1007/978-3-030-75765-6_44,[],"['Collaborative Filtering', 'One-Class Collaborative Filtering (OCCF)', 'Unknown Item Rejection Framework (UKIRF)', 'TF-IDF', 'Cosine']",recommender systems
+10.1038/s41598-022-13206-0,[],['Matrix Completion (MC)'],economic complexity
+10.1109/TAAI.2010.23,[],"['popularization-based', 'community filtering', 'demographic profiling', 'expertise-based', 'association rules', 'clustering']",cultural heritage
+10.1109/ICETCS61022.2024.10543647,[],"['CNN', 'RNN']",music
+10.1007/978-981-99-6544-1_4,[],['deep learning'],ecommerce
+10.3745/JIPS.2013.9.3.435,[],['collaborative filtering'],recommendation
+10.1109/ACCESS.2024.3442085,[],"['Particle Swarm Optimization (PSO)', 'Deep Reinforcement Learning (DRL)', 'neural networks', 'decision trees', 'support vector machines', 'predictive modeling', 'clustering', 'recommendation systems']",product design
+10.1145/3578527.3578533,[],[],
+10.1109/INVENTIVE.2016.7824800,[],"['support vector machine (SVM)', 'mel-frequency cepstral coefficients (MFCC)']",music
+10.1109/FIE58773.2023.10343248,"['Institute of Electrical and Electronic Engineers (IEEE)', 'Scopus', 'Association for Computing Machinery (ACM)', 'Science Direct']","['conversational agents', 'chatbots', 'educational recommendation systems (ERS)']",education
+10.1145/3341069.3342983,[],"['Matrix Factorization', 'Metric Factorization', 'blending', 'linear regression']",entertainment
+10.3844/JCSSP.2020.1163.1171,['user events'],"['AdaBoost', 'decision tree', 'machine learning algorithms']",ecommerce
+10.1109/ACCESS.2023.3310816,['two public datasets'],"['contrastive learning', 'item relation learning', 'hierarchical contrastive learning']",personalized recommendation
+10.1109/ICDMW.2012.113,['1.7 million reviews'],"['matrix factorization', 'sentiment analysis algorithm', 'multiple Bernoulli classification']",ecommerce
+10.1109/INCITE.2016.7857591,[],['AdaBoost'],ecommerce
+10.1109/ICDE.2005.253,[],['Order-Preserving Submatrix (OPSM)'],recommendation systems
+10.1109/ACCESS.2024.3439775,['China AI and Law (CAIL) competition dataset'],"['BERT', 'dual-channel similar text-matching', 'global attention', 'self-attention']",Legal Judgment Prediction (LJP)
+10.2478/amns.2023.2.00454,[],"['collaborative filtering', 'enhanced algorithm of cooperative filtering']",education
+10.1590/1807-0310/2021V33227258,[],[],entertainment
+10.12785/ijcds/150132,[],"['transformer-based intelligent deep neural network (DNN)', 'data preprocessing']",recommendation systems
+10.1155/2022/1424097,"['global travel data', 'personal travel data', 'expenditure data']","['collaborative mining and filtering process (CMFP)', 'knowledge-based transfer learning']",tourism
+10.25103/jestr.171.03,"['benchmark data', 'real-time data from the Mamaearth website']","['logistic regression', 'random forest classifier', 'XGBoost classifier', 'CatBoost classifier', 'collaborative filtering', 'user based recommendation model', 'item-based recommendation model']",ecommerce
+10.1109/BDAI62182.2024.10692416,[],"['partial least squares method (PSL-SEM)', 'iterative algorithms']",social media
+10.1109/STI59863.2023.10464865,[],"['Decision Tree', 'Random Forest', 'Bagging Classifier', 'Extra Trees Classifier', 'Naive Bayes', 'K-Nearest Neighbor']",agriculture
+10.1109/BigComp54360.2022.00063,['6 months of product view data'],"['TF-IDF', ""embedding-based 'People Who Viewed This Product Also Viewed These Products' recommendation""]",ecommerce
+10.26599/BDMA.2024.9020009,[],"['user and item similarity based methods', 'hybrid and combined approaches', 'deep learning and algorithmic methods', 'mathematical modeling methods']",recommendation systems
+10.1016/j.procs.2024.08.088,['food logging dataset'],['neural networks'],nutrition
+10.1109/ICISCT52966.2021.9670009,[],[],education
+10.1504/IJWET.2004.006267,['MovieLens'],"['fuzzy logic', 'distributed collaborative filtering']",entertainment
+10.1109/ICSPCom.2016.7980578,['MovieLens Dataset'],"['Collaborative filtering', 'Content based filtering', 'Knowledge based filtering', 'Hybrid approach']",entertainment
+10.1088/1742-6596/1487/1/012019,[],['Node2vec'],medical
+10.1109/ACCESS.2024.3487288,[],[],
+10.1016/j.knosys.2013.04.015,[],"['Simple K-means', 'Apriori']",education
+10.1145/3523227.3547418,[],['Reinforcement Learning'],ecommerce
+10.1007/978-3-031-46674-8_30,['two real-world datasets'],"['KGAT', 'UKGAT']",recommendation systems
+10.1109/ICECDS.2017.8389928,[],"['ensemble of item-based recommendation systems', 'hybrid-based recommendation systems', 'Hadoop algorithms']",entertainment
+10.1016/j.artmed.2017.03.002,['dataset collected from a popular online health social website'],"['local and global structural approaches', 'content-based approach', 'hybrid method']",healthcare
+10.1007/s11761-024-00409-8,"['Douban', 'Yelp']","['MSAKR', 'word2vec']",entertainment
+10.1145/3366424.3383110,[],[],recommendation systems
+10.1016/j.ins.2013.04.017,[],"['graph theory', 'cliques']",education
+10.1007/s10639-020-10241-0,[],[],
+10.1145/3452296.3472904,[],['OmniReduce'],recommendation systems
+10.1109/WTS.2018.8363939,['VComic'],"['collaborative filtering', 'Restricted Boltzmann Machine', 'artificial neural network']",ecommerce
+10.1109/ICCCI56745.2023.10128450,['large dataset of movie reviews'],[],movie recommendation systems
+10.1109/ICTAI.2018.00036,[],['modified random walk algorithm'],entertainment
+10.1145/3289600.3291005,"['synthetic datasets', 'seven real-world datasets']","['Clustered Monotone Transforms for Rating Factorization (CMTRF)', 'matrix factorization regression']",recommendation systems
+10.1109/ICCAIS48893.2020.9096832,[],[],
+10.1007/s13278-016-0370-9,"['participant-labeled Facebook dataset', 'real policy dataset extracted using the Facebook API']","['iterative semi-supervised learning', 'active learning', 'random walk-based approaches', 'collaborative active learning']",social media
+10.1145/3089871.3089886,['real-world dataset from an online recommendation platform'],"['collaborative filtering', 'hypergraph-based community detection']",entertainment
+10.2196/49061,"['crowdsourced trajectory data from World Health Organization and United Nations system', 'crowdsourced trajectory data from Amazon Mechanical Turk', 'YouTube application programming interface’s RelatedToVideoID parameter']",['machine learning methods for content classification'],social media
+10.1109/ACCESS.2023.3303322,[],"['collaborative filtering', 'binomial matrix factorization', 'inverse propensity weighting matrix factorization']",recommendation systems
+10.2478/emj-2023-0033,[],"['decision-making systems', 'expert systems', 'recommendation systems']",smart agriculture
+10.1007/978-3-031-21686-2_42,['251 rated interactions'],"['collaborative filtering', 'kernel-based methods']",viticulture
+10.1007/s13278-018-0500-7,[],"['recommendation system', 'artificial intelligence technologies']",C2C s-commerce
+10.1109/ICDMW53433.2021.00024,[],[],
+10.1007/978-3-319-25751-8_88,[],"['Optimum-Path Forest (OPF)', 'Support Vector Machines', 'Bayesian classifier']",video classification
+10.1109/ICTAI.2010.123,['real-life dataset collected from a commercial recommender website'],['Latent Dirichlet Allocation (LDA)'],social media
+10.1186/s40537-023-00688-6,['public experimental data set'],"['interactive attention rate estimation model (IARM)', 'multi-head self-attention mechanism', 'deep learning network']",online advertising
+10.1007/978-3-030-18305-9_26,[],"['Random Walk with Restart', 'Optimized Random Walk with Restart']",recommendation problems
+10.1145/3090354.3090406,['YouTube'],['machine learning techniques'],entertainment

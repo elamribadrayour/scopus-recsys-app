@@ -1,0 +1,101 @@
+DOI,datasets,algorithms,application
+10.1109/INDISCON58499.2023.10269836,[],"['data mining classification algorithm', 'traditional data mining algorithm']",education
+10.1007/s11042-023-14940-x,"['Indiana university dataset', 'data collected from the private medical hospital']","['Deep Learning (DL) techniques', 'Machine Learning (ML)', 'unimodal and multimodal subnetworks']",medical
+10.1109/CEI52496.2021.9574461,[],"['ConvMF', 'deep learning']",entertainment
+10.1016/j.eswa.2024.124073,[],"['Multi-task Information Enhancement Recommendation (MIER) Model', 'Information Enhancement Encoder (IEE) module', 'attention mechanism']",education
+10.1109/CINC.2009.74,['data of 300 popular songs'],"['collaborative filtering', 'content-based recommendation', 'M-LSA (Latent Semantic Analysis)', 'K-means Clustering', 'HMM (Hidden Markov Model)']",music
+10.1109/ICAC60630.2023.10417600,[],"['Deep Reinforcement Learning (DRL)', 'SlateQ', 'Multi-Objective Reinforcement Learning (MORL)']",emotional well-being
+10.1109/HPCC-DSS-SmartCity-DependSys53884.2021.00250,[],"['deep learning', 'factorization machine models', 'ADAFM', 'attention mechanism']",recommendation systems
+10.1007/s11042-017-5515-y,['KEGG Metabolic Reaction Network dataset'],"['Multiple Kernel Learning (MKL)', 'Adaptive Neuro-Fuzzy Inference System (ANFIS)', 'Least Square Support Vector Machine (LS-SVM)', 'General Discriminant Analysis (GDA)', 'Principal Component Analysis (PCA)', 'Latent Dirichlet Allocation (LDA)']",medical
+10.1109/IEMENTech60402.2023.10423456,[],"['context-based recommendations', 'collaborative filtering', 'hybridization', 'deep learning', 'reinforcement learning']",online education
+10.1109/icoei.2019.8862544,['Ischemic Stroke Dataset'],"['Logistic Regression', 'Decision Tree', 'K nearest Neighbor', 'Naïve Bayes', 'SVM']",healthcare
+10.1109/ICAC3.2017.8318781,['list of college data'],[],education
+10.1155/2023/9896581,[],[],
+10.1145/2792838.2798715,[],[],
+10.1109/ICWITE59797.2024.10503018,['clothing items from Amazon'],"['deep-learning', 'deep-face']",ecommerce
+10.5220/0010868000003116,[],"['DQN', 'DDQN', 'D3QN']",entertainment
+10.1007/978-3-030-62746-1_105,[],[],ecommerce
+10.1109/ICDSNS62112.2024.10691216,[],"['collaborative filtering', 'K-means algorithm']",library book recommendation
+10.1109/ICCUBEA.2018.8697606,[],"['linear-temporal logic', 'model checking', 'data mining']",ecommerce
+10.1109/CIC.2016.079,[],['association rules mining'],social media
+10.1109/IC3I.2014.7019672,[],['Naïve Bayes classifier'],ecommerce
+10.1109/INISTA55318.2022.9894164,[],"['k-Means clustering', 'k Nearest Neighbors (kNN)']",online news portals
+10.1109/BigData.2016.7840789,['Amazon'],"['user-based collaborative filtering', 'neighborhood-based collaborative filtering algorithms', 'model-based collaborative filtering algorithms', 'text mining algorithms']",ecommerce
+10.2478/amns.2023.2.00501,[],"['RippleNet', 'graph convolution', 'knowledge graph', 'deep learning']",tourism
+10.1109/ICNTE.2015.7029917,[],[],ecommerce
+10.1016/j.eswa.2024.123738,['large database of 1237 students’ information'],"['collaborative filtering', 'item-based model', 'user-based model', 'weighted-hybrid model']",education
+10.1109/ACCESS.2023.3281412,[],['CredibleExpertRank'],knowledge-sharing
+10.1109/WCICA.2006.1714254,['real Web server logs'],"['association-mining technology', 'user clustering', 'association rule mining']",electronic commerce
+10.1145/3442442.3451366,['Microsoft Academic Graph'],['Neural Citation Network'],scientific publications
+10.1109/ICACITE53722.2022.9823529,[],[],
+10.1155/2021/4912486,[],['CNN networks'],communication
+10.1007/978-3-030-88113-9_2,"['Springer', 'IEEE', 'ScienceDirect', 'ACM', 'Scopus', 'Web of Science']","['deep learning-based recommendation systems', 'social recommendation systems']",social media
+10.1109/CCDC.2018.8407360,[],[],ecommerce
+10.7840/kics.2024.49.9.1274,[],"['TF-IDF', 'cosine similarity', 'K-Nearest Neighbors', 'AI algorithms']",dealership and vehicle
+10.1109/AIARS57204.2022.00068,[],"['IN FP recommendation algorithm', 'association rules']",digital library
+10.1007/978-981-19-9512-5_11,[],"['collaborative filtering', 'Gensim Word2vec', 'GraphSage', 'deep walk', 'random walk']",ecommerce
+10.1145/3268866.3268887,['Movie lens data set'],"['Collaborative filtering', 'hybrid optimal collaborative filtering']",entertainment
+10.1145/3109859.3109867,[],[],entertainment
+10.1007/s11280-012-0168-2,"['emails', 'Facebook']",[],social media
+10.1145/3543507.3583361,[],"['Transformer', 'Graph Neural Networks (GNNs)', 'contrastive learning (CL)', 'Debiased Contrastive learning paradigm for Recommendation (DCRec)']",recommendation
+10.1109/ICIS.2015.7166591,['coauthorship networks'],['Vector Autoregression (VAR) Model'],social media
+10.3389/fpsyg.2022.952622,[],"['Syntactic Data Inquiring Scheme (SDIS)', 'deep learning']",ecommerce
+10.1007/978-981-10-8476-8_18,['Tunstall dataset'],"['Least Squares-Support Vector Machine', 'Artificial Neural Network', 'Naive Bayes']",medical
+10.1109/INCOFT60753.2023.10425523,['Kaggle EMI Music Data Science Hackathon'],"['XGBoost Regression', 'K-Fold Cross Validation']",music
+10.1007/978-3-030-47426-3_3,['three real-world datasets'],"['GAMMA (Graph and Multi-view Memory Attention mechanism)', 'graph attention mechanism', 'multi-view memory attention mechanism']",recommendation systems
+10.1109/IMCEC59810.2024.10575550,[],"['Knowledge Graph (KG) technology', 'KBQA', 'KG2Text', 'contrastive learning']",search
+10.2196/18752,[],['optimization algorithm'],mental health surveillance
+10.1111/j.1467-8535.2012.01376.x,[],[],education
+10.1109/ISAIEE55071.2021.00073,[],"['collaborative filtering', 'data mining', 'intelligent algorithm recommendation model']",educational
+10.1016/j.entcom.2024.100747,[],"['intrusion detection algorithms', 'deep learning', 'improved intrusion detection algorithms']",ecommerce
+10.1007/978-3-540-74829-8_67,['purchase records'],"['Analytic Hierarchy Process (AHP)', 'Conjoint analysis']",ecommerce
+10.1145/2980258.2980405,[],"['Particle Swarm Optimization (PSO)', 'User Access Based Ranking (UABR)']",recommendation system
+10.1109/SSCI47803.2020.9308300,[],[],
+10.3390/SYM12091566,"['dataset that contains click-based features of users from an online shopping mall in Jeju Island, South Korea']","['collaborative filtering', 'extreme gradient boosting', 'word2vec']",ecommerce
+10.1177/1550147718774012,['real datasets'],"['latent Dirichlet allocation', 'hybrid recommendation method']",service recommendation
+10.1007/s13198-023-02106-9,[],"['deep neural network', 'convolutional neural network', 'neural collaborative filtering']",employment
+10.1109/ICSTCEE56972.2022.10100069,[],"['machine learning', 'Random forest']",online learning
+10.1007/s10994-023-06496-6,[],[],
+10.1007/978-981-10-5146-3_2,"['Allrecipe data set', 'simulated dataset']","['item based approach', 'user based approach', 'Tanimoto Coefficient Similarity', 'Log Likelihood Similarity', 'Euclidean Distance', 'Pearson Correlation']",recipes
+10.4018/978-1-5225-0489-4.ch007,[],['Collaborative Filtering'],Big Data
+10.1109/INOCON60754.2024.10511575,['Spotify music dataset'],"['Convolutional Neural Network (CNN)', 'VGG16 CNN']",music
+10.1007/s11042-022-12167-w,[],[],tourism
+10.1109/IJCNN60899.2024.10650298,['D-Wave annealer'],"['Factorization Machine (FM)', 'quadratic unconstrained binary optimization (QUBO)', 'quantum annealing (QA)']",ecommerce
+10.1016/j.eswa.2021.116084,[],"['K-means clustering', 'random forest (RF) classifier']",service part recommendation
+10.1145/3482632.3482711,[],['machine learning'],education
+10.1145/3697467.3697689,[],"['artificial intelligence algorithms', 'intelligent recommendation systems']",education
+10.1007/978-3-030-89508-2_8,[],"['news recommendation algorithm', 'collaborative filtering', 'cyclic neural network (RNN)', 'Slices Neural Network (SRNN)']",news media
+10.1007/978-3-030-02925-8_1,['Amazon datasets'],"['deep learning', 'SDAE (Stacked Denoising Autoencoders)', 'multi-layer perceptron']",ecommerce
+10.1007/978-3-030-33495-6_5,['Amazon data'],['deep learning'],ecommerce
+10.1007/s41060-022-00343-y,['E-commerce data sets'],"['Markov Models', 'Factorized Personalized Markov Chains (FPMC)', 'Doc2vec', 'TF-IDF']",ecommerce
+10.1007/978-981-19-5191-6_44,"['publicly available Fitbit dataset', 'MOX2-5 wearable medical-grade activity device']","['support vector classifier (SVC)', 'K-nearest neighbor (KNN)']",eHealth
+10.3390/app13053347,[],"['LSTMs', 'graph-based methods']",e-commerce
+10.1109/ICMLA51294.2020.00151,[],"['user-based collaborative filtering', 'item-based collaborative filtering', 'association rule mining']",ecommerce
+10.1016/j.future.2020.12.010,[],"['multi-view learning', 'dense subgraph mining']",medical
+10.1007/978-3-030-15032-7_75,[],"['collaborative filtering', 'neural network']",entertainment
+10.1109/ICICoS62600.2024.10636932,['comprehensive dataset of dog breed characteristics'],"['content-based filtering', 'collaborative filtering', 'k-nearest neighbor']",pet ownership
+10.1109/ICCC49264.2020.9257290,[],[],ecommerce
+10.3390/informatics11030062,[],[],personalised nutrition
+10.1007/s11063-024-11504-4,"['Criteo', 'Avazu']","['LightGBM', 'deep learning', 'cross network', 'CLGM model']",ecommerce
+10.1007/978-3-031-47724-9_18,[],"['Recurrent Neural Networks (RNNs)', 'Long-Short Term Memory (LSTM)', 'custom attention mechanism']",ecommerce
+10.12694/SCPE.V25I3.2682,[],"['multi-dimension association rule calculation', 'recommendation engine based on user preferences', 'association rules']",ecommerce
+10.1145/3377049.3377108,"['users’ eye gaze data', 'ratings', 'number of orders']",['clustering-based machine learning algorithm'],ecommerce
+10.1109/TMM.2019.2912124,['NUS-WIDE'],"['deep learning', 'user-interest tree', 'tag trees', 'AlexNet']",social media
+10.1007/978-3-031-24352-3_15,"['original rice yield and climatic datasets from three different districts in Odisha, namely Balasore, Kalahandi, and Rayagada, from the year 1993 to 2016']","['SVM', 'Ada Boost', 'XG-Boost', 'Gradient Boosting', 'LSTM', 'CNN', 'fusion-based ensemble learning, SVM + CNN']",agriculture
+10.1109/ISMW.2007.4475993,[],[],e-learning
+10.1007/978-981-33-4073-2_9,[],[],
+10.4018/978-1-5225-1877-8.ch003,[],[],e-commerce
+10.1007/s11704-021-0569-4,[],[],music
+10.2196/27460,"['118,008 sentences containing information on symptoms with labels (medical specialty)', '51,134 sentences after data cleansing']","['deep learning models', 'long short-term memory (LSTM) models', 'bidirectional encoder representations from transformers']",medical
+10.1109/ICONSTEM60960.2024.10568594,[],"['collaborative filtering', 'logistic regression']",fashion retail
+10.1109/MDM58254.2023.00015,['real-world taxi datasets'],"['deep learning', 'Top-K formulation', 'map-matching', 'recommender system']",urban mobility
+10.1142/S0218488522500192,[],"['Butterfly Weed Optimization (BWO)', 'Invasive Weed Optimization (IWO)', 'Butterfly Optimization Algorithm (BOA)', 'Interval type-2 Fuzzy Local Enhancement Based Rough K-means Clustering', 'Entropy and angular distance matching', 'SentiWordNet', 'Deep Neural Network (DNN)']",elearning
+10.1109/ICICoS62600.2024.10636825,[],"['collaborative filtering', 'content-based filtering', 'hybrid approaches']",ecommerce
+10.1016/j.ijchp.2023.100409,[],"['random forest', 'supervised machine learning']",personalized exercise intervention program for children with autism spectrum disorder
+10.1007/978-3-030-62463-7_2,[],['collaborative filtering'],entertainment
+10.1109/IALP48816.2019.9037682,['clickthrough data from CCIR 2018 shared task Personal Recommendation'],['Attention-based Long Short-Term Memory Network (LSTM)'],text recommendation
+10.3103/S0146411624700615,['MovieLens 1M'],"['collaborative filtering', 'content-based filtering', 'TF-IDF', 'cosine similarity', 'SVD', 'decision trees (DT)', 'random forests (RF)', 'support vector regression (SVR)', 'CatBoost', 'XGBoost']",entertainment
+10.1007/s13369-021-05637-0,['MovieLens'],"['LFM (latent factor model)', 'FC-LFM (forgetting curve-latent factor model)', 'UserCF', 'UserCF-IIF', 'ItemCF', 'ItemCF-IUF']",entertainment
+10.1109/IJCNN60899.2024.10650966,"['Yelp2018', 'Douban-Book', 'Ml-1M']","['Graph Convolutional Network (GCN)', 'Graph Contrastive Learning (GCL)', 'Deeper Graph Contrastive Learning with Attention mechanism (ADGCL)']",recommendation systems
+10.1016/j.ijhcs.2023.103216,[],['strategy recommendation systems'],decision-making
+10.1109/SKG.2009.19,[],['association rule Recommendation'],knowledge management

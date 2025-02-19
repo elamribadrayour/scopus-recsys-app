@@ -1,0 +1,101 @@
+DOI,datasets,algorithms,application
+10.1109/AIC55036.2022.9848954,[],[],
+10.1109/INISTA59065.2023.10310541,[],[],
+10.1109/SNPD.2015.7176245,[],"['Web news ranking', 'SNS user attention', 'popular search queries']",education
+10.1007/978-3-642-38027-3_39,['dataset collected in a cosmetic internet shopping mall'],"['weighted association rule mining', 'RFM score (Recency, Frequency, Monetary)']",ecommerce
+10.4018/979-8-3693-1479-1.ch010,[],[],
+10.1109/ACCESS.2021.3051083,['MELD test set'],"['deep learning', 'weighted TrBaidu', 'deep speech recognition layers', 'convolutional layers']",manufacturing
+10.1109/ISLPED58423.2023.10244423,[],"['Graph Convolutional Networks (GCNs)', 'degree-based sorting', 'graph partitioning', 'two-way partitioning']",recommendation systems
+10.1007/978-3-031-28893-7_72,[],"['NeuCNN', 'machine learning recommendation algorithm']",education
+10.1145/3377644.3377648,['Higgs Twitter Dataset'],"['node2vec', 'deep neural network (DNN)', 'differential privacy']",social media
+10.1145/3586207,"['hastamudras (hand poses) dataset', 'Sebastien-Marcel dataset']","['CNNs', 'MobileNet', 'Inception v3']",cultural heritage
+10.1109/ICDMW.2019.00082,['AAN'],"['Content-Aware bibliographic network representation', 'DeepWalk']",scientific research
+10.1109/ICDSCA56264.2022.9988303,[],"['multi-algorithm fusion', 'data mining']",ecommerce
+10.1609/aaai.v37i12.26697,[],"['linear regression', 'matching', 'inverse propensity score weighting', 'meta-learners']",agriculture
+10.1007/978-3-031-10869-3_1,[],"['deep learning', 'node classification']",online social networks
+10.1109/IJCNN.2012.6252543,[],[],ecommerce
+10.1007/978-3-030-11878-5_10,[],[],
+10.1145/3490475,['benchmark datasets'],"['Matrix Factorization (MF)', 'stochastic gradient descent (SGD)', 'alternating least squares (ALS)', 'Markov Chain Monte Carlo (MCMC)']",entertainment
+10.1016/j.jvcir.2022.103548,[],"['Hidden Markov Model (HMM)', 'Long Short-Term Memory (LSTM)']",entertainment
+10.1109/TMC.2014.2322373,[],['Latent Dirichlet Allocation'],social media
+10.1007/978-3-319-24033-6_6,[],['image extraction-based recommendation system'],fashion
+10.1007/978-3-031-44260-5_6,"['large dataset of social media musical discourse with over 11.8 million comments from Reddit and YouTube discussing 19,627 different songs']","['fine-tuning large language models', 'two-target regression task']",music recommendation
+10.1145/3639233.3639335,[],['cosine similarity'],entertainment
+10.1109/ICCCNT56998.2023.10306341,[],[],
+10.1007/s00521-023-09007-9,['Yahoo! Movies multi-criteria dataset'],"['multi-modal deep encoder–decoder-based shared learning (MMEDSL)', 'multi-criteria deep encoder–decoder-based shared learning (MCEDSL)']",entertainment
+10.1109/JPROC.2024.3369017,[],[],recommendation systems
+10.1287/inte.2021.1099,[],"['hybrid filtering', 'deep learning']",military
+10.31449/inf.v48i5.5255,['Amazon ratings and reviews dataset (3 million ratings and 3.1 GB)'],"['Collaborative Filtering (CF)', 'Natural Language Processing (NLP)', 'Alternating Least Squares (ALS)']",ecommerce
+10.1145/3640457.3688111,[],"['EMBark', 'sharding strategies']",entertainment
+10.1145/2030080.2030082,['sensor dataset collected in an office area'],['Sticky HDP-HMM'],activity recommendation systems
+10.54364/AAIML.2024.43160,['Kaggle’s Quotes-500K'],"['Neural Networks', 'K-Nearest Neighbors (KNN)', 'Euclidean distance-based classifiers', 'Cosine Similarity methods']",content management and recommendation systems
+10.1109/MELECON53508.2022.9843009,[],"['Collaborative Filtering', 'Matrix Factorisation', 'Homomorphic Encryption']",democratic decision process
+10.1109/UV56588.2022.10185483,['initial data set through data simulation'],['graph neural network'],medical
+10.1007/978-981-15-5827-6_18,[],['K-nearest neighbour (KNN)'],medical
+10.1007/978-3-030-49785-9_13,"['HElib', 'SEAL', 'HEAAN']","['fully homomorphic encryption (FHE)', 'machine learning', 'TOPSIS', 'linear regression', 'logistic regression']",privacy preserving machine learning
+10.1109/I-SMAC58438.2023.10290274,[],"['collaborative filtering', 'content based', 'random forest']",social media
+10.13587/j.cnki.jieem.2024.06.010,['two real datasets'],"['EKPCF (Enhanced Knowledge Path with Cross Feature)', 'knowledge graph embedding', 'data mining methods']",entertainment
+10.1007/978-3-030-76508-8_3,[],[],
+10.1287/isre.2022.0093,['real-world data collected from one of the most popular short video sharing platforms'],['deep learning framework'],entertainment
+10.15849/IJASCA.221128.11,[],"['TF-IDF', 'CountVectorizer', 'Cosine similarity', 'NormalPredictor', 'SVD', 'KNNBasic', 'NMF']",entertainment
+10.1007/978-981-13-8676-3_41,[],"['hierarchical summarization', 'sentiment analysis', 'four state-of-the-art algorithms']",entertainment
+10.3837/tiis.2023.11.001,[],"['graph neural networks', 'dual-channel hypergraph convolutional neural network']",knowledge recommendation
+10.1145/3459609.3460525,['parking meters data'],"['additive regression model', 'Prophet model']",smart city mobility
+10.1088/1742-6596/1873/1/012086,[],"['personalized recommendation algorithm', 'collaborative filtering']",entertainment
+10.1145/3317697.3325127,"['BBC iPlayer on-demand viewing pattern data', 'data from a sample of over 27,000 iPlayer users']","['Decision Trees', 'Random Forests']",entertainment
+10.1109/CCWC.2018.8301695,[],"['K-means clustering', 'neural network']",entertainment
+10.1145/3447548.3467189,['large-scale dataset collected from Taobao'],"['sequential multi-modal information transfer network (SEMI)', 'cross-domain contrastive learning (CCL)']",ecommerce
+10.1016/j.patcog.2021.108216,[],"['joint multi-label learning', 'feature extraction', 'temporal link prediction', 'MLjFE']",data mining
+10.1145/3357384.3358166,['real-world datasets'],"['cross-domain recommendation algorithms', 'Preference Propagation GraphNet (PPGN)']",ecommerce
+10.1016/j.procs.2022.09.299,[],['machine learning methods'],labour market services
+10.1109/ICCUBEA.2017.8463950,[],['ACO-GA'],information retrieval
+10.1145/3651312,['two public datasets'],['Multi-scenario and Multi-task aware Feature Interaction model (MMFI)'],recommendation
+10.1007/978-3-030-37218-7_106,[],"['collaborative filtering', 'content based', 'knowledge based', 'demographic filtering', 'hybrid filtering', 'machine learning']",ecommerce
+10.1109/GLOBECOM48099.2022.10001030,['MovieLens'],['Deep Neural Network'],entertainment
+10.1007/s12517-021-07419-2,[],['deep learning'],recommendation system
+10.3390/app9122419,['movie review data'],"['multilevel sentiment network', 'multidimensional scaling (MDS)']",entertainment
+10.47839/ijc.20.1.2093,['real datasets'],"['hybrid approach based on Knowledge graph', 'Machine Learning similarity function']",entertainment
+10.1109/ACCESS.2023.3325753,[],['deep learning (DL) recommendation model'],employment management
+10.1109/ZCICT59466.2023.10528488,[],[],career guidance
+10.1109/ICISA.2011.5772335,['MovieLens'],"['collaborative filtering', 'k-means', 'average link', 'robust']",entertainment
+10.61091/jcmcc118-07,[],"['attention mechanism', 'deep learning', 'community discovery algorithms', 'personalized recommendation algorithm']",ecommerce
+10.1007/978-981-15-4992-2_43,[],[],social media
+10.1109/ICDMW.2018.00166,[],[],
+10.1007/978-3-030-94016-4_1,['two real-world datasets from a leading fashion retailer'],['Relational Graph Convolutional Networks (R-GCN)'],ecommerce
+10.11591/ijeecs.v36.i3.pp1866-1875,['Tmall dataset'],"['dynamic LSTM (D-LSTM)', 'Bayesian personalized ranking (BPR)', 'hybrid time-centric prediction (HTCP)']",E-commerce
+10.1109/ISCTIS63324.2024.10698846,[],[],education
+10.1016/j.pmcj.2022.101727,"['audio data collected by traveling 461km of road from various spatio-temporal locations in Durgapur, a sub-urban city in India']","['convolutional neural network (CNN)', 'visual geometry group with a very deep convolutional network (VGGNets)', 'efficient convolutional neural networks for mobile vision applications (MobileNet)', 'residual neural network (ResNets)', 'Inception V3']",transportation
+10.1145/3583780.3616006,[],"['contractive autoencoder (CAE)', 'hybrid approach']",e-commerce
+10.4018/978-1-7998-9220-5.ch014,['YouTube user survey (297 participants)'],"['machine learning algorithms', 'recommendation algorithms']",social media
+10.1145/2508037.2508049,['real-world patient health data from the CDC'],"['Hybrid Ontological and Learning approach', 'probabilistic reasoning']",medical
+10.4018/IJCINI.20211001.oa16,[],"['WIIWMD', 'similarity calculation algorithm']",software engineering
+10.1109/IEIR56323.2022.10050078,[],"['citation recommendation model', 'structured content extraction model', 'long scientific documents summarization model']",scientific document collection and summarization
+10.1109/I2CT61223.2024.10544110,[],['machine learning algorithms'],agriculture
+10.1007/s10111-023-00735-5,"['DeepFashion', 'Pak Dataset']","['Convolutional Neural Networks', 'transfer learning', 'InceptionV3']",ecommerce
+10.1109/BIBM.2015.7359927,[],[],
+10.1016/j.neucom.2021.05.114,[],['deep learning'],entertainment
+10.1007/978-3-030-59338-4_12,[],[],ecommerce
+10.1016/j.procs.2021.09.253,['experimental dataset acquired from 210 active joggers and runners'],"['clustering', 'classification models']",sports apparel
+10.1109/ICIRCA48905.2020.9183100,[],['collaborative clustering'],ecommerce
+10.1007/978-3-642-42054-2_49,[],"['deep learning', 'stacked auto-encoder']",intention estimation and recommendation system
+10.1109/ICDM.2010.90,[],"['Support Vector Machines', 'Naive Bayes', 'Nearest Neighbor', 'Decision Trees']",recommendation systems
+10.1007/978-3-031-68653-5_7,[],"['natural language processing', 'deep learning algorithms']",education
+10.1109/ACCESS.2018.2871668,[],"['submodular maximization', 'streaming algorithm']",recommendation systems
+10.1080/0952813X.2024.2343736,[],"['Long Short-Term Memory with Attention Mechanism (LSTM-AM)', 'Fitness-based Golden Tortoise Beetle Optimizer (FGTBO)']",navigation
+10.1109/ICAIT61638.2024.10690764,[],"['KNN', 'Random Forest']",agriculture
+10.1109/ICSP51882.2021.9409009,['user review information and product information from Jingdong Mall'],"['deep learning', 'coupled recommendation algorithm', 'U-S recommendation algorithm']",ecommerce
+10.18280/isi.280406,['real data from a city in Indonesia'],"['Deep Learning', 'Convolutional Neural Network (CNN)', 'Adagrad optimizer']",agricultural
+10.1145/2940716.2940719,[],"['incentive-compatible algorithm', 'deterministic algorithm', 'probabilistic incentive-compatible algorithm']",social network
+10.1109/DASC-PICom-CBDCom-CyberSciTech49142.2020.00066,['real-world public dataset'],"['collaborative filtering', 'matrix decomposition', 'neural network', 'representation learning']",ecommerce
+10.1007/978-3-031-51195-0_16,[],[],agriculture
+10.1145/1999747.1999902,[],[],e-learning
+10.1109/ICSCA57840.2023.10087436,['Kaggle'],"['Support Vector Machine', 'Associative Classification']",food pairing
+10.1109/ICAICCIT60255.2023.10465879,[],['content-based filtering'],entertainment
+10.1145/3437963.3441669,[],['integration of side information (SI)'],ecommerce
+10.1145/3604915.3608778,['real-world DLRM data processing pipelines from Netflix'],"['deep learning-based recommender models (DLRMs)', 'reinforcement learning (RL)']",entertainment
+10.1007/978-981-97-0037-0_2,['student performance dataset'],"['K-Means', 'fuzzy c-means (FCM)', 'kernel-based FCM (K-FCM)', 'C4.5', 'CART', 'Apriori algorithm']",education
+10.1108/IJWIS-12-2020-0079,['real-life data set extracted based on Twitter follower/followee architecture'],"['long short–term memory (LSTM)', 'latent Dirichlet allocation (LDA)']",social media
+10.1109/ISCTIS58954.2023.10213045,['LDOS CoMoDa'],"['adaptive collaborative filtering', 'deep learning algorithms', 'k-means algorithm', 'CAMF', 'CAMF_CM']",entertainment
+10.22452/mjcs.vol35no2.2,[],"['Collaborative Filtering (CF)', 'Content-Based Filtering (CBF)']",entertainment
+10.1007/s41870-023-01165-2,"['educational datasets', 'Open University instances', 'music', 'movies', 'food', 'book', 'merchandise', 'dating', 'healthcare']","['enhanced vector space recommender', 'content-based filtering', 'collaborative filtering (CF)']",education
+10.1109/ICIBA52610.2021.9688164,[],"['Item2vec', 'DeepFM']",ecommerce
