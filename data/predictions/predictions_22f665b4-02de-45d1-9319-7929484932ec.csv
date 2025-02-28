@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ACCESS.2020.3027380,['various Amazon datasets'],"['hybrid recommender system', 'collaborative filtering', 'content-based filtering', 'Markov chains', 'N-ordered Markov Chain']",ecommerce
+10.16920/JEET/2020/V34I0/157882,"['book borrowing data', '1000 types of books with different categories']",['User-based Collaborative Filtering'],digital library system
+10.1007/978-3-030-63319-6_75,[],['support vector regression (SVR)'],agriculture
+10.1007/978-3-030-59413-8_19,[],['T-distribution'],ecommerce
+10.1007/978-981-15-5959-4_208,"['basic data', 'professional basic data', 'curriculum basic data']","['deep learning-based curriculum learning personalized recommendation system', 'personalized mathematical model for curriculum recommendation']",online education
+10.1007/978-3-030-61534-5_24,"['Movielens', 'IMDB']",['Multi-objective Evolutionary Algorithm'],entertainment
+10.3233/JIFS-179982,[],['cluster-based algorithm'],social media
+10.1007/978-3-030-47994-7_25,[],['machine learning'],sexual and reproductive health
+10.1007/978-981-15-5558-9_48,['credit defaulter dataset of Bangladeshi bank'],['random forest classifier'],financial services
+10.1109/ACCESS.2020.2984591,['Beta brain waves dataset'],"['Naïve Bayes', 'N48', 'Canopy']",E-Learning

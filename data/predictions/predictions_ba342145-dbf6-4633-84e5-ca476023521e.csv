@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/SACI.2016.7507393,[],"['fuzzy rules', 'PageRank']",software engineering
+10.1016/j.knosys.2016.04.020,['data collected from mobile sensors'],"['context-aware recommender systems (CARS)', 'unsupervised deep learning techniques', 'PCA (Principal Component Analysis)']",mobile
+10.1109/AEEICB.2016.7538334,[],['sentiment analysis'],service
+10.1109/CIG.2016.7860444,[],[],
+10.1109/SAPIENCE.2016.7684116,[],[],
+10.1109/ICDMW.2016.0169,['FourSquare'],"['data mining', 'machine learning']",entertainment
+10.1109/WIECON-ECE.2015.7443994,[],"['clustering', 'Minimum Spanning Trees', 'Euclidean distance']",education
+10.1109/ICWS.2016.70,['thousands of iOS apps in the Apple app store including most of the listed top 200 applications in each category'],"['Latent Dirichlet Allocation', 'Growing Hierarchical Self-organizing Maps']",mobile applications
+10.1145/2939672.2939797,[],[],
+10.1007/s10618-016-0475-9,[],['meta-learning'],ecological niche modeling

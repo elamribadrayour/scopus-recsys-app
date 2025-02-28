@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.3390/s23125407,['new dataset for the basil plant'],"['convolutional neural networks (CNN)', 'DenseNet201', 'ResNet101V2', 'MobileNet', 'VGG16', 'Grad-CAM']",agriculture
+10.1142/S1793351X23610019,[],"['hybrid content-based filtering (CBF)', 'similarity index (SI)']",recruitment
+10.1142/S0219519423400092,['four publicly available real datasets'],"['weighted neural matrix decomposition', 'deep learning techniques', 'implicit feedback method', 'matrix decomposition algorithm', 'deep neural network', 'WENMF algorithm']",medical
+10.1016/j.compeleceng.2023.108673,"['Amazon', 'Netflix', 'Movielens']","['Hybrid deep learning', 'GRU (Gated Recurrent Unit)', 'CNN (Convolutional Neural Network)']",entertainment
+10.1142/S0218001423590115,['real dataset'],"['density peak clustering', 'GRU-CNN', 'LDA topic model', 'depth neural network model']",ecommerce
+10.1109/TBDATA.2022.3192598,['three real-world datasets'],"['Graph Convolution Networks (GCNs)', 'attribute-fusing graph convolution network (AF-GCN)', 'attention-based attribute fusion strategy']",recommendation systems
+10.1145/3577928,['three real-world datasets'],"['Edge-Enhanced Global Disentangled Graph Neural Network (EGD-GNN)', 'recurrent networks', 'self-attention mechanisms', 'variational auto-encoder']",recommender systems
+10.1007/s11633-022-1374-8,['two datasets'],"['self-supervised learning (SSL)', 'invariant feature learning framework']",recommendation systems
+10.3390/s23115304,[],"['Generative Adversarial Networks (GANs)', 'deep learning algorithms']",entertainment
+10.1063/5.0148413,['Amazon Reviews dataset'],"['Collaborative filtering', 'K Nearest Neighbour', 'Random Forest', 'Extra Tree', 'SGD (Stochastic Gradient Descent)', 'Decision Tree', 'Naive Bayes']",e-commerce

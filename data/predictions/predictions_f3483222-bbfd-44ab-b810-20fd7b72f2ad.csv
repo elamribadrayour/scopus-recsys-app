@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.32604/csse.2023.027987,['transactional reviews of social media'],"['Recursive Neural Network-based Trust Recommender System (RNN-TRS)', 'Imbalanced Collaborative Filtering (ICF)', 'Maximum Support Grade Scale (MSGS)', 'softmax activation function']",social media
+10.3233/IDA-215988,['Amazon product data'],"['Multi-view Hybrid Recommendation Model (MHRM)', 'WLDA (improved Latent Dirichlet Allocation)', 'LSTM']",ecommerce
+10.1155/2022/9122881,[],"['deep learning', 'recommendation algorithm']",human resources
+10.1109/IC3IOT53935.2022.9767872,[],[],education
+10.1109/IPEC54454.2022.9777500,['Alibaba data set'],"['association rules', 'collaborative filtering', 'Markov chain', 'recurrent neural network', 'convolutional neural network']",ecommerce
+10.1109/ICASSP43922.2022.9747342,[],['progressive two-stage teacher-student training framework'],music
+10.1109/CFIS54774.2022.9756424,[],"['Differential Collaborative Filtering', 'collaborative filtering', 'differential machine learning']",recommendation systems
+10.1109/ICSCDS53736.2022.9761025,['Kaggle'],"['machine learning algorithms', 'LightGBM']",social media
+10.32473/flairs.v35i.130707,['synthetic data set'],[],Open Source Software
+10.1007/978-981-19-2719-5_44,[],"['content filtering', 'collaborative filtering', 'Apriori algorithm', 'association rules', 'aggregation', 'pruning']",ecommerce

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1002/9781119792437,[],[],e-healthcare
+10.11591/ijeecs.v26.i3.pp1634-1642,[],['machine learning'],ecommerce
+10.1016/j.tre.2022.102694,[],['deep reinforcement learning'],online ride-hailing
+10.3390/jpm12050700,"['301,658 ED visits from a tertiary hospital']","['logistic regression', 'decision tree', 'random forest', 'XGBoost']",medical
+10.1007/s00521-021-06249-3,[],"['content-based image retrieval algorithms', 'matching recommendation algorithm']",ecommerce
+10.1145/3534540.3534692,"['DyGraph Generator datasets', 'real-world graphs']",[],recommendation systems
+10.3390/electronics11091391,['open datasets'],"['multi-modal fusion', 'data representations']",ecommerce
+10.3390/publications10020017,['publication data extracted from cookies in the Web of Science database'],['collaborative filtering'],research information
+10.1007/s10462-021-10063-7,[],[],recommendation systems
+10.1007/s00521-021-06872-0,[],"['deep learning', 'multi-label deep learning classifier', 'decision tree', 'extra tree', 'k-nearest neighbor', 'random forest']",tourism

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.eswa.2009.06.010,['real data set'],"['distributed learning automata', 'weighted association rule mining', 'HITS algorithm']",information overload
+10.1109/ICME.2008.4607658,[],[],location service
+10.1109/ICETC.2010.5529654,[],"['collaborative filtering', 'filtering algorithms']",ecommerce
+10.1115/1.859544.paper21,[],['association rule recommendation'],education
+10.1109/ICHIT.2008.184,[],[],education
+10.1109/MDM.2010.42,['real-world GPS dataset collected by 112 users over a period of 1.5 years'],"['location recommendation', 'Pearson correlation']",location recommendation
+10.1007/978-3-540-89197-0_108,[],"['user-based collaborative filtering', 'k-nearest-neighborhood based', 'similarity measures']",entertainment
+10.1109/ICSSSM.2008.4598501,['real data from an IT consultancy in Taiwan'],['revised case-based reasoning (RCBR) algorithm'],project management
+10.1109/CISE.2009.5364765,['marketing basket data'],"['collaborative filtering', 'Bayesian network-based implicit rating model']",ecommerce
+10.3923/itj.2010.790.796,['CTI dataset'],"['clustering', 'classification', 'pattern discovery']",web navigation

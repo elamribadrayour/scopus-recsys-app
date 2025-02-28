@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/CSIT56902.2022.10000478,[],"['Analytical Hierarchy Method', 'weighted hybrid mechanism']",leisure activities during quarantine
+10.5220/0011543300003323,[],['hybrid recommendation system'],healthcare
+10.1007/978-3-031-16500-9_24,[],['graph neural networks'],scientific collaborations
+10.1109/CoST57098.2022.00071,"['Baidu images', 'NetEase cloud music']","['machine learning', 'deep learning', 'cross-modal retrieval']",video editing
+10.15439/2022F86,[],"['frequent pattern growth', 'collaborative filtering', 'content-based recommendation']",recommender systems
+10.1109/ACCESS.2022.3208715,"['synthetic datasets', 'real datasets']","['decision tree', 'deep neural networks', 'copula-based numerical sampling']",recommendation systems
+10.1109/IJCNN55064.2022.9892745,['two pairs of real-world cross-domain datasets'],"['multi-graph convolutional feature transfer', 'feature similarity method', 'attention mechanism']",recommendation system
+10.1109/ICDSIS55133.2022.9915851,[],['machine learning-based object detection'],video streaming
+10.1007/978-981-19-4831-2_44,['MovieLens'],['matrix factorization'],entertainment
+10.1109/CoST57098.2022.00025,[],['collaborative filtering'],entertainment

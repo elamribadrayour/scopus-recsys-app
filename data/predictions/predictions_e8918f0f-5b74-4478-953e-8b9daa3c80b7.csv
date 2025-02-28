@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/IDEA49133.2020.9170701,[],"['S3VM', 'Semi-supervised Support Vector Machines']",online newspaper
+10.1016/j.asoc.2020.106164,['user logs collected with Kinesis streams ranging from 30 GB to 2.6 TB'],"['ETL process', 'data aggregation', 'feature engineering']",decision support and recommendation systems
+10.1088/1742-6596/1453/1/012072,[],['Compact Prediction Tree (CPT)'],education
+10.1145/3436286.3436316,[],['deep learning'],leisure tourism
+10.1016/j.aap.2020.105460,['anonymous trajectory dataset collected from Pittsburgh urban area'],['data mining techniques'],intelligent transportation
+10.1007/s11280-019-00729-2,['FIVE heterogeneous personality datasets'],"['AdaWalk', 'unsupervised feature learning']",social services
+10.1088/1757-899X/750/1/012134,[],"['user interest acquisition algorithm', 'semantic cluster']",ecommerce
+10.1088/1742-6596/1437/1/012095,[],"['collaborative filtering', 'Mahout framework']",ecommerce
+10.1145/3336191.3371841,['two real-world datasets'],"['self-attention mechanisms', 'adversarial training']",location based social networks
+10.1016/j.ins.2020.01.044,"['ML-100K', 'ML-1M', 'ML-10M', 'AIV', 'Amazon sub dataset']","['probabilistic matrix factorization', 'attention based convolutional neural network', 'PMF', 'CDL', 'CTR', 'ConvMF', 'ConvMF+', 'D-Attn']",ecommerce

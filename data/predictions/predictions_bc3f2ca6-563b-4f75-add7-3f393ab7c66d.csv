@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.3390/a12110239,[],"['collaborative filtering', 'content-based recommenders', 'ontology-based recommenders']",ecommerce
+10.1088/1742-6596/1314/1/012078,[],"['collaborative filtering', 'KNN', 'XGBoost', 'deep learning']",recommendation system
+10.1109/SSCI44817.2019.9003006,"['Yahoo! Music User Ratings of Songs with Artist, Album, and Genre Meta Information']",['collaborative filtering'],music
+10.1145/3350546.3352496,['Epinions'],"['Social Deep Pairwise Learning', 'Bayesian Pairwise Ranking', 'deep learning', 'social negative sampling']",social media
+10.1109/BigData47090.2019.9006394,[],['Minits (MINIng Timed Sequential patterns)'],transportation
+10.1109/ICDM.2019.00011,[],['heterogeneous variational graph autoencoder'],research
+10.1109/TENCON.2019.8929386,[],[],research paper recommendation
+10.1109/ICDM.2019.00112,['datasets'],['attentive and aggregate multi-layer network learning model'],research
+10.1109/ICSEC47112.2019.8974770,['Harvard and MIT edX learning data 2012-2013'],"['Deep Learning', 'Multilayer Perceptron']",education
+10.14329/apjis.2019.29.4.752,['subscription data from telemarketing agency that handles insurance products'],"['collaborative filtering', 'multi-purpose hybrid recommendation algorithm']",telemarketing

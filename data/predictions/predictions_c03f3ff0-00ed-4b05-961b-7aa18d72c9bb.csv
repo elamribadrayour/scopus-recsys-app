@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/JBHI.2021.3137048,['largest pediatric heart sound dataset of 5282 recordings'],['machine learning algorithms'],healthcare
+10.1142/S0219649222400044,[],['single value decomposition'],software development
+10.1145/3485447.3512087,[],"['kernel-based neural network', 'deep unified representation (DURation)']",ecommerce
+10.1007/s10489-021-02666-y,['Amazon'],"['Dual Attention Recommendation Model', 'multi-task learning', 'review-based rating prediction']",ecommerce
+10.3389/fpsyg.2022.788183,[],"['Collaborative Filtering (CF)', 'Content-Based Recommendation-Collaborative Filtering (CBR-CF)', 'Machine Learning (ML)']",scientific research
+10.1007/s41870-022-00909-w,['UCI CTG data'],"['multi-objective metaheuristic approaches', 'MODENAR', 'MOGA', 'QAR-CIP-NSGA-II']",clinical recommendation system
+10.21078/JSSI-2022-181-12,[],"['Latent Dirichlet Allocation (LDA)', 'deep neural networks']",photovoltaic enterprise risk
+10.1109/TIV.2021.3122898,[],"['supervised learning', 'unsupervised learning', 'reinforcement learning', 'deep learning']",automotive
+10.1007/s00779-020-01473-5,[],"['smartPLS', 'artificial intelligence techniques']",travel
+10.3389/fpsyg.2022.779669,[],"['deep learning algorithm', 'personalized recommendation algorithm', 'Problem-Based Learning (PBL) learning resource recommendation algorithm', 'traditional recommendation algorithm']",education

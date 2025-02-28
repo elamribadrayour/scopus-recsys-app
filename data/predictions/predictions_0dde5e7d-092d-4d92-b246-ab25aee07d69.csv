@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1088/1742-6596/887/1/012048,[],"['Ensemble Learning', 'Bagging', 'Boosting', 'UserCF', 'ItemCF']",human resources
+10.1007/s11042-017-4460-0,[],"['Artificial Neural Network', 'Support Vector Machine', 'Decision Tree', 'modified time series models']",video source analysis and recommendation systems
+10.1145/3079628.3079708,['PubMed'],['Recurrent Neural Networks (RNNs)'],scientific research
+10.1587/transinf.2016EDP7054,[],"['Collaborative Filtering (CF)', 'Support Vector Machine (SVM)', 'Particle Swarm Optimization (PSO)']",ecommerce
+10.1109/TAAI.2016.7880179,"['wordcount', 'terasort']","['random forest', 'gradient boosting machine', 'support vector regression']",big data platform configuration
+10.23919/DATE.2017.7927260,[],['Restricted Boltzmann Machine (RBM)'],entertainment
+10.1109/BigDataService.2017.31,['real-world data collected from the San Jose State University career center web site'],"['collaborative filtering', 'text mining']",education
+10.1007/s11704-016-5273-4,[],"['additive tree models (ATMs)', 'optimal heuristic search', 'sub-optimal heuristic search']",financial services
+10.1109/AINA.2017.12,[],['Random Forest'],ecommerce
+10.1007/s11740-017-0715-x,[],"['text-mining', 'topic modeling', 'machine learning']",research

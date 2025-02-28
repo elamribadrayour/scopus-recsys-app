@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.3390/computers13010001,['large real-world data set of recipes'],['collaborative filtering'],health and well-being
+10.7717/peerj-cs.1805,[],[],
+10.1109/TNNLS.2023.3306801,[],"['top-K combinatorial multiarmed bandits', 'Neural UCB']",recommendation tasks
+10.22266/ijies2024.0229.44,[],"['Bidirectional long short-term memory (BILSTM)', 'graph neural network (GNN)', 'deep learning', 'deep reinforcement learning', 'Neuroevolution']",social media
+10.1016/j.ijin.2024.02.003,[],"['collaborative filtering', 'Machine Learning (ML)-based sentiment analysis']",mobile application-based official document management
+10.1007/978-981-99-6547-2_49,[],"['Lasso regression', 'XGBoost', 'K-nearest neighbor', 'surprise baseline', 'SVD', 'SVDpp']",entertainment
+10.1201/9781003363781-2,[],"['DBSCAN', 'K-Means']",ecommerce
+10.1007/978-3-031-53445-4_28,[],"['SimQL recommendation model', 'AI algorithms', 'fuzzy logic']",manufacturing
+10.1007/s11042-024-18287-9,[],"['LP', 'Similarity Metrics', 'Learning-based approaches', 'XAI', 'LIME']",e-commerce
+10.1007/978-981-99-7666-9_25,"['76,028 health insurance prescriptions', '363,697 data lines', '71 prescribing doctors', '521 medications', '1,129 disease codes according to ICD']","['association rules', 'Apriori algorithm']",medical

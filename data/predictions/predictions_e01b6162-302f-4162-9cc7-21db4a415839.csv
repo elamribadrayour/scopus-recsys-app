@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ISCA45697.2020.00070,[],"['deep learning', 'sparse embedding operations']",ecommerce
+10.1145/3394486.3403341,[],"['deep network architectures', 'modeling techniques']",cloud storage
+10.1631/FITEE.1900382,[],"['deep neural networks', 'highway mechanism', 'multi-head attention', 'block coordinate descent']",ecommerce
+10.1109/MDM48529.2020.00043,[],"['feature conjunction', 'low-rank latent matrices']",computational advertising
+10.1109/CoG47356.2020.9231735,[],"['collaborative filtering', 'singular value decomposition']",entertainment
+10.1109/ICESC48915.2020.9156012,[],"['pearson correlation coefficient', 'memory-based collaborative filtering']",education
+10.1007/s00146-019-00893-z,['real dataset collected from the LinkedIn social network'],"['collaborative filtering', 'demographic recommendation systems', 'data mining', 'artificial neural networks', 'fuzzy techniques']",social media
+10.1145/3397271.3401113,[],"['Distributed Equivalent Substitution (DES) training', 'Deep Learning Recommendation Models (DLRMs)']",ecommerce
+10.1145/3397271.3401422,[],[],information retrieval
+10.1109/IJCNN48605.2020.9207591,['CPC-18'],"['psychological factorisation machine (PsychFM)', 'random forest', 'factorisation machines']",consumer behavior

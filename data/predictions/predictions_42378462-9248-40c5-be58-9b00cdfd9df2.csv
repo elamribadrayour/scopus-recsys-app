@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3575813.3597350,"['30-day per-minute unified EV charger information dataset', 'EV driving behavior dataset']",['deep reinforcement learning (DRL)'],electric vehicles
+10.1145/3579371.3589112,['recently released production traces'],"['Deep Learning Recommendation Models (DLRMs)', 'Software prefetching', 'Overlapping computation and memory accesses']",personalized recommendation systems
+10.1063/5.0113948,[],[],
+10.3390/bioengineering10040495,['two widely used datasets'],"['deep learning model', 'attention mechanism']",next point-of-interest (POI) recommendation
+10.1016/j.jjimei.2022.100145,[],"['Random Forest', 'Decision Tree', 'clustering', 'topic modeling', 'Inverse Document Frequency', 'K-means clustering']",digital tourism
+10.1109/TKDE.2022.3155155,['Alibaba'],"['Graph Neural Networks (GNNs)', 'RecNS', 'PinSage', 'NGCF', 'LightGCN']",ecommerce
+10.1609/aaai.v37i9.26335,[],"['dueling Bayesian optimization', 'preferential embedding dueling Bayesian optimization (PE-DBO)']",web page recommendation
+10.3390/jtaer18020055,[],[],ecommerce
+10.4018/978-1-6684-6903-3.ch003,[],[],recommendation systems
+10.2298/CSIS220815016F,"['PETA', 'RAP']","['self-attention mechanism', 'hierarchical recognition strategy']",person re-identification

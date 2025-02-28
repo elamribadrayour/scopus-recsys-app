@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/s10489-022-03340-7,['two real-world datasets'],"['Graph Neural Network (GNN)', 'Heterogeneous Attributed Network (HAN)', 'HANRec']",recommendation system
+10.1016/j.knosys.2022.109877,['electronic health records of South Koreans'],['cluster-applied deep reinforcement learning'],healthcare
+10.1007/s00500-021-06709-x,[],"['collaborative filtering', 'content recommendation', 'model recommendation', 'deep belief neural network', 'matrix decomposition']",music
+10.1145/3511808.3557140,['large industry video platform of 10 billion samples'],"['Multi-Faceted Hierarchical MTL model (MFH)', 'SOTA models']",entertainment
+10.1145/3511808.3557494,[],[],
+10.1142/S0218194022500577,['last.fm-1b'],"['deep learning', 'user-based attention mechanisms', 'Long Short-Term Memory', 'multilayer perceptron']",entertainment
+10.3390/app122110777,['pre-collected dataset'],['STFT (Short-Time Fourier transform)'],entertainment
+10.1145/3533271.3561757,[],"['Graph-based Collaborative Filtering', 'GCFCR']",financial services
+10.3390/e24111575,[],"['nearest neighbors', 'pattern mining algorithms', 'recurrent neural networks', 'graph neural networks', 'attention-based networks']",ecommerce
+10.1016/j.neucom.2022.09.023,['AliExpress'],"['Trust-Aware Spatial-Temporal Activity based Denoising Autoencoder (TSTDAE)', 'autoencoder-based deep-learning models']",ecommerce

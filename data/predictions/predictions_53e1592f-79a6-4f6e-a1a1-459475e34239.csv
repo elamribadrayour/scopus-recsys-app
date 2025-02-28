@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/2810103.2812702,"['Amazon reviews', 'Yelp reviews']","['subgraph analysis', 'label propagation', 'latent factor models']",fraud detection
+10.1109/MLSP.2015.7324363,['image dataset of Greek popular tourist landmarks extracted from Flickr'],['Parallel Factor Analysis 2 (PARAFAC2)'],social media
+10.1016/j.compenvurbsys.2013.07.006,['Flickr geotagged photos'],"['spatial clustering', 'machine learning']",tourism
+10.1007/s10462-013-9400-4,[],['Particle Swarm Optimization (PSO)'],
+10.1109/ABLAZE.2015.7155014,['movie data-set'],"['Zero R rule', 'Naïve Bayes classifier', 'J48 tree']",entertainment
+10.1007/978-3-319-41920-6_29,[],[],advertisement
+10.1109/ICHI.2015.23,['dataset provided by the Charité University Hospital of Berlin'],"['embedding of entities and events', 'Neural Network predictive models', 'K-nearest neighbors', 'Naïve Bayes classifier', 'Logistic Regression']",medical
+10.3233/978-1-61499-619-4-249,['Gowalla data'],['probability problem formulation'],location-based social network
+10.1007/978-3-319-27674-8_14,[],"['latent Dirichlet allocation (LDA)', 'topic model', 'pointwise mutual information (PMI)']",social media
+10.1007/978-3-319-39396-4_39,[],[],ecommerce

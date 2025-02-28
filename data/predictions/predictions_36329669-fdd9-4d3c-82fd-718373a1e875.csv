@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/s42452-021-04162-x,['five open source software projects developed and managed using an open source development framework GitHub'],"['Convolutional Neural Network', 'Multilayer Perceptron', 'Classification and Regression Trees', 'Generalized Linear Model', 'Bayesian Additive Regression Trees', 'Gaussian Process', 'Random Forest', 'Conditional Inference Tree']",software development
+10.1016/j.techfore.2020.120511,[],"['machine learning (ML)', 'natural language processing (NLP)', 'neural network (NN) language models']",smart manufacturing
+10.1109/HPCA51647.2021.00029,[],['Tensor Casting'],cloud datacenters
+10.1109/ICAIS50930.2021.9395835,[],['Deep learning'],e-learning
+10.1109/ICCIKE51210.2021.9410737,[],"['Association Rule Mining', 'Collaborative filtering']",ecommerce
+10.1109/NCCC49330.2021.9428842,[],[],
+10.1109/JIOT.2020.3027586,['movie recommendation system'],"['deep reinforcement learning', 'differential privacy', 'neural network']",entertainment
+10.1109/CSICC52343.2021.9420546,[],"['Factorization Machines', 'XDBoost']",online advertisement
+10.1109/EIConCIT50028.2021.9431908,[],"['Synthetic Minority Oversampling (SMOTE)', 'k-NN-Linear Interpolation', 'MultiLayer Perceptron (MLP)']",human resources
+10.1007/s10489-020-01868-0,[],"['Multi-Attention Network (MANC)', 'attention-based memory component', 'friend-level attention network', 'feature-level attention network', 'POI-level attention network']",Location-Based Social Networks (LBSNs)

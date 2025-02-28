@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ACCESS.2023.3268616,['Amazon-Book'],"['Graph Convolution Network (GCN)', 'IcaGCN']",ecommerce
+10.1109/ICIDCA56705.2023.10099564,[],['Crop Prediction using Machine Learning'],agriculture
+10.1109/ICCMC56507.2023.10083579,[],"['decision tree', 'machine learning algorithms']",E-learning
+10.1109/ICSCDS56580.2023.10104889,[],"['XGBoost', 'collaborative filtering']",entertainment
+10.1109/OJCOMS.2023.3265425,[],[],
+10.1109/ICIDCA56705.2023.10099607,[],"['Machine Learning', 'decision tree']",medical
+10.1109/ICAISC56366.2023.10085506,[],"['collaborative filtering', 'supervised learning', 'ensemble learning']",online advertising
+10.1109/ESCI56872.2023.10099750,[],"['collaborative filtering', 'KNN']",ecommerce
+10.1109/AISC56616.2023.10085651,[],['LeNET Convolutional Neural Network (CNN)'],healthcare
+10.5220/0011993600003464,['Indeed.com data science job listings'],[],employment

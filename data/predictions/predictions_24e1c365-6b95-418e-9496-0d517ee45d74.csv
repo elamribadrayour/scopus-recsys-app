@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.2507/29th.daaam.proceedings.018,[],"['neural-fuzzy controller', 'deep learning']",emergency situations
+10.1109/TBCAS.2017.2760504,['three different sources'],"['deep learning neural network', 'word embedding']",nutrition
+10.1007/978-3-030-00563-4_4,['real-world data collected from a china B2B online medical platform'],"['CB-CF hybrid algorithm', 'CNN-based CF algorithm', 'content-based algorithm', 'model-based CF algorithm']",medical
+10.3233/978-1-61499-834-1-409,[],['Convolutional Neural Network (CNN)'],sightseeing
+10.3166/ISI.23.5.159-173,['travel data based on Hadoop'],"['MapReduce', 'FP-Growth']",travel
+10.3233/978-1-61499-927-0-417,['Meetup social network dataset'],"['k-means', 'fuzzy k-means', 'affinity propagation']",social media
+10.1007/978-3-030-04167-0_36,"['600,000+ songs']","['deep convolutional neural network', 'MusicCNNs', 'Fourier transformation']",music
+10.1007/978-3-030-02925-8_22,['two large realistic competitions datasets'],['Automatic Feature Engineering Machine (AFEM)'],social network
+10.1007/978-3-030-03840-3_36,[],[],entertainment
+10.1145/3184066.3184076,"['CourseRegistration', 'MSWeb']","['user-based collaborative filtering', 'association rule based approach', 'item based collaborative filtering', 'latent factor model', 'association rule based model']",ecommerce

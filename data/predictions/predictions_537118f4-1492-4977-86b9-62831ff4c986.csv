@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1155/2022/1413597,"['Adience dataset', 'UTKface dataset']","['deep convolution neural network (DCNN)', 'hybrid particle swarm optimization (HPSO)', 'support vector machine (SVM)']",nutrition
+10.1007/978-981-19-2177-3_66,[],[],
+10.1109/FUZZ-IEEE55066.2022.9882820,"['PolishSubtitles', 'Dictionary of Synonyms', 'Personnel Consulting Agency Database']","['machine learning algorithms', 'Osgood semantic scale', 'NLP techniques']",media casting
+10.1007/978-981-19-1012-8_42,[],"['Random Forest classifier', 'PyTorch neural network']",agriculture
+10.1155/2022/1032976,[],[],education
+10.1109/CONIT55038.2022.9847888,['spotify dataset'],"['Multitask Cascaded Convolution Neural Network (MTCNN)', 'FaceNet Architecture', 'Convolution Neural Network']",entertainment
+10.1109/TENSYMP54529.2022.9864409,[],"['deep neural network (DNN)', 'DeCS']",ecommerce
+10.18293/SEKE2022-115,['last.fm-1b'],"['neural collaborative filtering', 'attention mechanisms']",entertainment
+10.1007/978-981-19-1018-0_43,['Indian dataset'],"['support vector machine (SVM)', 'polynomial regression']",agriculture
+10.1007/978-981-19-2894-9_11,[],['hybrid recommendation techniques'],education

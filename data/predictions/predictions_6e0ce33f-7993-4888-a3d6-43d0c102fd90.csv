@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/AIARS59518.2023.00099,['public recommendation dataset'],['DARR model'],ecommerce
+10.1109/ICCCNT56998.2023.10307936,[],"['Content-based filtering', 'Natural Language Processing (NLP)', 'transformer-based methods', 'Convolutional Neural Networks (CNNs)', 'Autoencoders']",ecommerce
+10.1109/ICCCNT56998.2023.10307999,[],[],agricultural
+10.1109/INISTA59065.2023.10310319,[],['hybrid machine learning approach'],expert recommendation systems
+10.4028/p-g9ekjp,[],['Sentiment Analysis'],entertainment
+10.14569/IJACSA.2023.0141114,['reviews (1996-2018)'],"['Naïve Bayes', 'Logistic Regression', 'Support Vector Machine (SVM)', 'Decision Tree', 'Random Forest', 'Bidirectional Long-Short-Term-Memory (BI-LSTM)', 'Convolutional Neural Network (CNN)', 'Long-Short-Term-Memory (LSTM)', 'Stacked LSTM', 'collaborative filtering', 'k-Nearest Neighbours (KNN)']",ecommerce
+10.1007/978-3-031-46674-8_45,[],[],
+10.1109/ICDSM59373.2023.00073,[],['K-means clustering'],tourism e-commerce
+10.1155/2023/4637678,[],[],AI recommendation system
+10.14569/IJACSA.2023.0141102,"['276,700 users']","['TiSASRec', 'semantic sampling']",entertainment

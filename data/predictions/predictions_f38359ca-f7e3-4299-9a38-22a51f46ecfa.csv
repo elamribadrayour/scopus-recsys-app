@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.7903/ijecs.1413,[],"['J48', 'ID3', 'Naïve Bayes']",e-Learning
+10.1504/IJIL.2016.079065,[],[],
+10.1109/FIE.2015.7344381,[],"['collaborative filtering', 'K-means', 'Cobweb']",education
+10.1002/9781118680605.ch15,[],[],music
+10.1007/978-3-662-49390-8_8,['tourism dataset'],"['collaborative filtering', 'SVD', 'Slope One', 'Weight Slope One']",E-tourism
+10.1016/j.chb.2014.10.062,[],[],publishing
+10.1007/978-3-319-38791-8_15,['Linked Datasets in the Linked Open Data (LOD) cloud'],['collaborative filtering'],data publishing
+10.1145/2750858.2805840,[],"['Multiarmed Bandit', 'pareto-frontier algorithm']",health
+10.1007/978-3-319-30671-1_47,"['public business data from Facebook', 'urban planning data', 'data of food businesses in Singapore']",['machine learning algorithms'],ecommerce
+10.1145/2814940.2815002,[],"['intention recognition', 'recommendation system']",human-robot interaction

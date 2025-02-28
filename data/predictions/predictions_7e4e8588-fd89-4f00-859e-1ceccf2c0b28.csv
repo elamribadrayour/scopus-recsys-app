@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3485447.3512182,[],"['self-supervised graph representation learning', '1-Wasserstein distance', 'distributionally robust self-supervised graph neural network']",recommendation system
+10.53759/7669/jmc202202011,[],['collaborative filtering'],entertainment
+10.1145/3487553.3524199,[],[],
+10.3390/e24040535,[],"['RNN (Recurrent Neural Network)', 'self-attention recommendation model', 'multi-head self-attention network']",entertainment
+10.1007/s00779-019-01261-w,['TMDb (The Movie Database)'],"['naive Bayes', 'SGD (stochastic gradient descent)', 'SVM (support vector machine)', 'CNN (convolution neural network)']",entertainment
+10.1145/3489525.3511672,[],"['deep learning-based recommendation systems', 'state-of-the-art recommendation models']",social media
+10.1016/j.elerap.2022.101131,['real-world dataset'],"['DeepIDRS', 'bidirectional encoder representations', 'attention-based sequential recommendation model']",ecommerce
+10.3390/app12115314,['various datasets'],"['Deep Reinforcement Network (DRN)', 'Gate Attentional Factorization Machines (GAFM)', 'Deep Reinforcement Factorization Machines (DRFM)', 'reinforcement learning', 'deep learning']",news recommendations
+10.1145/3537693.3537732,['Aribnb open dataset'],"['Logistic Regression', 'softmax function']",ecommerce
+10.1108/EJM-12-2019-0949,[],[],

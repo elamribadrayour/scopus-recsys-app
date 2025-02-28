@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3638352,['three real-world datasets'],"['Graph Neural Networks (GNNs)', 'adversarial learning', 'fairness regularization']",recommendation systems
+10.1002/smr.2528,[],[],
+10.1007/s12530-023-09506-z,"['OAHEGA', 'FER-2013']",['Convolution Neural Network (CNN)'],entertainment
+10.3390/computation12030059,"['survey conducted with 2400 international and domestic tourists', 'comprehensive database for Pokhara City, Nepal']",['personalized recommender algorithm'],tourism
+10.1109/TBC.2023.3278111,['realworld data'],['parallel higher-order tensor singular-value-decomposition (PHOTSVD)'],ecommerce
+10.1108/K-02-2022-0167,[],"['artificial intelligence', 'natural language processing', 'sentiment analysis', 'web scraping']",public sector
+10.1287/msom.2022.0132,[],['machine learning–based predictive model'],online dating
+10.1145/3616855.3635773,['four real-world datasets'],"['Intent contrastive learning', 'Cross Subsequences for sequential Recommendation (ICSRec)']",ecommerce
+10.1145/3659677.3659701,['soil and environmental parameters'],"['Decision Trees', 'Random Forest', 'Support Vector Machine', 'K-Nearest Neighbors', 'Naive Bayes', 'LightGBM', 'Logistic Regression']",agricultural
+10.3390/app14051963,"['comprehensive dataset containing 15,165 records of student assessments']","['Gated Recurrent Neural Network (GRU)', 'Recurrent Neural Network (RNN)', 'AdaBoost', 'Artificial Immune Recognition System v2']",education

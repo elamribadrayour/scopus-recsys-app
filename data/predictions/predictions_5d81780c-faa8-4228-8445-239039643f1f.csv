@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICWR57742.2023.10139214,['data of relapsing-remitting multiple sclerosis (RRMS) patients collected from the MS clinic of Imam Hossein Hospital in Tehran'],"['K-Means', 'cosine similarity', 'collaborative filter']",medical
+10.1109/ICNWC57852.2023.10127227,['crop dataset'],['Bidirectional LSTM-Modified Elman Recurrent Neural Network (BiLSTM-MERNN)'],agriculture
+10.1109/ICICT57646.2023.10134389,[],[],entertainment
+10.1109/I2CT57861.2023.10126171,['Naukri.com'],"['Natural Language Processing', 'Machine Learning', 'Cosine Similarity']",recruiting
+10.1109/ICECCO58239.2023.10147138,[],['machine learning algorithms'],education
+10.1109/ISCON57294.2023.10112161,[],"['Particle Swarm Optimization (PSO)', 'Term Frequency Inverse Document Frequency model (TF-IDF)', 'Genetic Algorithm (GA)']",web recommendation system
+10.1109/ISACC56298.2023.10084296,[],"['Dove Regression', 'Transfer learning', 'classification trees']",E-commerce
+10.1109/ICSCDS56580.2023.10105119,[],[],
+10.1109/ICEARS56392.2023.10085596,[],['LightGBM'],agriculture
+10.1109/OTCON56053.2023.10113941,[],"['clustering', 'classification', 'Random Forest', 'Gradient Boosting']",entertainment

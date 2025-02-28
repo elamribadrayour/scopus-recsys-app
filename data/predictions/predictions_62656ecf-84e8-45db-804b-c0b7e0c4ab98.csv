@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-030-78818-6_14,[],['Content-based Filtering'],entertainment
+10.46300/9106.2021.15.72,[],"['k-means algorithm', 'K nearest neighbor model', 'score matrix decomposition']",website personalization
+10.3390/diagnostics11060990,"['National Health Insurance database', '1,463,837 prescriptions from 530,050 unique patients']",['deep learning'],healthcare
+10.32604/iasc.2021.012532,['maneuvers dataset'],"['Tensor Factorization (TF)', 'Deep Neural Network (DNN)', 'logistic regression', 'Doc2Vec', 'fully connected network', 'convolutional neural network (CNN)']",battlefield situation information
+10.3991/ijet.v16i04.18643,[],['Decision Tree'],educational
+10.3991/IJET.V16I01.18233,[],['collaborative filtering'],education
+10.1109/ACCESS.2021.3062687,['structured disease prediction data of the 2020 Artificial Intelligence Challenge Preliminary Competition'],"['DeepFM', 'Factorization Machine (FM)', 'Factorization-supported Neural Network (FNN)', 'Product-based Neural Networks (PNN)', 'Inner PNN (IPNN)', 'WideDeep', 'DeepCross']",medical
+10.3991/ijet.v16i03.18851,[],"['context-aware recommender system', 'context-based recommender system', 'content-based', 'collaborative filtering', 'hybrid recommender system', 'Web ontology language (OWL)', 'Resource Description Framework (RDF)', 'machine learning', 'semantic mapping rules', 'natural ontology languages']",E-learning
+10.1007/978-3-030-72610-2_9,['text corpus of book previews labeled with categories - children’s or adult'],['machine learning models'],book recommendation systems
+10.1007/s12652-020-02848-5,['New York City Cab traffic data'],['machine learning classification module'],transportation

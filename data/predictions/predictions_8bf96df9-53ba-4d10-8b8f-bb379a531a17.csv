@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/s12065-022-00810-2,['online learning website data'],['LDA (Latent Dirichlet Allocation)'],online education
+10.1063/5.0176896,[],[],ecommerce
+10.1051/e3sconf/202343001100,[],['machine learning'],agriculture
+10.1007/s11280-023-01204-9,[],[],
+10.1145/3626091,[],"['graph neural networks (GNNs)', 'contrastive learning', 'global collaborative filtering graph embedding']",ecommerce
+10.1021/acsami.3c09684,[],"['deep learning', 'prototype-based classifier', 'soft voting']",food and beverage
+10.4018/979-8-3693-1186-8.ch023,[],"['collaborative filtering', 'machine learning']",healthcare
+10.1109/TKDE.2022.3194952,['Yelp'],"['Triple-hierarchical Attention Graph-based social rating prediction (TAG)', 'inductive GNN']",ecommerce
+10.1145/3583780.3614854,['two auction datasets'],"['contrastive learning', 'contrastive pairs construction', 'contrastive embedding', 'contrastive optimization']",ecommerce
+10.22105/jarie.2021.275620.1264,[],"['Collaborative Filtering (CF)', 'Deep Learning']",information retrieval

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1080/10447318.2023.2209995,[],"['explainable artificial intelligence (XAI)', 'construal level theory (CLT)']",human-AI interactions
+10.1007/s44196-023-00264-z,[],"['deep learning', 'personalized recommendation algorithm']",ecommerce
+10.1145/3628454.3629471,['Thai social media application dataset'],"['Neural networks', 'Contextualized Word Embedding (Multilingual Universal Sentence Encoder)', 'Principal Component Analysis (PCA)', 'Deep and Cross Network (DCN)']",social media
+10.1109/TBDATA.2022.3214622,['concept stock datasets'],"['Federated Meta Embedding (FedME)', 'Federated Graph Meta Embedding (FedGME)']",financial services
+10.1145/3595916.3626369,[],[],social media
+10.2174/97898151657391230101,[],"['reinforcement learning', 'artificial neural networks']",marketing
+10.1007/s10844-023-00786-0,['NOWPLAYINGRS'],"['deep learning', 'multi-information fusion', 'hierarchical multi-information fusion']",music
+10.1145/3638985.3638999,['two real recommendation system datasets'],"['graph attention neural network', 'Social recommendation', 'GNN-DR']",social media
+10.3233/FAIA231096,[],['machine learning techniques'],entertainment
+10.1038/s41598-023-39564-x,[],"['Delegated Proof of Stake-Byzantine Algorand-Directed Acyclic Graph consensus algorithm', 'PBDAG consensus algorithm', 'optimized back propagation algorithm', 'practical Byzantine Fault Tolerance', 'Byzantine Fault Tolerance', 'Hybrid Parallel Byzantine Fault Tolerance', 'Redundant Byzantine Fault Tolerance', 'Delegated Byzantine Fault Tolerance']",information security

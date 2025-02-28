@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.32604/csse.2023.036629,"['dataset about Karnataka state, India', 'six datasets: two from Case-1 (many numeric variables), two from Case-2 (many categorical variables), one from Case-3 (reduced factor variables)']",['extended version of the K-means partitioning method with lambda estimation'],agriculture
+10.1201/9781003319917-10,[],[],
+10.1155/2023/3704217,[],"['deep learning', 'image classification', 'Word2vec', 'EfficientNet B0']",intelligent vehicle technologies
+10.1109/ICCMC56507.2023.10084205,[],"['collaborative filtering', 'association rule mining']",entertainment
+10.5220/0011957500003476,[],"['Hybrid Recommendation System', 'Face Recognition models', 'Linear Kernel']",medical
+10.1109/ICAECT57570.2023.10117628,[],['ML algorithms'],ecommerce
+10.1007/978-3-658-38798-3,[],[],automotive
+10.1109/ACCTHPA57160.2023.10083372,[],[],ecommerce
+10.1109/ICBATS57792.2023.10111275,['books'],['Neural Network'],ecommerce
+10.1109/ICIDCA56705.2023.10100122,[],"['collaborative filtering', 'content-based filtering']",employment

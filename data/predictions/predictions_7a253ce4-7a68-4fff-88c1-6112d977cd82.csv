@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICECOME.2018.8644734,"['Amazon', 'Yelp']","['collaborative filtering', 'probabilistic matrix factorization', 'convolutional neural networks', 'Dual-Prior Review-based Matrix Factorization']",ecommerce
+10.1093/comnet/cny012,['standard datasets'],['machine learning algorithm'],social and biological networks
+10.1145/3195106.3195148,['Chinese song lyrics'],"['collaborative filtering', 'content-based', 'latent factor learning', 'tf*idf']",music
+10.1109/CEEICT.2018.8628075,[],"['tf-Idf', 'cosine similarity', 'reverse hierarchical clustering']",news
+10.1109/WorldS4.2018.8611605,[],"['RBF neural network', 'RBF-CTI algorithm']",team recommendation system
+10.1109/ICOA.2018.8370591,[],"['Text Mining', 'NLP (Natural Language Processing)']",education
+10.1109/SmartTechCon.2017.8358433,[],"['clustering', 'frequent item set detection', 'classification oriented cluster analysis']",ecommerce
+10.1177/0165551517692955,"['Amazon product data', 'Amazon purchase review data']","['collaborative filtering', 'opinion mining']",ecommerce
+10.1109/ICDMW.2018.00054,['industrial scale dataset'],['Open IE pipeline'],career path recommendation
+10.4018/JECO.2018070103,[],"['personalized recommendation algorithm', 'data mining', 'sentiment analysis']",ecommerce

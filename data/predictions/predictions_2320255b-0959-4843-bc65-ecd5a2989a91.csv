@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3447548.3470802,[],[],personalized search and recommendation systems
+10.1109/ICIMTech53080.2021.9535012,[],"['deep learning', 'recommendation system']",education
+10.1145/3447548.3467338,[],"['Laplacian Eigenmaps with Popularity-based Regularization for Isolated Data (LEPORID)', 'K-nearest-neighbor (KNN)', 'Dual-Loss Residual Recommendation (DLR^2)']",entertainment
+10.1109/ICIMTech53080.2021.9535082,[],[],
+10.1109/INISTA52262.2021.9548413,[],['association mining'],airline industry
+10.1016/j.knosys.2021.107217,[],"['Deep reinforcement learning', 'Multi-modal Knowledge-aware Reinforcement Learning Network (MKRLN)', 'hierarchical attention-path']",recommendation systems
+10.1016/j.entcom.2021.100442,['1200 valid questionnaire data'],"['cluster analysis', 'association rules', 'rule-based recommendation approach']",sports leisure and entertainment marketing
+10.1109/ICIRCA51532.2021.9544524,[],"['decision tree', 'kth nearest neighbor', 'logistic regression', 'random forest', 'gradient boosting classifier', 'voting classifier']",agriculture
+10.1016/j.asoc.2021.107552,['three real-world datasets'],"['deep learning techniques', 'hybrid model']",commercial websites
+10.1145/3437963.3441661,[],"['conversational recommendation', 'natural language processing']",ecommerce

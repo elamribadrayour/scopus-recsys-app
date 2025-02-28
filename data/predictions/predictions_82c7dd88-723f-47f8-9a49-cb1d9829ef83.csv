@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/INVENTIVE.2016.7824791,[],[],
+10.1186/s13326-016-0086-9,"['dataset of 115 concepts', '34 clinical free-text radiology reports']","['collaborative development', 'semantic schema creation', 'pyConText']",clinical
+10.1109/ICIT.2016.7474952,"['NewCarsDB (www.newcarsdb.com)', '40 car brands', '870 vehicles comparison records', '30,867 car pairwise comparison records']",['association rules'],automotive
+10.1109/SAPIENCE.2016.7684161,[],[],entertainment
+10.1109/ICMLC.2016.7872977,['context rich movie dataset'],"['context-aware splitting approaches (CASA)', 'item-based collaborative filtering']",entertainment
+10.1007/s11042-016-3481-4,['Movielens dataset'],"['collaborative filtering', 'K-NN', 'K-means', 'particle swarm optimization (PSO)', 'fuzzy c-means (FCM)', 'Genetic algorithm (GA)']",entertainment
+10.1109/ICIEA.2016.7603801,['open dataset'],"['SVM (Support Vector Machine)', 'BP neural network algorithm', 'ID3 decision tree algorithm']",medical
+10.1109/INFCOMW.2016.7562072,"['real dataset covering 6,800 residents with more than 3.2 million records in 23 days']","['association rules', 'Bayesian model', 'dimension reduction based on principal components analysis', 'various state-of-the-art machine learning algorithms']",mobile big data and user interest acquisition
+10.4018/IJDSST.2016040103,[],[],
+10.1016/j.asoc.2016.04.039,[],"['personalization algorithm', 'ant colony optimization (ACO)']",neurological disorders

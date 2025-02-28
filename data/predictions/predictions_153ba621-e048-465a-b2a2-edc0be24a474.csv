@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-642-04592-9_31,['sales data'],['Agent-Based In-Store Simulator (ABISS)'],retail
+10.1109/CCPR.2009.5344146,[],"['collaborative filtering', 'subspace clustering algorithm']",ecommerce
+10.1109/ICDSC.2008.4635727,['simulated clothes fitting image dataset'],"['computer vision', 'machine learning']",clothing recommendation
+10.1108/02640470810879482,[],"['self-organizing map (SOM)', 'artificial neural network (ANN)', 'data-mining (DM)']",e-learning
+10.1109/WI.2005.55,[],"['Web Usage Lattice', 'fuzzy logic']",web monitoring
+10.1108/02640470710837137,[],"['association rule', 'clustering methods']",digital library services
+10.1007/11552451_34,[],['intelligent recommendation function'],entertainment
+10.1007/11495772_65,[],"['Multistrategy Inference and Learning System', 'Logic of Plausible Reasoning', 'machine learning algorithms']",recommendation systems
+10.1109/APSCC.2006.76,[],"['collaborative filtering', 'data mining', 'content-based approach']",ecommerce
+10.1007/11531371_49,['real-life applications'],"['rule-based recommendation system', 'feedback-based machine learning']",web

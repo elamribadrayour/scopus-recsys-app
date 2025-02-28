@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/IJCNN52387.2021.9533535,['realworld dataset'],['relational graph convolutional networks'],financial services
+10.1145/3447548.3467139,[],[],entertainment
+10.1145/3437963.3441733,['real-world recommendation system'],"['Real-time relevant recommendation suggestion (R3S) framework', 'Multi-critic multi-gate mixture-of-experts (M3oE)']",entertainment
+10.1109/CSAIEE54046.2021.9543196,['Alimama public data set'],['Time Interval Encoding Deep Session Interest Network (TIED-DSIN)'],advertising
+10.1109/ICESC51422.2021.9532868,[],['latent factor'],entertainment
+10.1007/s10590-021-09271-3,"['Danish Sign Language lexicon', 'POLYTROPON (Greek Sign Language lexicon)']","['deep learning', 'OpenPose']",sign language recognition
+10.1016/j.neucom.2021.03.076,['three real-world datasets'],"['graph convolutional network (GCN)', 'Attentional Social Recommendation system (ASR)']",recommendation task
+10.1145/3447548.3467080,"['publicly available natural language processing datasets', 'recommender models and datasets', 'recommendation systems used in production at Facebook']",['Dynamic Communication Thresholding (DCT)'],ecommerce
+10.1016/j.inffus.2021.02.002,[],[],energy efficiency in buildings
+10.1515/9783110732573-001,[],['privacy-preserving cooperative filtering'],data privacy

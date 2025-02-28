@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1155/2022/7191410,[],"['CFCNN-CL', 'RRP-UI CL']",ecommerce
+10.1007/978-3-031-01942-5_36,[],"['information retrieval', 'filtering', 'machine learning', 'collaborative approaches']",e-learning
+10.32473/flairs.v35i.130595,['publicly available datasets'],"['deep learning models', 'BERT']",information filtering
+10.1109/ICIPTM54933.2022.9754157,"['open medical data on the Internet', 'social media comment data']","['knowledge graphs', 'deep learning', 'knowledge map embedding model']",medical
+10.1007/978-3-031-05767-0_22,['Linked Open Data cloud'],"['XGBoost', 'Structural Topic Modelling', 'Kullback-Leibler Divergence', 'Cosine Similarity', 'Normalized Pointwise Mutual Information', 'Jaccard similarity']",entertainment
+10.1007/978-981-19-0357-1_14,['survey data'],[],ecommerce
+10.3233/IDT-210015,"['Synthesized dataset', 'Balanced dataset']","['K-Nearest Neighbor (KNN)', 'Decision Tree (DT)', 'Naïve Bayes', 'Random Forest (RF)', 'Stochastic Gradient Descent (SGD)', 'Support Vector Machine (SVM)']",medical
+10.32604/iasc.2022.023469,"['1056 trained data', '512 test data']","['sentiment analysis', 'convolutional neural network', 'recurrent neural network', 'deep belief network']",social media
+10.1149/10701.14233ecst,['movie datasets available in kaggle'],"['Matrix Decomposition', 'Support Vector Regression (SVR)']",entertainment
+10.1109/ACCAI53970.2022.9752621,[],[],agriculture

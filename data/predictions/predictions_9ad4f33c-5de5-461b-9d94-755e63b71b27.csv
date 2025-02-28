@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/i-PACT52855.2021.9696622,[],['classification Machine Learning algorithms'],medical
+10.1007/978-3-662-62521-7,[],[],
+10.1007/978-3-030-91608-4_15,['JRC-Acquis'],['Linear Concept Approximation'],multilingual document recommendation
+10.52305/BLXA7086,[],[],recommendation systems
+10.3233/APC210221,[],"['data anonymization', 'data randomization', 'generalization', 'data permutation']",ecommerce
+10.1109/ICEEE54059.2021.9718931,[],['Longest Common Subsequence'],education
+10.1109/IUCC-CIT-DSCI-SmartCNS55181.2021.00078,['MovieLens'],"['collaborative filtering', 'deep collaborative filtering', 'Convolutional Neural Networks', 'Multi-layer Perceptron']",entertainment
+10.1016/j.jnca.2020.102874,[],"['Reversible Data Transform (RDT)', 'reversible privacy-preserving data mining']",mobile app recommendation system
+10.1109/ICIBA52610.2021.9688086,[],"['offline mining', 'real-time mining', 'deep learning', 'MapReduce', 'Spark']",ecommerce
+10.1109/ISCON52037.2021.9702472,['MovieLens'],"['popularity model', 'content-based model', 'collaborative filtering', 'latent factors', 'hybrid model']",entertainment

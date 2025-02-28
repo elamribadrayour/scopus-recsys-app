@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-031-57402-3_10,[],"['Generative AI', 'deep learning-based recommendation systems']",E-Learning
+10.5220/0012792200003756,[],"['collaborative filtering', 'hybrid model', 'NeuMF model']",education
+10.1109/ICICET59348.2024.10616312,[],"['deep learning', 'emotion detection algorithms', 'neural networks']",fitness
+10.1109/ICCCS61882.2024.10602815,[],"['Graph Neural Networks (GNNs)', 'Dual Adaptive PageRank (DAPR)']",recommendation systems
+10.1007/978-3-031-67904-9_1,[],['AI-based recommendation system'],fashion E-commerce
+10.1109/ACCESS.2024.3447747,[],"['GRATB', 'BERT4Rec', 'self-attention mechanism', 'time-mixing attention mechanism', 'dynamic head fusion']",recommendation systems
+10.1109/CONIT61985.2024.10626639,[],"['SVM', 'logistic regression', 'Naïve Bayes', 'Decision trees', 'random forest', 'gradient boosting', 'ensemble methods']",agriculture
+10.1109/CONIT61985.2024.10626573,['nutritional databases'],['Roberta model'],dietary recommendations
+10.1109/ICBDA61153.2024.10607213,[],"['Latent Dirichlet Allocation (LDA)', 'Gradient Boosting Tree']",financial services
+10.1007/978-3-031-66997-2_21,[],['transformer-based model'],formal verification

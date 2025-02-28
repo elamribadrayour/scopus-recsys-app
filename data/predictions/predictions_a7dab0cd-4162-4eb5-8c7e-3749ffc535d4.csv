@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-030-37618-5_17,[],['SVD'],ecommerce
+10.1109/ACCESS.2020.2968537,"[""medical dataset with 30 patients' data including 13 features and 1000 products""]","['logistic regression', 'naive bayes', 'Recurrent Neural Network (RNN)', 'Multilayer Perceptron (MLP)', 'Gated Recurrent Units (GRU)', 'Long Short-Term Memory (LSTM)']",medical
+10.1007/978-3-030-33506-9_48,[],"['deep learning', 'recommendation algorithms']",information retrieval
+10.3233/FAIA200016,[],"['online learning', 'knowledge discovery', 'data mining']",ecommerce
+10.1109/TCYB.2018.2866869,[],"['adaptive resonance theory-supervised predictive mapping', 'fuzzy ARTMAP', 'hierarchical classification']",multimedia recommendation system
+10.1007/978-3-030-41913-4_8,[],['artificial intelligence'],transportation
+10.1016/j.neunet.2019.09.020,['two large-scale real-world ad click/conversion datasets'],['Operation-aware Neural Networks (ONN)'],advertising
+10.5373/JARDCS/V12I1/20201011,['twitter public timeline'],"['Support Vector Machine (SVM)', 'Convolutional Neural Network (CNN)']",social media
+10.1016/j.artmed.2019.101761,['supervised set of data for four different types of cardiovascular diseases'],"['collaborative filtering', 'k-mean clustering']",health
+10.1109/ANTS47819.2019.9118090,[],"['collaborative filtering', 'fuzzy rough set theory']",IoT services

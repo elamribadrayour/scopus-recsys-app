@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/2020408.2020426,[],"['stochastic gradient descent (SGD)', 'stratified SGD (SSGD)', 'matrix-factorization algorithm', 'DSGD']",
+10.1007/978-3-642-20367-1_41,[],['fuzzy clustering algorithm'],web data mining
+10.1109/WI-IAT.2010.254,[],"['ontology-based extraction', 'machine learning-based extraction']",ecommerce
+10.1007/978-3-642-25167-2_27,[],[],healthy lifestyle
+10.1109/VCON.2010.28,[],"['K-Means', 'Memetic Algorithms (MAs)', 'Memetic Clustering']",decision support
+10.1109/CIDM.2011.5949437,[],[],
+10.4028/www.scientific.net/AMR.225-226.546,[],['data mining'],web information
+10.1007/978-3-642-24273-1_4,[],"['ART neural network', 'modified ART algorithm', 'MART algorithm']",online recommendation system
+10.1109/FUZZY.2011.6007630,[],"['Collaborative Filtering', 'fuzzy set theory']",entertainment
+10.1109/ICEIT.2010.5607776,[],[],ecommerce

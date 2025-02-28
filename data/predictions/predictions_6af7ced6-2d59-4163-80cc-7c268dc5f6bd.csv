@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.11591/ijeecs.v23.i1.pp445-452,['MovieLens benchmark datasets'],"['collaborative filtering', 'content-based filtering', 'K-nearest neighbors (KNN)', 'restricted Boltzmann machine (RBM)', 'hybrid model']",entertainment
+10.1088/1755-1315/785/1/012013,[],"['Convolutional Neural Network (CNN)', 'Recurrent Neural Network (RNN)']",music
+10.1088/1742-6596/1911/1/012020,['tourism review websites'],"['Count Vectorization', 'TFIDF Vectorization', 'Naive Bayes', 'Support Vector Machine', 'Random Forest']",tourism
+10.1145/3460112.3471976,[],"['content filtering', 'collaborative filtering', 'machine learning algorithms']",health
+10.1109/AIID51893.2021.9456524,['Qinghai University Library borrowing records'],"['Wide and Deep model', 'Logistic Regression (LR)', 'Deep Neural Network (DNN)', 'collaborative filtering', 'hybrid recommendation algorithms', 'weighted bipartite graph model']",library book recommendation
+10.1007/s10729-021-09545-5,"['electronic medical record (EMR) and registry data of 3,643 patients from Spain, Italy, Germany, Ecuador, and the US']",['machine learning framework'],medical
+10.1007/s10664-021-09966-4,['open-source software project datasets'],"['Max-Logit', 'machine learning algorithms']",software development
+10.1109/ITC-CSCC52171.2021.9501422,[],['Natural Language Processing (NLP)'],tourism
+10.4018/IJCBPL.2021070104,[],"['emotion detection', 'classification', 'machine learning', 'artificial intelligence']",music
+10.1145/3433210.3453105,[],"['linear regression', 'solving linear systems (SLS)', 'stochastic gradient descent (SGD)']",health-care

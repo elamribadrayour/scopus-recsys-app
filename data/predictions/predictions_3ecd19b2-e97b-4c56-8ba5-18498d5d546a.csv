@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ACIT58437.2023.10275513,[],"['Apriori Algorithm', 'Recency Frequency Monetary (RFM) Analysis']",ecommerce
+10.1007/978-981-99-2746-3_30,[],['context-aware music recommendation system'],entertainment
+10.1117/12.2681532,[],"['machine learning', 'natural heuristic algorithm', 'simulated annealing (SA)']",ecommerce
+10.1109/ICNC-FSKD59587.2023.10281042,['Movie Lens'],"['personalized movie recommendation model', 'attention mechanism', 'gate mechanism', 'Basic Information-Rating Joint Attention Network (BRJA)']",entertainment
+10.1049/icp.2023.1512,[],[],
+10.1109/ICDSNS58469.2023.10245109,[],"['deep learning', 'sequential recommendation models', 'RNN', 'CNN', 'transformer-based technique', 'self-supervised learning (SSL)']",ecommerce
+10.1109/ICICAT57735.2023.10263734,[],[],agriculture
+10.12720/jait.14.5.1019-1028,[],"['collaborative filtering', 'cluster similarity-based technique', 'rule extraction technique', 'Artificial Neural Network (ANN)', 'Genetic Algorithm (GA)']",web recommendation systems
+10.1117/12.2681539,['four sets of data sets'],"['graph neural network', 'deep learning method', 'attention mechanism']",entertainment
+10.1109/ICECCME57830.2023.10253409,[],['preference neural nets (PNN)'],food industry

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.4324/9781003316152-10,[],['Naver’s AI-based recommendation system'],journalism
+10.5220/0012431700003636,"['FB13', 'WN11']",['Tri-embed Noise Detection (TrE-ND)'],recommendation systems
+10.1109/ICMCSI61536.2024.00035,['Netflix dataset'],"['content filtering', 'collaborative filtering', 'KNN', 'SVD', 'Boost', 'hybrid models', 'Matrix Factorization Technique']",entertainment
+10.2514/6.2024-2581,['synthetic satellite information'],"['probabilistic classifier', 'false data filter', 'historical track comparison tool', 'online data recommendation system']",satellite remote sensing
+10.23919/ICACT60172.2024.10471918,[],['machine learning algorithms'],ecommerce
+10.5220/0012321300003636,[],"['Machine Learning Algorithms', 'regularized target encoding']",ecommerce
+10.1007/978-981-99-9518-9_30,['2000 samples labeled with help from legal experts'],"['support vector machine', 'random forest', 'ensemble-based models']",legal
+10.1080/00140139.2024.2334427,[],[],
+10.1007/s11432-021-3665-1,[],"['deep learning model', 'ASTSDL']",code recommendation
+10.1007/978-981-99-8696-5_16,[],['deep learning-based Recommendation Systems'],Information Technology Project Management

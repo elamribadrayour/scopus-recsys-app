@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.14733/cadaps.2024.S13.1-16,[],"['Deep Learning', 'Collaborative Filtering', 'Matrix Decomposition', 'K-nearest Neighbor']",music
+10.1007/978-981-99-8067-3_33,['three public datasets'],"['graph neural networks', 'Multi-head attention Graph Neural Network (MGNN_IS)', 'attention propagation module']",recommendation system
+10.1007/978-3-031-47590-0_4,[],['C4.5 classification algorithm'],aquarium and ornamental plants
+10.1007/978-981-99-8289-9_44,[],[],
+10.1080/00051144.2023.2295148,[],"['sentiment analysis', 'collaborative filtering', 'LSTM-based model']",ecommerce
+10.2478/amns-2024-0517,['edX dataset'],"['improved association rule mining algorithm', 'deep Q-network', 'adaptive reward function']",education
+10.3389/fendo.2024.1326009,['SEER database'],"['deep learning neural network', 'Cox proportional hazard model']",medical
+10.4018/IJSI.309960,[],[],
+10.1109/LCA.2023.3336841,[],"['deep neural networks', 'FPGA-accelerated RecSys preprocessing']",advertising
+10.1109/ACCESS.2024.3368058,[],['hybrid strategy'],higher education

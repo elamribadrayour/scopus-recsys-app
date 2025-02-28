@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1002/aic.17687,[],[],
+10.1007/s42600-022-00213-3,[],['convolutional neural network (CNN)'],healthcare
+10.1145/3490100.3516460,[],[],
+10.3390/network2020015,['real parking datasets with around five million records of parking availability in San Francisco'],"['Machine Learning and Neural Network-based algorithms', 'Ensemble Learning', 'Voting Classifier', 'Decision Tree (DT)']",smart parking
+10.1145/3487553.3524247,['Amazon proprietary datasets'],"['multi-task heterogeneous graph neural network (M-HetSage)', 'list-aware average precision (LaAP) loss']",ecommerce
+10.1063/5.0081795,['million song dataset'],"['content based filtering', 'collaborative filtering']",entertainment
+10.23940/ijpe.22.04.p8.298306,[],"['matrix factorization', 'particle swarm optimization (PSO)', 'k-means clustering']",ecommerce
+10.3390/app12115318,['three datasets of different sizes and categories'],"['Aging Residual Factorization Machines (ARFM)', 'deep neural networks', 'residual network']",recommendation systems
+10.1145/3491102.3517648,[],[],data exploration
+10.3390/electronics11081190,"['web-based lifelong learning courses', 'LinkedIn professional profiles']","['spatial clustering algorithm based on the density of noisy applications', 'content-based filtering']",professional skills development

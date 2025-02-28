@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/BIWA57631.2022.10037849,['TripAdvisor multi-criteria dataset'],"['sentiment DL based algorithm', 'autoencoders', 'LSTM', 'LSTM with Word2Vec']",entertainment
+10.1007/978-3-031-23473-6_33,[],['Field-aware Factorization Machine'],user interface recommendation
+10.2507/33rd.daaam.proceedings.077,[],[],
+10.1109/PDGC56933.2022.10053122,['myntra.dataset'],"['MobileNetV2', 'DenseNet201', 'SVM', 'NB', 'Ensemble', 'KNN']",ecommerce
+10.1109/AIDE57180.2022.10059913,[],[],
+10.1109/ICMNWC56175.2022.10031988,[],"['content-based filtering', 'unattended learning models', 'user-to-user recommendation', 'item-to-item recommendation']",music
+10.1109/INDICON56171.2022.10039970,"['Ciao', 'Epinions']",['Graph Neural Network (GNN)'],entertainment
+10.1007/978-981-19-8991-9_17,[],['Supervised Prototypical Variational Auto-Encoder (SP-VAE)'],ecommerce
+10.1109/BigData55660.2022.10020645,['repository of unlabeled research documents about the novel coronavirus'],['graph autoencoder'],research
+10.1109/BigData55660.2022.10020972,[],"['Deep Learning Recommendation Models (DLRMs)', 'general matrix multiplication (GEMM)', 'EmbeddingBag']",entertainment

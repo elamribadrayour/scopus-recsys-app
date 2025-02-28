@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.eswa.2023.122557,[],[],agriculture
+10.1007/s11042-023-17201-z,['30Music'],"['HV-CNN', 'Word2Vec']",entertainment
+10.2298/CSIS230807077L,[],"['machine learning models', 'statistical analysis']",ecommerce
+10.1093/jiplp/jpae008,[],['artificial neural network'],media
+10.1109/TETCI.2023.3343998,[],"['matrix factorization', 'transformer', 'Evo-TransRec']",ecommerce
+10.1007/978-3-031-69457-8_56,[],['deep learning'],university publishing
+10.3390/info15020083,[],"['MLP (multi-layered perceptron)', 'RBF (radial basis function)', 'GenClass', 'NNC (neural network construction)', 'FC (feature construction)']",gastronomy
+10.1016/j.jksuci.2023.101865,"['CodeSearchNet', 'CosBench']","['Bi-directional Long Short-Term Memory (LSTM)', 'Graph Neural Networks (GNN)', 'Joint Bi-directional LSTM and Graph Neural Networks (JBLG)']",software engineering
+10.14569/IJACSA.2024.0151283,['benchmark datasets'],"['ConSRec', 'BERT4Rec', 'CNNs', 'RNNs']",ecommerce
+10.1063/5.0111603,[],"['collaborative filtering', 'item-based collaborative filtering']",ecommerce

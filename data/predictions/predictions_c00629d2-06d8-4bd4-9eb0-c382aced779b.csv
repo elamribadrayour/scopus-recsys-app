@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.4018/JECO.2016010105,[],"['contextual matching algorithm', 'collaborative filtering']",restaurant recommendation
+10.1109/ICCI-CC.2015.7259400,[],"['data mining', 'personalized recommendation technology']",travel route recommendation
+10.1109/BigData.2015.7364031,['KDD 2012 real data set'],['collaborative filtering'],social media
+10.1109/TKDE.2014.2365785,['real-world web search data sets'],"['expected loss optimization (ELO)', 'expected discounted cumulative gain (DCG) loss optimization (ELO-DCG)']",recommendation system
+10.1007/978-3-319-33747-0_9,['Entree UCI benchmark'],[],content management
+10.3233/IDT-140219,"['MovieLens', 'Internet Movie Database']","['naive Bayes classifier', 'decision trees', 'k-means clustering']",entertainment
+10.1145/2671188.2749318,"['large clothing dataset with 161,234 clothes images']","['hierarchical deep search framework', 'pretrained network model', 'latent layer', 'hash codes', 'coarse-to-fine strategy']",clothing retrieval
+10.1109/ICDMW.2014.177,[],[],medical
+10.1007/978-3-662-49017-4_2,[],[],
+10.1007/978-3-319-19066-2_40,[],"['incremental diffusive clustering', 'k-Nearest-Neighbor', 'coverage-weighted similarity']",mobile applications

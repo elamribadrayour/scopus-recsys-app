@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.3389/fdata.2019.00014,['Dota 2'],"['deep learning', 'deep neural autoencoder']",entertainment
+10.23919/ICACT.2019.8702039,"['Electronic Devices category reviews', 'Mobile Phone Accessories category reviews']","['opinion mining techniques', 'classification']",ecommerce
+10.1002/isaf.1445,['35 different types of MCCSs'],"['linear regression with l1-regularisation (Lasso), predictive models, benchmark models']",financial services
+10.1080/17517575.2018.1557256,[],['fb-kNN'],healthcare
+10.1109/ECACE.2019.8679125,[],"['deep neural network', 'matrix factorization', 'collaborative filtering', 'multi-layer perceptron']",ecommerce
+10.1109/SYSCON.2019.8836842,[],"['Machine Learning', 'Statistical Methods']",Human Capital Management
+10.1145/3308558.3314133,[],[],
+10.1088/1742-6596/1201/1/012029,[],['Naïve Bayes Method'],breastfeeding
+10.1016/j.icte.2018.05.003,[],"['collaborative filtering', 'deep neural networks', 'batch normalization']",entertainment
+10.1145/3330482.3330526,[],"['clustering algorithms', 'item-item based clustering algorithm']",ecommerce

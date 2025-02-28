@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3548455,[],[],recommendation
+10.1007/978-3-031-16598-6_15,[],['recommendation system'],tourism
+10.1007/978-981-19-5221-0_39,[],[],
+10.1016/j.neuri.2022.100077,[],"['multiagent system', 'context awareness module', 'machine learning', 'deep learning']",navigation for individuals with visual impairment
+10.3390/ijerph20010309,[],"['collaborative filtering', 'traditional machine-learning classifiers']",medical
+10.1016/j.lisr.2022.101191,"['109,639 transactions', '8636 user records']","['item-based collaborative filtering', 'decision tree methods']",library management systems
+10.3390/app12178805,[],[],recommendation systems
+10.1016/j.respol.2022.104568,[],[],public investment decisions
+10.1007/s12065-020-00409-5,['three datasets of real-world'],"['collaborative filtering', 'neural multi-task collaborative filtering (NMCF)']",ecommerce
+10.1002/9781119861850.ch19,[],"['machine learning', 'deep learning']",biomedical

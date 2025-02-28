@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.32890/jict2023.22.2.6,[],['machine-learning-based recommendation systems'],digital games
+10.1063/5.0137803,['movie dataset'],"['K-means', 'Fuzzy C-means clustering']",entertainment
+10.3233/ATDE221251,[],"['deep learning', 'swarm intelligence learning', 'adaptive systems', 'blockchain']",healthcare
+10.1007/s11042-021-11551-2,"['Amazon Fine Food Reviews', 'OpinRank']","['Collaborative Filtering (CF)', 'Deep Learning (DL)', 'Long-short term memory (LSTM)', 'Gated recurrent unit (GRU)']",ecommerce
+10.1145/3580364,['two benchmark datasets'],"['tensor-Train decomposition', 'compositional encoding', 'self-supervised knowledge distillation']",recommendation systems
+10.1109/TKDE.2022.3140387,['three real-world datasets'],"['attention mechanisms', 'contextual item attention module', 'multi-head attention module']",ecommerce
+10.1016/j.tele.2023.101948,['Literature and Fiction genre data from Amazon bookstore'],"['CNN', 'ResNet', 'LSTM', 'BiLSTM', 'GRU', 'BiGRU']",ecommerce
+10.1016/j.heliyon.2022.e12613,[],"['deep learning', 'multi-head self-attention', 'recurrent neural networks (RNN)']",medical
+10.1016/j.compeleceng.2022.108571,['open dataset'],"['Bidirectional Encoder Representations from Transformers (BERT)', 'self-attention mechanism']",education
+10.1145/3555776.3577700,[],"['knowledge graph-based learning', 'deep learning-based relation modeling']",entertainment

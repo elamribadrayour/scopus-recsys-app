@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICNETIC59568.2023.00164,[],"['collaborative filtering', 'GA (Genetic Algorithm)', 'AI (Artificial Intelligence)']",digital media
+10.1109/ICAISS58487.2023.10250547,[],"['supervised learning', 'unsupervised learning', 'reinforcement learning']",recommendation systems
+10.1007/978-3-031-43056-5_27,['Amazon reviews dataset'],"['machine learning', 'Root-mean-square deviation', 'normalization', 'cross validation']",ecommerce
+10.1007/978-981-99-3982-4_24,"['Gujarati food and fruits dataset', 'dataset for cardio patients']",[],healthcare
+10.1007/978-3-031-41456-5_28,['coursera'],"['LDA topic model', 'supervised CNN model', 'latent factor model', 'matrix factorization']",e-learning
+10.3989/dra.2023.003,[],['artificial neural networks'],entertainment
+10.1109/MDM58254.2023.00016,['three public benchmarks'],"['TrustGAT', 'graph attention networks']",mobile social networks
+10.3844/jcssp.2023.953.963,"['Douban', 'Last.fm']","['Collaborative Filtering', 'Probabilistic Matrix Factorization (PMF)', 'Reduced Kernel Extreme Learning Machine (RKELM)']",entertainment
+10.1109/PerComWorkshops56833.2023.10150359,[],[],health and fitness
+10.1007/978-3-031-29713-7_7,[],"['XGBoost', 'Random Forest']",agriculture

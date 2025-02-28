@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ACCESS.2020.2995406,[],"['graph convolutional networks (GCNs)', 'multi-channel graph convolutional network (MCGCN)']",recommendation systems
+10.1007/978-981-15-1420-3_70,"['Netflix', 'MovieLens']",['item-item based collaborative filtering'],entertainment
+10.1007/978-981-15-5558-9_23,[],"['concurrent object features localization and recognition', 'grid index data structure', 'data-dependent multiple object classes', 'branch and bound']",service recommendation
+10.1007/978-3-030-34080-3_72,[],"['ANN', 'KNN']",ecommerce
+10.13053/CyS-24-2-3402,[],"['LSTM', 'Time Series Forecasting']",web services
+10.1007/978-3-030-49190-1_17,[],"['Collaborative Filtering', 'Content-based Filtering', 'K-Means', 'Weighted Sum', 'Tf/Idf', 'BM25']",entertainment
+10.1007/978-3-030-48842-0_5,[],"['Gradient Boosted Decision Trees (GBDT)', 'swGBDT', 'XGBoost']",recommendation system
+10.1007/978-3-030-34080-3_58,[],['deep learning'],entertainment
+10.1007/978-3-030-49760-6_1,[],"['machine learning', 'recommendation algorithms']",entertainment
+10.1007/978-981-15-1420-3_188,"['Twitter', 'Facebook']","['support vector machines', 'cluster support vector machines', 'genetic weighted K-means clustering']",social media

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/IEEM.2015.7385720,['Alibaba e-commerce customers purchase data'],"['Bipartite Network Recommendation model', 'improved collaborative filtering model', 'Hybrid Recommendation Model']",ecommerce
+10.1109/IRI.2016.85,[],"['LDA (Latent Dirichlet Allocation)', 'Pachinko Allocation Model (PAM)']",
+10.1109/ACCESS.2015.2513000,[],['active feature-based model selection'],enterprise
+10.1007/978-3-319-42887-1_37,[],['BPA algorithm'],business process management
+10.1007/978-3-319-52039-1_3,[],['multi-agent model'],e-learning
+10.1109/WI-IAT.2015.203,['real-world LBSN datasets'],"['latent Dirichlet allocation (LDA)', 'topic-sensitive probabilistic model']",location-based social networks
+10.1109/ACCESS.2016.2578638,[],"['multi-label classification', 'clustering-based sampling', 'frequency-based sampling']",medical
+10.1016/j.iimb.2016.01.001,['Foursquare dataset'],[],location-based social network (LBSN)
+10.1109/ICDMW.2015.234,[],[],tourism
+10.1109/ICACT.2016.7423607,"['tourist attraction areas in Japan', 'geographical nodes of Japan Railway train stations', 'weather information', 'estimated travel time', 'associated expenses', 'cultural events']",['heuristic greedy search'],tourism

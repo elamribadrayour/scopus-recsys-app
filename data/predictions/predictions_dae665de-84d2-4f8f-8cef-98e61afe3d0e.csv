@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICWITE57052.2022.10176256,"['crop production data from official websites', 'over 25000 records grouped in 8 columns']","['SVM', 'NB (Naive Bayes)', 'Random Forest', 'Decision Tree']",agriculture
+10.2174/9879815079180122010014,[],[],
+10.1016/j.knosys.2021.107689,['Medical Information Mart for Intensive Care III (MIMIC-III)'],['latent batch-constrained deep reinforcement learning (RL)'],medical
+10.1007/s00371-020-02021-1,[],"['stacked discriminative de-noising convolution auto-encoder–decoder', 'modified blowfish algorithm', 'Hadoop transform']",healthcare
+10.1016/j.cmpbup.2022.100077,['synthetically generated dataset of anonymous patients'],"['Bayesian user modeling', 'Bayesian Network']",ecommerce
+10.4324/9781003206316-10,[],[],ecommerce
+10.1088/1742-6596/2146/1/012007,[],['deep learning'],human resource recommendation
+10.1145/3549524,[],"['quantum-inspired algorithms', 'quantum singular value transformation (SVT)', 'support vector machines', 'low-rank regression', 'semidefinite program solving', 'principal component analysis', 'supervised clustering']",recommendation systems
+10.1088/1742-6596/2146/1/012041,[],"['content-based filtering', 'collaborative filtering', 'KNN-based item similarity algorithm', 'hybrid recommendation algorithm']",ecommerce
+10.4018/978-1-7998-9220-5.ch169,[],['machine-learning algorithms'],recommendation systems

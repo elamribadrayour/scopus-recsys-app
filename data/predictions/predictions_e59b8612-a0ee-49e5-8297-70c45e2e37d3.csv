@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.7717/PEERJ-CS.1731,['tourism-related community articles and posts'],['BERT (Bidirectional Encoder Representations from Transformers)'],tourism
+10.1109/IC3I59117.2023.10397944,[],"['machine learning techniques', 'hybrid framework', 'trusted knowledge infusion model']",Internet of Things (IoT)
+10.1109/ICSCAN58655.2023.10395381,['music data'],"['deep learning', 'MobileNet variants']",music
+10.1109/ICACITE57410.2023.10182640,['Physio Net data repository'],"['K-nearest neighbour classification', 'collaborative filtering']",health care
+10.1109/ICCCNT56998.2023.10308144,['MovieLens'],"['sentiment analysis', 'deep learning', 'swarm algorithms', 'content-based filtering', 'collaborative filtering', 'matrix factorization']",entertainment
+10.1109/ICCCNT56998.2023.10307726,['custom soil nutrients dataset'],['RandomForest'],agriculture
+10.18280/ria.370527,['GTZAN dataset'],"['feature extraction', 'feature selection', 'Convolutional Neural Networks (CNNs)', 'Librosa', 'PyAudio analyses']",music
+10.1109/TENCON58879.2023.10322493,[],[],
+10.1109/ICCCNT56998.2023.10306669,"['IMDB Vision', 'NLP']","['deep learning', 'correlation-based mechanism']",entertainment
+10.1109/ICSEIET58677.2023.10303386,[],"['collaborative filtering', 'Sentimental Analysis', 'Cosine Similarity']",entertainment

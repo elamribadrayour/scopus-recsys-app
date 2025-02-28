@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3404555.3404644,['MovieLens rating data set'],"['Collaborative Filtering (CF)', 'Leaders Advice Model (LAM)']",online shopping
+10.1109/ICIP48927.2020.9367357,[],['neural networks'],food decision making
+10.1145/3375555.3384423,[],[],ecommerce
+10.1109/ICBDIE50010.2020.00124,[],['deep learning'],education
+10.1145/3336191.3371832,[],"['adversarial learning', 'Bayesian personalized recommender']",information retrieval
+10.1007/s00521-019-04213-w,[],"['convex optimization', 'L0 regularization', 'recommendation techniques']",educational management
+10.1007/978-981-33-4370-2_5,"['approximately four million mark records at Can Tho University, Vietnam']","['deep learning techniques', 'MultiLayer Perceptron']",education
+10.1108/GKMC-04-2020-0058,['transactions of the users of libraries and information centers in Hamadan University of Medical Sciences'],"['association rules', 'decision tree algorithms', 'C.05', 'feedforward neural network', 'k-means']",libraries and information centers
+10.1108/EL-08-2020-0234,['Kindle Books data set'],"['collaborative filtering', 'content-based filtering', 'bag-of-words', 'term frequency–inverse document frequency (TF-IDF)', 'Word2vec', 'logistic regression', 'random forest', 'naive Bayes', 'support vector machine']",ecommerce
+10.1145/3372224.3419188,['30-day Taobao user data'],"['secure federated submodel learning scheme', 'randomized response', 'secure aggregation', 'Bloom filter']",ecommerce

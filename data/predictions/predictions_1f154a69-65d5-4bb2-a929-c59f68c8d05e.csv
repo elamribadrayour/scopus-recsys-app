@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-031-60913-8_25,[],['recommendation system algorithms'],financial services
+10.1007/978-3-031-51167-7_70,[],"['Decision Tree', 'Logistic Regression', 'Random Forest']",agriculture
+10.1108/K-02-2024-0344,"['Movie Lens 100K', 'Movie Lens 1M']","['deep autoencoder-based diversity personalization model', 'multi-stakeholder, multi-objective evolutionary algorithm']",entertainment
+10.1109/TPAMI.2024.3417451,[],[],recommendation systems
+10.1115/SSDM2024-121466,[],[],
+10.1080/00103624.2024.2367035,[],['Random Forest classifier'],agriculture
+10.1007/978-3-031-62281-6_5,[],"['collaborative filtering', 'content-based filtering', 'K-means', 'cosine similarity']",recommendation systems
+10.1109/ICEEICT62016.2024.10534479,[],['Gaussian Naive Bayes'],agriculture
+10.1109/ICSSES62373.2024.10561403,"['patient demographics', 'medical history', 'genetic information', 'existing medication records']","['Naive Bayes', 'Bow', 'TF-IDF', 'Word2Vec', 'Manual Feature Analysis', 'classification algorithms']",medical
+10.1109/I2CT61223.2024.10543793,[],[],

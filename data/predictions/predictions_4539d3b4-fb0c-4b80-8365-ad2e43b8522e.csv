@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.26615/978-954-452-085-4_014,[],"['support vector machines (SVM)', 'random forests', 'naive Bayes', 'W2Vecskip gram', 'polynomial SVM']",news organization and recommendation systems
+10.3934/ERA.2023382,['two real datasets'],"['Graph Convolutional Networks (GCN)', 'encoder/decoder framework', 'graph-based matrix completion', 'AdaBoost']",recommendation systems
+10.1109/RMKMATE59243.2023.10369457,[],[],
+10.5220/0012256100003543,[],"['collaborative filtering', 'KNNwithmeans', 'singular value decomposition (SVD)']",education
+10.1109/ICCP60212.2023.10398698,[],"['ANN', 'Random Forest', 'Support Vector Machines', 'GPT']",entertainment
+10.1109/SmartTechCon57526.2023.10391398,[],['deep learning-based swarm intelligence recommendation method'],logistics
+10.1109/AIKE59827.2023.00011,[],"['semi-supervised learning', 'clustering', 'embedding methodology']",brand marketing
+10.1109/ICACTA58201.2023.10393658,[],['Game Theory'],healthcare
+10.1109/LATINCOM59467.2023.10361886,[],"['Differential Privacy', 'accuracy-based weighted averaging']",ecommerce
+10.1109/IISA59645.2023.10345924,['open dataset for multi-class classification'],['Random Forest classifier'],smart agriculture

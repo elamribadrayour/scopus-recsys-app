@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ACCESS.2022.3140352,"['Reddit', 'Pinterest']","['Adversarial Consumption and Production Relationship (ACPR)', 'factorization machine', 'matrix factorization', 'Adversarial Consumption and Production Relationship-Aware Directional Adversarial Model (ACPR-ADAM)']",recommendation systems
+10.1155/2022/6084363,"['Google Play Store', 'Amazon']","['Deep Visual Semantic Multimedia Recommendation Systems (D_VSMR)', 'content-based techniques']",video game recommendation
+10.1109/ACCESS.2022.3141776,[],"['generative adversarial networks (GAN)', 'conditional Wasserstein GAN', 'PacGAN']",recommendation systems
+10.1109/ICCRD54409.2022.9730387,[],"['Transformers', 'active learning']",Web marketing
+10.1109/ICSSIT53264.2022.9716522,[],['machine intelligence algorithms'],entertainment
+10.1109/ICSC52841.2022.00028,[],"['Federated Learning', 'fixed size encoding scheme']",entertainment
+10.1007/978-981-16-3690-5_55,[],[],ecommerce
+10.1007/978-3-030-94191-8_83,"['recipes from web sites', 'food items stored in MongoDB']","['deep learning', 'object detection']",food recommendation
+10.1007/978-981-16-8862-1_1,[],[],entertainment
+10.1007/978-981-16-8829-4_7,[],[],

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.knosys.2022.109193,['real-world movie rating dataset'],"['matrix factorization', 'federated learning', 'VPFedMF']",entertainment
+10.1136/bmjhci-2022-100549,['Medical Information Mart for Intensive Care (MIMIC-III)'],"['reinforcement learning', 'treatment recommendation system']",medical
+10.3390/s22165975,[],['LSTM (Long Short-Term Memory)'],ecommerce
+10.1016/j.asoc.2022.109160,['Amazon review dataset'],"['deep selective learning network (DSLN)', 'de-noising auto-encoder (DAE)']",ecommerce
+10.1007/s10489-021-03136-1,['mutual fund transaction records'],"['deep learning techniques', 'knowledge graph structure']",financial services
+10.1145/3534678.3539102,"['three public datasets', 'one proprietary industrial dataset']","['Random Masking Model (RMM)', 'Contrast Weighted Tag Masking (CWTM)', 'Weighted Masking Module (WMM)', 'Contrast Module (CM)']",advertising
+10.1109/TSMC.2021.3074069,"['experimentally obtained brain model', 'real profile information']","['machine learning model', 'feature selection method']",entertainment
+10.1002/9781119842286.ch9,['dataset derived through the ERP of an educational institute'],['adaptive collaborative filtering'],educational
+10.3390/math10162895,"['Amazon', 'Yelp']","['metapath search method', 'network architecture search']",ecommerce
+10.1145/3562007.3562029,['real datasets'],['MDIN (Multi-layer Deep Interest Networks)'],ecommerce

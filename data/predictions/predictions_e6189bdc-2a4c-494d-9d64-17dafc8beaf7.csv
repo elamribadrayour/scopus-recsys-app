@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ACCESS.2024.3480693,[],"['deep learning', 'federated learning', 'collaborative filtering']",ecommerce
+10.1109/ICIPCA61593.2024.10709024,[],"['CNN', 'LSTM']",fashion
+10.7717/PEERJ-CS.2329,['data pertaining to renowned tourist destinations in Beijing'],"['multilayer self attention mechanism recommendation algorithm', 'attention mechanism']",tourism
+10.1109/ICISC62624.2024.00037,['substantial dataset of recipes'],['siamese neural networks'],culinary
+10.1007/978-3-031-66410-6_35,[],"['Multilayer Perceptron (MLP)', 'SHAP (SHapley Additive exPlanations)']",healthcare
+10.1109/ICDSNS62112.2024.10690955,['Duolingo'],['Transformer-BERT'],language learning
+10.1109/WCONF61366.2024.10692090,[],"['Ensemble Machine Learning', 'Random Forest', 'XGBoost']",content recommendation systems
+10.1007/978-981-97-4149-6_5,[],"['machine learning', 'IoT technologies']",agriculture
+10.1109/ACCESS.2024.3484470,[],['deep neural networks'],music recommendation system
+10.22266/ijies2024.1231.46,"['Coursera dataset of 29,304 learner-video interactions']","['collaborative filtering', 'LinUCB']",educational

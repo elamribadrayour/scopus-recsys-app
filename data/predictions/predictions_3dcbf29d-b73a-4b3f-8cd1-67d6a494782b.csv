@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1080/17517575.2021.1959651,['hotel data crawled from Ctrip'],"['deep network recommendation model', 'unified deep neural network', 'embedding layer', 'pooling layer', 'fully connected layer']",travel recommendations
+10.1186/s40537-022-00671-7,['real-world datasets'],"['fuzzy clustering', 'FCMD-MD', 'distributed k-medoid']",recommendation systems
+10.3390/ijgi11120625,[],"['Knowledge Graph Convolutional Networks', 'KGCN4CEPR']",countryside ecological patterns
+10.3390/app122412525,[],"['Decision Tree', 'Random Forest', 'Support Vector Machine']",education
+10.32604/csse.2023.031965,[],"['Deep Learning', 'Restricted Boltzmann Machine', 'Machine Learning']",health care
+10.11591/ijai.v11.i4.pp1261-1269,[],['knowledge graphs'],database development
+10.1007/978-981-19-1142-2_36,['music datasets'],"['content-based approach', 'collaborative filtering', 'negative feedback system (NFS)', 'popularity-based filtering']",music
+10.1080/10749357.2022.2127669,[],['convolutional neural network (CNN)'],rehabilitation
+10.1007/978-981-19-5292-0_2,[],"['deep learning', 'CNN', 'DNN']",music
+10.3390/e24121831,['two datasets'],"['attention logarithmic network (ALN)', 'logarithmic neural networks (LNN)', 'squeeze excitation (SE)', 'attention logarithmic interaction network (ALIN)']",advertisement

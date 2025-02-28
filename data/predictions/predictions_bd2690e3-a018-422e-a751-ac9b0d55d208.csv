@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/IMCTL.2015.7359576,[],['A star pathfinding technique'],education
+10.1145/2740908.2745401,['ground truth data set'],['supervised machine learning'],social media
+10.1002/widm.1149,[],"['spreading activation algorithm', 'Correlation-based Feature Selection-Hybrid Genetic Algorithm', 'HGA-SVM (support vector machine)']",information retrieval
+10.1109/GCCT.2015.7342786,[],"['association rule mining', ""Pearson's correlation""]",psychological
+10.1145/2783258.2788590,[],[],
+10.1145/2827872,['TheMovieLens datasets'],[],entertainment
+10.1109/TMM.2015.2417506,['large collection of data'],"['Collaborative Filtering (CF)', 'Topic Model (TM)', 'Author Topic Model-based Collaborative Filtering (ATCF)']",travel recommendation
+10.1007/s10660-015-9199-y,"['synthetic datasets', 'real datasets']","['graph model', 'maximum consensus detection algorithm']",decision-making support systems
+10.1007/978-3-319-42092-9_2,"['five lakhs of tweets', 'around one thousands of users']","['sentiment analysis', 'classification']",social media
+10.1109/ICSESS.2015.7339171,[],"['association rules', 'MapReduce', 'Hadoop', 'distributed association rules calculation']",tourism

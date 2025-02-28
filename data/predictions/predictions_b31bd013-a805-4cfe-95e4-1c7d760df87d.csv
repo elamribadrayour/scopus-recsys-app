@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-031-21569-8_7,[],[],education
+10.1007/978-981-19-2225-1_27,['MUG dataset'],"['K-NN', 'SVM', 'Naive Bayes', 'decision tree']",behavior prediction and recommendation systems
+10.1007/978-981-19-0098-3_34,"['Tripadvisor', 'Kaggle']","['collaborative filtering', 'deep autoencoder']",tourism
+10.1145/3544105,[],"['Adversarial Auto-encoder Domain Adaptation', 'hypergraph auto-encoders', 'multi-layer perceptron']",ecommerce
+10.1007/978-981-19-2840-6_24,[],[],
+10.1063/5.0105723,[],['recommenderlab'],medical
+10.1016/j.resourpol.2022.103212,[],['neural network algorithm (NNA)'],cultural and creative industry
+10.1007/s11277-022-09984-5,[],"['Collaborative Filtering (CF)', 'matrix factorization', 'Outer Product Based Residual CNN']",Recommender Systems
+10.3837/tiis.2022.12.001,['two datasets'],"['matrix-based decomposition algorithms', 'metric learning-based social recommendation algorithm', 'user bias drift social recommendation algorithm based on metric learning (BDML)']",social recommendation
+10.33889/IJMEMS.2022.7.6.060,"['MSCOCO', 'XMedia', 'NUS-WIDE']",['Deep Cross-Modal Retrieval (DCMR)'],recommendation systems

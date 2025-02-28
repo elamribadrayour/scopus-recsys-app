@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.14569/IJACSA.2023.0141177,[],"['collaborative filtering', 'content-based methodologies', 'Convolutional Neural Network (CNN)', 'Long Short-Term Memory (LSTM)']",entertainment
+10.1115/DETC2023-116956,[],"['active learning', 'voting-based recommender system', 'Bayesian optimization']",material synthesis
+10.1109/TENCON58879.2023.10322472,[],"['Random Forest', 'Logistic Regression', 'K-Nearest Neighbors']",medical
+10.1007/978-3-031-48316-5_38,[],[],medical
+10.1109/ICCCNT56998.2023.10306822,[],"['Collaborative filtering', 'Content-based filtering', 'Matrix Factorization', 'Association rule', 'Hybrid Recommender System', 'Demographic Filtering', 'Context Aware filtering', 'Deep-learning based recommender system', 'Popularity based filtering', 'Sequential recommendation', 'Apriori']",ecommerce
+10.4018/IJITWE.333639,['Amazon public dataset'],"['Deep Semantic-Level Cross-Domain Recommendation Model (DSV-CDRM)', 'TinyBERT', 'Gating mechanism', 'Convolutional layer', 'Text convolution']",ecommerce
+10.14569/IJACSA.2023.0141151,[],"['clustering algorithm', 'density noise application spatial clustering', 'Warhill algorithm', 'density peak algorithm']",library books
+10.1109/ITOEC57671.2023.10291664,"['2557 user data', '99997 job data']","['decision tree', 'BP neural network', 'distance recommendation algorithm']",employment
+10.1007/978-3-031-48316-5_35,[],"['collaborative filtering (CF)', 'Multi-source Category Extended Historical Sequential Pattern Recommendation System (MCE-HSPRec)', 'HPCRec18', 'HSPRec19']",eCommerce
+10.1109/ACCESS.2023.3341222,"['a dataset of over 13,000 mobile phone evaluations from the Flipkart website']","['Graph Neural Network (GNN)', 'Deep Neural Network (DNN)', 'Long Short-Term Memory (LSTM)', 'Bidirectional LSTM']",ecommerce

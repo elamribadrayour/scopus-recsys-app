@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.4018/979-8-3693-3172-9.ch019,[],['deep learning'],tourism
+10.1145/3626772.3657973,['three realworld datasets'],"['Behavior Pattern mining-based Multi-behavior Recommendation (BPMR)', 'graph neural networks']",ecommerce
+10.1007/s11760-024-03410-y,[],"['deep learning', 'knowledge graph techniques']",wireless communication
+10.1063/5.0224821,[],"['Machine Learning (ML)', 'Deep Learning (DL)', 'sentiment-based recommendation systems', 'location-based recommendation systems']",ecommerce
+10.3390/app14167012,['dataset constructed in this paper'],"['BM25', 'BERT', 'second-order text matching algorithm']",agriculture
+10.4218/etrij.2023-0162,['Amazon Product Reviews dataset'],"['machine learning', 'deep learning', 'vectorization', 'term frequency–inverse document frequency', 'convolutional neural network']",ecommerce
+10.1145/3634737.3637660,['three real-world datasets'],"['deep reinforcement learning', 'non-convex integer programming', 'three-phase mechanism (PARL)']",e-commerce
+10.1145/3649405.3659529,[],[],
+10.1145/3637528.3671487,[],[],recommendation systems
+10.1002/aisy.202300784,"['MUTAG', 'PTC', 'Cora', 'CiteSeer']","['graph convolutional networks (GCNs)', 'fully binarized GCN (BGCN)']",recommendation systems

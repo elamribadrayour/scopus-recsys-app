@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.ijtst.2020.07.001,[],[],
+10.1016/j.neucom.2020.07.142,"['UCI machine learning repository', 'Amazon customer reviews of products']","['bacterial colony-based feature selection', 'K-Nearest Neighbor']",ecommerce
+10.1145/3447548.3467136,[],"['distributed algorithm', 'network embedding', 'Apache Spark']",entertainment
+10.1109/ICDH52753.2021.00027,['previously published data from a four-week mobile health experiment'],['recurrent neural networks (RNNs)'],healthcare
+10.1145/3447548.3467361,[],[],
+10.1145/3447548.3467203,"['AliCoCo', 'AliCoCo2']","['multi-task encoder-decoder framework', 'representation learning']",ecommerce
+10.1145/3483207.3483225,[],"['smart recommendation system', 'algorithm that considers interests and browsing behaviors', 'physiological and psychological responses']",automotive
+10.3745/JIPS.02.0159,['TripAdvisor'],"['convolutional neural network (CNN)', 'bidirectional long short-term memory (BiLSTM)', 'linear regression', 'singular value decomposition']",ecommerce
+10.1109/IJCNN52387.2021.9534138,[],"['Fast Gradient Sign Method', 'Projected Gradient Descent', 'HopSkipJumpAttack']",recommendation systems
+10.1109/IJCNN52387.2021.9534173,"['self-constructed dataset', 'public dataset']","['Self-Attentive Recommendation (SARP)', 'multi-layer perceptron (MLP)']",online service platforms

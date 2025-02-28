@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/s11042-020-09199-5,['amazon datasets'],"['Content-Based', 'Collaborative-Based', 'Capsule Networks', 'Matrix Factorization', 'Deep Neural Network', 'Probabilistic Matrix Factorization', 'Bi-directional Recurrent Neural Network', 'Recurrent Neural Networks', 'Convolutional Neural Networks']",ecommerce
+10.1088/1742-6596/1684/1/012057,['three real-world datasets'],"['Wasserstein GAN', 'collaborative filtering']",recommendation
+10.1109/ITT51279.2020.9320778,['FMA (Free Music Archive) dataset'],"['Support Vector Machine (SVM)', 'information-gain feature selection']",music
+10.1007/s42413-020-00086-3,[],[],ecommerce
+10.48084/etasr.3821,['dataset of 2255 employees in the IT sector in Saudi Arabia'],"['machine learning algorithms', 'XGBoost']",career path recommendation
+10.1145/3443467.3443734,[],"['association rules technology', 'custom data mining']",ecommerce
+10.1145/3443467.3443850,[],[],artificial intelligence recommendation system
+10.1088/1742-6596/1651/1/012173,[],"['dependency tree', 'graph neural network']",ecommerce
+10.1145/3448823.3448872,"['Ruijin hospital', 'drug bank']","['bidirectional Long Short-Term Memory (BiLSTM)', 'deep neural networks (DNN)']",medical
+10.1088/1742-6596/1651/1/012019,[],"['deep matrix factorization', 'self-attention mechanism']",education

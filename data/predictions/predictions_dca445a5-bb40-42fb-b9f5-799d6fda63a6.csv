@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-981-13-5953-8_28,[],"['Collaborative Filtering', 'Content-Based Filtering', 'hybrid model']",ecommerce
+10.1007/978-981-32-9563-6_32,[],"['contextual ontological user profiling', 'collaborative recommendations', 'content-based recommendations']",entertainment
+10.28945/4176,[],"['CPT+', 'PageRank']",ecommerce
+10.1155/2019/7038259,[],['Tourist-Behavior PrefixSpan'],tourism
+10.1109/ACCESS.2019.2929430,"['model-based dataset', 'realistic dataset']","['long short-term memory (LSTM)', 'sequence-to-sequence (Seq2Seq)']",personalized recommendation systems
+10.7903/ijecs.1705,[],"['Content-based (CB)', 'Collaboration Filtering-based (CF)', 'Demographic-based', 'Knowledge-based', 'Deep Learning techniques']",E-Commerce
+10.1007/978-3-030-16142-2_2,"['DBLP', 'MovieLens1M']","['Normalized Network Embedding with Autoencoder for Personalized Top-K Item Recommendation', 'state-of-the-art algorithms']",entertainment
+10.1007/978-3-030-22734-0_40,['Weibo'],"['multi-label propagation method', 'multi-label propagation method with implicit associations (MLP-IA)', 'label propagation algorithm']",social media
+10.1007/978-3-030-24265-7_33,['Yelp'],"['collaborative filtering', 'meta-based fusion heterogeneous information network recommendation algorithm', 'meta-graph-based similarity measurement', 'score matrix decomposition', 'neural network']",ecommerce
+10.1007/978-3-030-16184-2_57,[],['Deep Reinforcement Learning'],education

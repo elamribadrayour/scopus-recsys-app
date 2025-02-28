@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3573051.3593394,"['experimental study data from middle and high schools in a southeastern state of the United States', 'teacher responses to three surveys', 'student demographic and achievement variables']","['random forest', 'GenericML']",education
+10.1016/j.jobe.2023.106378,['graph dataset'],"['deep neural network', 'SimGNN', 'teacher–student learning']",architecture
+10.1145/3600211.3604741,[],[],public service postal banks
+10.1145/3612783.3612807,[],['Markov chains'],
+10.1109/TNSM.2023.3239672,[],"['Machine Learning Functions-as-a-Service (MLFaaS)', 'AI techniques', 'service function selection']",big data analysis
+10.1145/3573051.3596183,['90 million datasets collected from a Hangeul learning mobile application'],"['knowledge tracing algorithm', 'long short-term memory units', 'Transformer-based model']",educational
+10.1002/cpe.6489,[],"['content-aware recommendation system', 'text preprocessing techniques', 'tokenization', 'stemming', 'stop words removal', 'unigram', 'bigram', 'trigram', 'attribute selection methods']",text classification
+10.1007/s11227-022-04909-2,"['UEL Store', 'UCI sentiment labeled sentences dataset']","['matrix factorization', 'logistic regression']",ecommerce
+10.1007/s41324-022-00495-w,[],['machine learning approach'],ecommerce
+10.4018/978-1-6684-6903-3,[],[],recommendation systems

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/MUSIC.2012.22,['Flickr'],['Tag Recommendation System (TRS)'],social media
+10.1109/CHUSER.2011.6163724,[],"['Case-based Reasoning', 'Rule-based Reasoning', 'Genetic Algorithm']",medical
+10.4304/jsw.7.9.2133-2140,[],"['Collaborative Filtering', 'Adjusted Cosine', 'Slope One']",information overload
+10.4156/jcit.vol7.issue10.25,[],"['ART neural network', 'decision tree', 'ID3', 'C4.5']",ecommerce
+10.1049/cp.2011.0499,[],"['data classification', 'clustering techniques']",e-learning
+10.1145/2124295.2124315,"['Yahoo! News dataset', 'crawled twitter data', 'Yahoo! toolbar log data']","['learning-to-rank', 'support-vector machines']",news recommendation
+10.1109/CSCWD.2012.6221807,[],['collaborative filtering'],software engineering
+10.1016/j.eswa.2011.09.013,['data published by the Tourism Bureau of Taiwan'],['Bayesian network'],tourism
+10.1007/978-3-642-35386-4_29,[],"['web usage mining', 'semantic pattern generation', 'page clustering', 'hybrid recommendation system']",recommendation
+10.1145/2093973.2094027,['real-world data'],"['collaborative filtering', 'link propagation']",transportation

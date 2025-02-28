@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ACCESS.2019.2944927,[],[],news
+10.1007/978-981-13-6347-4_2,"['Movie lens', 'Jester']","['collaborative filtering', 'memory based', 'model based']",ecommerce
+10.1145/3297001.3297035,[],"['deep learning', 'graph based collaborative filtering', 'ensemble of deep learning based recommenders']",ecommerce
+10.1145/3289600.3290959,[],"['recommendation framework', 'investment portfolio construction']",financial services
+10.23940/ijpe.19.11.p12.29362943,[],['collaborative filtering'],library management
+10.1007/978-3-030-35231-8_16,[],"['T-VF2', 'VF2', 'point-side collaborative filtering']",social network analysis
+10.1109/ICNTE44896.2019.8946091,[],['machine learning algorithms'],nutrition
+10.1609/aaai.v33i01.33014496,[],"['PageRank', 'distributed algorithms', 'batch one-hop Personalized PageRanks']",recommendation systems
+10.37200/IJPR/V23I1/PR190495,[],"['deep learning', 'traditional systems', 'recommender systems']",ecommerce
+10.1016/C2018-0-00906-8,[],[],recommendation systems

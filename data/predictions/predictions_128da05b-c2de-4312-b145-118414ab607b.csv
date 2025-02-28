@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICACS60934.2024.10473268,[],"['Random Forest', 'SVM', 'Logistic Regression', 'Naïve Bayes', 'Pearson correlation efficient']",educational
+10.23919/ICACT60172.2024.10471991,[],"['shot boundary detection', 'speech recognition', 'text mining']",entertainment
+10.1007/978-3-031-51500-2_1,[],[],
+10.1137/1.9781611977912.86,[],"['Clenshaw recurrence', 'matrix sketching', 'quantum singular value transformation (QSVT)']",recommendation systems
+10.1109/AUTOCOM60220.2024.10486069,[],"['Random Forest', 'ANN', 'SVM', 'NB', 'LR', 'DT']",agriculture
+10.30191/ETS.202404_27(2).SP03,[],"['long short-term memory (LSTM)', 'clustering']",education
+10.1117/12.3025681,[],['resource recommendation algorithm'],education
+10.1007/978-3-031-54235-0_37,[],[],
+10.1109/SCEECS61402.2024.10481932,[],"['natural language processing', 'text vectorization', 'k-means', 'k-means-based recommendation model']",entertainment
+10.1007/978-981-97-0448-4_11,[],['recommendation systems'],education

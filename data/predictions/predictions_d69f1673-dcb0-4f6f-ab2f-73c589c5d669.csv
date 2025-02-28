@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-642-40235-7_31,[],['data mining techniques'],travel
+10.1007/978-3-319-07064-3_54,"['a dataset of 30000 images bearing text information (e.g., title, tags) collected from Flickr']","['probabilistic latent semantic analysis', 'hypergraph ranking']",tourism
+10.1007/978-3-642-38844-6_20,['live-user data from the popular Scoop.it curation service'],['recommendation strategies'],content curation
+10.4028/www.scientific.net/AMR.718-720.1961,[],"['BP neural network', 'ontology learning']",ecommerce
+10.1002/asi.22934,[],[],entertainment
+10.1145/2632856.2632889,"['MovieLens', 'Book-Crossing']","['hidden Markov model', 'latent Dirichlet allocation', 'recommendation algorithms']",entertainment
+10.1007/978-3-642-40861-8_26,[],[],ecommerce
+10.1145/2556195.2556255,['real-world music dataset'],['collaborative retrieval'],entertainment
+10.1016/j.future.2012.05.026,[],[],
+10.1109/ICOT.2013.6521211,[],['Trip-Mine'],travel

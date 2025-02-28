@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/I2CT54291.2022.9824896,[],"['content-based filtering', 'collaborative filtering']",food recommendation
+10.1109/ICIEM54221.2022.9853182,['Centers for Disease Control and Prevention (National Center for Chronic Disease Prevention and Health Promotion)'],"['Support Vector Machine', 'Linear classification']",medical
+10.1109/CVIDLICCEA56201.2022.9823984,['real experimental data set'],['deep knowledge tracing'],education
+10.1109/ICEST55168.2022.9828583,['MovieLens'],"['Naïve Bayes', 'neural networks', 'logistic regression']",entertainment
+10.1109/COMST.2022.3200740,[],"['Deep Learning (DL)', 'reinforcement learning']",Internet of Things (IoT) applications and services
+10.1117/12.2640519,['classical datasets'],"['social recommendation', 'graph convolutional neural network']",ecommerce
+10.1109/ICPICS55264.2022.9873621,['WIKI Face dataset'],"['improved convolutional neural network', 'MobileNet']",face recognition
+10.1007/978-3-031-15740-0_26,['touristic visits performed in Verona (2014-2019)'],"['machine learning', 'deep learning']",touristic
+10.1155/2022/5745457,[],"['multilabel classification algorithm', 'decision tree algorithm', 'deep learning (DL) theory', 'neural network technology']",fashion design
+10.1155/2022/7523246,[],['dress recommendation system'],fashion

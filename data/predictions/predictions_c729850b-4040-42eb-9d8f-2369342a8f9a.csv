@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1609/aiide.v16i1.7444,"['55,287 past professional Dota 2 matches']",['Gradient Boosting Machines (XGBoost)'],esports
+10.1007/978-3-030-65390-3_35,['three benchmark data sets'],"['matrix factorization', 'CADNCF', 'attention-mechanism learning', 'MLP (Multi-Layer Perceptron)']",recommendation systems
+10.1007/978-3-030-66046-8_6,[],"['collaborative filtering', 'matrix factorization', 'graph deep learning', 'knowledge graph']",ecommerce
+10.1007/978-3-030-60975-7_23,[],[],tourism
+10.1109/ACCESS.2020.3031621,['Yelp data sets'],"['rating predictions', 'deep learning', 'review mining', 'attention mechanism', 'merge convolutional neural network (merge-CNN)']",ecommerce
+10.32604/iasc.2020.011757,['historical data from the situation management of real combat training information systems'],['deep neural network (DNN)'],battlefield situation information recommendation
+10.1109/ACCESS.2020.3039388,['real-world datasets'],"['deep network recommendation', 'enhanced multi-modal recommendation', 'knowledge graph representation', 'SI-MKR model']",entertainment
+10.1007/978-3-030-61627-4_3,[],[],
+10.1007/978-981-15-9609-4_12,['MovieLens'],"['Collaborative Filtering', 'Stacked Denoising AutoEncoder']",entertainment
+10.22266/ijies2020.1231.42,[],['machine learning'],tourism

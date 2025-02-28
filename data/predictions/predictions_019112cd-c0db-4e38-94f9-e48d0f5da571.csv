@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/AIDE57180.2022.10078849,[],[],agriculture
+10.1109/ICPECTS56089.2022.10047765,"['temperature', 'humidity', 'rainfall', 'pH level', 'soil nutrient content (N, P, and K)']",['Light GBM Machine Learning Algorithm'],agriculture
+10.1109/ICAISS55157.2022.10011067,[],[],medical
+10.1109/TAAI57707.2022.00038,[],['hashtag recommendation system'],social media
+10.1109/ICRoM57054.2022.10025210,[],[],entertainment
+10.1109/ISPCEM57418.2022.00039,[],"['personalized recommendation algorithm', 'user data mining algorithm']",ecommerce
+10.1109/IKT57960.2022.10039028,[],[],agriculture
+10.1109/ICACRS55517.2022.10029329,['Airbnb dataset'],['content-based recommendation systems'],ecommerce
+10.1007/978-3-031-21967-2_14,[],"['Factorization Machines', 'Association Rules', 'apriori', 'frequent pattern (FP) growth']",entertainment
+10.1109/ICICML57342.2022.10009760,[],"['naïve', 'inverse propensity score', 'doubly robust estimator']",recommendation system

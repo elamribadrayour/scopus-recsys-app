@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3394486.3403388,"['five datasets', 'DiDiChuXing']","['Gemini', 'iterative training algorithm']",ecommerce
+10.1609/icaps.v30i1.6644,[],"['Markov decision processes (MDPs)', 'Partially observable MDPs', 'Mixed observability MDPs']",recommendation systems
+10.1109/HORA49412.2020.9152875,['our own pattern dataset including 12000 images'],['Convolutional Neural Network (CNN)'],ecommerce
+10.1145/3394486.3403365,[],"['Machine Learning algorithms', 'Operations Research techniques', 'demand forecasting', 'optimizations', 'causal inference analysis']",ecommerce
+10.1109/ICCEM47450.2020.9219491,[],[],employment
+10.1088/1742-6596/1544/1/012029,"['annotated data', 'test dataset']","['fusion deep learning models', 'supervised training']",music
+10.1145/3397271.3401403,[],['deep transfer learning'],employment
+10.1007/s42979-020-00222-y,['real-world datasets from three different domains'],"['GRU4REC', 'session-based recommendation algorithms']",ecommerce
+10.3390/app10145003,['GeoLife dataset'],"['Apriori algorithm', 'Radius Neighbors Graph']",transportation analytics
+10.1109/ICIEM48762.2020.9160117,[],"['Convolutional Neural Network', 'DLSTR methodology', 'SDAE']",web services

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ISIE45552.2021.9576346,['Last.FM'],"['SYT_RippleNet', 'triple attention mechanism', 'Adam optimizer', 'tanh function']",music
+10.1016/j.medj.2021.04.006,[],[],
+10.1007/978-3-030-49995-2,[],[],
+10.1109/DDCLS52934.2021.9455655,['performance equipment dataset'],"['deep learning network', 'attention mechanism', 'cosine similarity']",performing arts equipment operation and maintenance
+10.1109/CCAI50917.2021.9447501,[],"['advertising recommendation model based on click through rate', 'computer vision models']",advertising
+10.1109/ICSS53362.2021.00023,['Tencent advertising competition data set'],"['deep neural network (DNN)', 'single-perception method', 'multi-perceptron method']",advertisement
+10.1109/HORA52670.2021.9461381,[],"['Collaborative Filtering', 'Pearson correlation', 'Cosine similarity', 'Spearman Rank correlation']",entertainment
+10.1088/1742-6596/1915/2/022065,[],"['deep learning', 'mobile recommendation system']",education
+10.1007/s42452-021-04556-x,[],"['Long Short Term Memory (LSTM)', 'Clustered LSTM']",navigation systems
+10.1145/3469213.3471384,[],"['content-based recommendation algorithm', 'query algorithm of R-tree']",ecommerce

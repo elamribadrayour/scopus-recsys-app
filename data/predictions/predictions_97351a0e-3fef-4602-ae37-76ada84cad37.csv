@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICWS49710.2020.00053,['real-world datasets'],['BiasBooster'],web and mobile applications
+10.1109/SCC49832.2020.00020,"['OpenML', '390 datasets']",['multilayer perceptron'],machine learning service recommendation
+10.1016/j.neucom.2020.04.054,['four real-world datasets'],"['latent factor models', 'matrix factorization (MF)', 'deep neural framework', 'topic alignment operation', 'topic attention mechanism', 'neural prediction layer']",recommendation systems
+10.1145/3340531.3411884,[],"['Generative Adversarial Network', 'Augmented Shilling Attack framework']",ecommerce
+10.1145/3324884.3416539,[],[],
+10.1016/j.knosys.2020.106181,['DBLP-Citation-Network V11'],"['Bi-directional LSTM (Bi-LSTM)', 'Hierarchical Attention Network (HAN)']",academic publishing
+10.1109/CISP-BMEI51763.2020.9263503,[],"['neural network', 'matrix factorization']",entertainment
+10.1109/CISP-BMEI51763.2020.9263594,[],"['Matrix Factorization', 'BatchNorm', 'Adam']",ecommerce
+10.1109/Incodtrin51881.2020.00019,['real dataset extracted from Twitter social network interactions'],"['KNN', 'collaborative filtering']",social media
+10.3390/sym12111798,['Grow-bag'],['Reinforcement learning'],e-learning

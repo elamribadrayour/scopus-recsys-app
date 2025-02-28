@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.32604/cmc.2020.011693,['large-scale real-world datasets from three popular location-based social networks'],"['attention-based multi-layer friend recommendation model', 'convolutional neural networks (CNN)', 'collaborative filtering']",social media
+10.1007/978-3-030-62463-7_30,['two benchmark datasets'],"['knowledge-aware generative adversarial (KA-IRGAN)', 'generative adversarial model', 'knowledge graph embedding']",national defense education
+10.18494/SAM.2020.2862,[],[],skincare
+10.1007/978-3-030-65390-3_40,[],[],tourism
+10.1016/j.promfg.2020.10.147,['three years curing data'],"['k nearest neighbors (KNN)', 'support vector machine (SVM)', 'random forest (RF)', 'light GBM (LGBM)', 'xgboost', 'decision tree (DT)', 'meta-model stacking', 'long short-term memory (LSTM)']",aerospace manufacturing
+10.25046/aj0506139,"['data collected from 867 respondents through an online questionnaire', 'existing publication sources and databases on the web']","['Naive Bayes', 'Random Forest', 'Content-Based filtering', 'Collaborative filtering']",academic publishing
+10.1504/IJAACS.2020.112606,[],['deep learning'],multimedia
+10.25046/aj050622,[],['deep learning'],ecommerce
+10.1007/978-3-030-66196-0_2,[],"['PUPP-DA', 'soft clustering', 'active learning', 'deep learning']",ecommerce
+10.1007/978-3-030-62008-0_23,[],"['Collaborative filtering', 'AutoEncode network', 'k-mean algorithm', 'user-side CF algorithm']",ecommerce

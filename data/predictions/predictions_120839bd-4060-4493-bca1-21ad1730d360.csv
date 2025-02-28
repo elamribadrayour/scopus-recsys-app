@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3357777.3357782,[],"['user-based collaborative filtering', 'matrix factorization', 'cosine similarity', 'Pearson correlation', 'singular value decomposition (SVD)']",entertainment
+10.3390/app9163300,[],"['text mining', 'natural language processing (NLP)', 'machine learning', 'deep learning']",tourism
+10.1109/BRACIS.2019.00152,['data collected from online repositories'],"['supervised learning', 'collaborative filtering']",music production
+10.1007/s11227-019-02791-z,[],"['frequent pattern mining', 'fuzzy logic']",e-learning
+10.1109/SNPD.2019.8935671,[],"['Collaborative Filtering', 'stochastic gradient descent', 'Matrix Factorization']",recommendation systems
+10.1145/3292500.3332267,[],"['hierarchical Dirichlet process', 'Chinese restaurant process', 'hierarchical Pitman-Yor process', 'Indian buffet process', 'recurrent neural network (RNN)', 'long short-term memory', 'sequence-to-sequence model', 'variational auto-encoder (VAE)', 'generative adversarial network (GAN)', 'attention mechanism', 'memory-augmented neural network', 'skip neural network', 'stochastic neural network', 'predictive state neural network', 'policy neural network']",recommendation system
+10.1145/3338906.3342486,['122 projects from GitHub'],"['information retrieval', 'static code analysis', 'data mining techniques']",software development
+10.1109/IDAP.2019.8875989,['real database of scientific articles in computer science'],"['collaborative filtering', 'network-based method', 'local community-based similarity indexes']",scientific research collaboration
+10.1109/ICICICT46008.2019.8993372,[],"['association rule mining', 'pair-wise ridge regression']",travel recommendation
+10.1145/3292500.3330844,['real POI datasets'],"['ranking aggregation framework', 'active learning algorithm', 'Tree-constrained Skip search strategy']",entertainment

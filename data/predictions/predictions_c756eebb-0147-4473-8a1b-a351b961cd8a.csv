@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3649329.3658266,['real-world datasets'],"['Deep Learning Recommendation Models (DLRMs)', 'embedding table partitioning']",recommendation systems
+10.1002/cpe.8262,[],"['trust-based recommendation systems', 'deep learning']",cloud services
+10.1016/j.knosys.2024.112706,['120 UCI datasets'],"['KGLasso', 'support vector machine (SVM)']",hyperparameter recommendation
+10.3390/diagnostics14222511,"['multi-disease datasets covering heart, liver, and kidney diseases']","['linear discriminant wolf (LDW)', 'convolutional neural networks (CNNs)', 'grey wolf optimizer', 'multi-level support vector machines (MSVMs)']",healthcare
+10.1038/s41598-024-56144-9,[],"['graph convolution neural networks', 'EdgeConvHiF']",recommendation systems
+10.1038/s41598-024-77657-3,[],['intelligent recommendation system'],rural cultural brands
+10.1007/s11760-024-03538-x,['DeepFashion2'],"['YOLOv8', 'GPT-4.0']",fashion
+10.12785/ijcds/1601129,[],"['collaborative filtering', 'content-based filtering', 'knowledge-based techniques', 'matrix factorization', 'deep learning models', 'attention mechanisms', 'multi-armed bandit algorithms', 'Approximate Nearest Neighbours', 'Locality-Sensitive Hashing', 'ensemble learning', 'model stacking']",ecommerce
+10.1016/j.rico.2024.100489,"['Sentinel 2 satellite data', 'spatial data', 'temporal data']","['logistic regression', 'KNN', 'decision tree', 'support vector machine', 'LSTM', 'Bi-LSTM', 'GRU']",agriculture
+10.1007/s13042-024-02276-3,[],"['differentially private matrix factorization', 'noisy gradient descent', 'Gaussian Mechanism', 'Functional Mechanism', 'Rényi differential privacy']",recommendation systems

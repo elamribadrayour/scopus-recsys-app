@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/CCET55412.2022.9906367,['three real-world datasets'],"['Self-Attentive Interest Retrieval network (SAIR)', 'self-attention']",sequential recommendation
+10.1109/ICITACEE55701.2022.9924130,[],"['Collaborative Filtering', 'Matrix Factorization', 'Collaborative Convolutional Autoencoder', 'Sentence-BERT', 'Convolutional Neural Network']",research papers
+10.1109/ACCESS.2022.3218882,['Amazon'],"['Graph Neural Network (GNN)', 'Bi-directional Gated Recurrent Unit (Bi-GRU)', 'BERT', 'Attention Mechanism', 'Factorization Machine (FM)', 'Multilayer Perceptron (MLP)']",ecommerce
+10.1109/IC3SIS54991.2022.9885534,[],[],
+10.1109/CCET55412.2022.9906399,"['TikTok', 'Kwai']","['Multi-modal Knowledge Graph Attention Network (MMKGV)', 'graph attention network']",entertainment
+10.1109/ACCESS.2022.3219422,[],[],
+10.14569/IJACSA.2022.0131005,[],['machine learning'],emergency
+10.23919/PICMET53225.2022.9882882,[],[],
+10.1201/9781003226147-15,[],"['collaborative filtering', 'k-nearest neighbors (KNN)', 'matrix factorization', 'slop one', 'co-clustering']",healthcare
+10.1109/ICESC54411.2022.9885312,[],['ensemble machine learning algorithm'],healthcare

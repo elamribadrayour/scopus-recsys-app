@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.26599/BDMA.2020.9020026,"[""users' twitter data""]",['machine learning classifier'],travel
+10.1016/j.ipm.2021.102638,['SciResTR'],['SciResTR-IE'],scientific
+10.1088/1742-6596/2004/1/012008,"['Movie-Lens', 'Netflix']",['random walk recommendation algorithm'],entertainment
+10.1109/ICIRCA51532.2021.9544794,[],['Cosine similarity'],entertainment
+10.1145/3437963.3441700,[],"['hybrid approach', 'feedback model']",entertainment
+10.55630/dipp.2021.11.22,[],[],
+10.1145/3473856.3473864,['video recommendations about political topics'],[],social media
+10.1145/3404835.3462900,[],"['graph neural network', 'deep collaborative filtering']",machine learning
+10.1109/21CW48944.2021.9532512,[],"['Convolutional neural networks', 'Transfer learning', 'VGG16', 'Inception Model', 'bilinear pooling']",tourism
+10.15439/2021F130,"['tourist places in Wroclaw city, Poland']",['group recommendation systems'],entertainment

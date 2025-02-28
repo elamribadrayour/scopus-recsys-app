@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICDMW.2018.00167,['Twitter datasets'],['k-core'],social media
+10.1016/j.eswa.2017.12.019,[],"['content based filtering', 'collaborative filtering', 'matrix factorization', 'opinion mining']",ecommerce
+10.1109/KCIC.2018.8628592,[],"['video recommendation system', 'impression-based recommender system']",entertainment
+10.1109/ICCUBEA.2018.8697560,[],"['clustering', 'content similarity', 'keyword extraction']",news
+10.1007/978-3-030-03840-3_40,[],['machine learning'],social media
+10.1007/978-981-13-3149-7_7,[],[],
+10.1007/978-3-319-92016-0_21,[],[],m-health
+10.1007/978-3-319-77116-8_26,['publicly available dataset'],"['Curator', 'machine learning techniques', 'natural language processing techniques']",social media
+10.1007/978-3-030-03056-8_11,[],[],ecommerce
+10.1007/978-3-030-05090-0_44,[],"['deep neural network', 'collaborative filtering']",personalized recommendation

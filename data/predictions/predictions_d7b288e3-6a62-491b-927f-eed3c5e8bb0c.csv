@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1088/1742-6596/1284/1/012062,[],"['time-weighted user behavior analysis', 'collaborative filtering']",entertainment
+10.1371/journal.pone.0223317,[],[],entertainment
+10.1088/1742-6596/1302/2/022032,[],['collaborative filtering'],E-commerce
+10.1002/cpe.4837,"['Flickr images uploaded by users', 'travel POIs in numerous cities']","['Rapid Association Rule Mining (RARM)', 'Parallel Semi-supervised enhanced fuzzy Co-Clustering (PSEFC)', 'Parallel Ant Colony Optimization (PACO)']",travel
+10.1145/3326937.3341261,[],"['Transformer', 'MLP']",ecommerce
+10.3389/fams.2019.00044,[],"['deep neural networks', 'content-based filtering', 'collaborative filtering', 'hybrid MRS', 'sequence models']",music
+10.1145/3349341.3349428,['Douban movie review data'],['collaborative filtering'],entertainment
+10.1145/3292500.3330735,['a unique new email dataset comprising billions of email exchanges across thousands of organizations'],['EMBER (EMBedding Email-based Roles)'],contact recommendation systems
+10.1109/ICCUBEA47591.2019.9128551,[],['fuzzy preference graph'],Business to Business (B2B) services
+10.35940/ijitee.K1932.0981119,['Nifty 50 from National Stock Exchange (NSE) of 50 companies in 10 different sectors around 5986 days’ transactions'],"['k-Nearest Neighbors', 'Collaborative filtering']",financial services

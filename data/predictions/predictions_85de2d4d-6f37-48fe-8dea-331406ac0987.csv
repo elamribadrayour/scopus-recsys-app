@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICEARS56392.2023.10085001,[],"['MFCC', 'Artificial Neural Networks', 'deep learning']",music
+10.1080/21670811.2023.2209153,[],"['personalization', 'content personalization algorithms']",entertainment
+10.1109/IITCEE57236.2023.10091009,[],['Convolution Neural Network (CNN)'],medical
+10.1201/9781003319122-4,['big data datasets'],"['content based', 'collaborative filtering', 'hybrid', 'context-aware', 'social network', 'interactive', 'genetic algorithm-based', 'fuzzy logic-based', 'artificial intelligence-based']",ecommerce
+10.1109/ITNEC56291.2023.10082503,[],['random forest'],music
+10.1007/978-3-031-29097-8_118,[],"['traditional recommendation methods', 'deep learning', 'session sequence modeling']",recommendation
+10.1109/CSICC58665.2023.10105347,[],"['collaborative filtering', 'K-means clustering']",medical
+10.1201/9781003319122-2,[],[],content-based recommendation systems
+10.1109/ICACCS57279.2023.10113008,[],[],
+10.1109/ICEARS56392.2023.10085615,[],"['collaborative filtering', 'Bayesian statistics', 'item-based collaborative filtering', 'Simple Bayesian Classifier', 'user-based recommendation']",ecommerce

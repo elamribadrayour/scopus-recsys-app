@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.14569/IJACSA.2024.0150662,[],"['dynamic PLP resource recommendation algorithm', 'incremental learning']",education
+10.18576/amis/180504,"['MovieLens Dataset', 'The Movies Dataset', 'TMDB Movie Dataset', 'MovieLens 20M Dataset', 'TMDB 5000 Movie Dataset']","['Contact-Based Filtering', 'Content Filtering', 'TF-IDF', 'Decision Trees', 'K-Nearest Neighbors', 'Singular Value Decomposition (SVD)', 'Neural Collaborative Filtering (NCF)', 'Alternating Least Squares (ALS)', 'AUTOENCODER', 'hybrid recommender']",entertainment
+10.12785/ijcds/160128,['two datasets that incorporate contextual information'],"['Factorization Machines (FMs)', 'Deep Context-Based Factorization Machines (DeepCBFM)']",Recommendation systems
+10.1007/978-3-031-51167-7_64,[],"['collaborative filtering', 'content-based filtering', 'hybrid approach', 'unsupervised algorithms', 'association rule mining']",entertainment
+10.1109/ISCAS58744.2024.10558132,[],"['DLRM', 'cache prefetch']",social media
+10.1109/ICICT60155.2024.10544384,[],"['deep learning', 'LSTM', 'attention mechanism', 'Gated Recurrent Unit', 'Copy Mechanism']",entertainment
+10.1002/9781119786443.ch7,[],"['deep learning', 'feature-based solutions', 'collaborative representation', 'hybrid representation', 'user embeddings', 'neighbour-assisted representation', 'categorical representation']",entertainment
+10.1109/QICAR61538.2024.10496631,['CSP Dataset'],"['fuzzy membership function', 'fuzzy-based recommender system']",entertainment
+10.32604/cmc.2024.048061,[],"['Long Short-Term Memory (LSTM)', 'stacked LSTM', 'bidirectional LSTM', 'Convolutional Neural Networks (CNN)', 'Voting', 'Dempster-Shafer (DS) approach']",health
+10.1007/978-3-031-59164-8_31,[],"['Restricted Boltzmann Machine', 'Auto-encoder', 'Convolutional Neural Networks', 'Attention', 'Recurrent Neural Networks']",ecommerce

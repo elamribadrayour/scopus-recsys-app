@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICECCO48375.2019.9043224,[],"['collaborative filtering', 'active learning', 'uncertainty reduction']",ecommerce
+10.1109/ICDMW.2019.00167,['real-world dataset'],"['two-stage recommendation model', 'text features', 'deep features', 'deep similarity scores']",entertainment
+10.1186/s13638-019-1619-6,[],"['Recursive Least Squares (RLS)', 'Deep Q-Learning (DQN)']",social network
+10.1109/ITC44170.2019.9000136,[],['supervised machine learning'],engineering
+10.1109/TITS.2019.2945793,[],['random forest'],ridesharing
+10.1016/j.knosys.2019.07.025,[],[],ecommerce
+10.1109/ICCIKE47802.2019.9004257,[],"['collaborative filtering', 'production rules']",recommendation systems
+10.1145/3292500.3330739,[],"['multi-task deep metric learning', 'deep neural network architecture']",ecommerce
+10.1371/journal.pone.0223967,[],"['Collaborative filtering', 'probabilistic matrix factorization', 'attention-based recurrent neural networks']",social media
+10.1109/CEAP.2019.8883496,[],['machine learning'],healthcare

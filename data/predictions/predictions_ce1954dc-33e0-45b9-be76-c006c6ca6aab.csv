@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.18280/isi.280126,['dataset consisting of a number of different emotional responses'],"['Convolutional Neural Networks (CNN)', 'fuzzy classification technique']",music
+10.1145/3587716.3587812,['public datasets'],"['Enhanced Feature Importance (EFI)', 'FiBiNet', 'SENet']",ecommerce
+10.1016/j.ipm.2022.103226,[],[],
+10.1063/5.0125418,[],[],
+10.1016/j.aej.2022.08.010,[],"['dynamic graph representation learning', 'temporal graph transformer (TGT)']",recommendation systems
+10.1016/j.engappai.2022.105688,[],"['Q-learning', 'Particle Swarm Optimization (PSO)', 'Genetic Algorithm', 'genetic-based PSO (gbPSO)']",optimization
+10.3390/app13042555,['publicly available datasets'],"['deep reinforcement learning', 'deep deterministic policy gradient', 'Actor-Critic network', 'deep cross networks']",ecommerce
+10.1007/s13369-021-06081-w,[],[],
+10.3390/jtaer18010029,['real-world e-commerce data'],"['k-means clustering', 'Apriori algorithm', 'rule-based heuristic algorithm']",retail
+10.1109/TSMC.2022.3192635,[],[],recommendation system

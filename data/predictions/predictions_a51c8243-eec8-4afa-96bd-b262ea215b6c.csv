@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3511808.3557479,['production data set collected from the display advertising system of Alibaba'],[],ecommerce
+10.1016/j.gep.2022.119261,[],"['collaborative filtering', 'deep residual network', 'Convolutional Neural Network (CNN)', 'Elephant Herding Feedback Artificial Optimization (EHFAO)', 'K-means clustering', 'Cosine similarity', 'sentiment analysis']",ecommerce
+10.1016/j.eswa.2022.117354,['EEG Data'],"['K-Nearest Neighbor (KNN)', 'Neural Network (NN)', 'Naïve Bayes (NB)', 'Random Forest (RF)', 'Support Vector Machine (SVM)']",recommendation systems
+10.36909/jer.ICCSCT.19487,[],"['collaborative filtering', 'closest neighbor technique']",crowdfunding
+10.22266/ijies2022.1031.40,[],"['data mining', 'deep learning', 'logistic regression', 'Deep Neural Network', 'Chi Squared', 'SA', 'PSO', 'ICA']",e-learning
+10.1145/3575882.3575941,[],"['LSTM model', 'Stochastic Gradient Descent']",medical
+10.1145/3511808.3557493,[],['deep learning'],ecommerce
+10.1007/s00170-022-09870-1,['16 important process sensor data'],"['neural network-based hardness prediction (NNHP) model', 'genetic algorithm (GA)', 'NNHP-GA recommendation model']",intelligent manufacturing
+10.1111/coin.12545,"['Ciao', 'Epinions']","['matrix factorization', 'Louvain', 'HITS', 'deep autoencoders', 'Node2vec']",ecommerce
+10.36001/phmconf.2022.v14i1.3196,['real world data from a large variety of utility customers in the energy domain'],"['kNN-based recommendation', 'vectorization methods', 'word-based vector spaces', 'bag-of-phrases topic vector space-based approach']",energy

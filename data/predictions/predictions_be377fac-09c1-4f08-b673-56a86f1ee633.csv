@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-981-97-4928-7_23,[],"['convolutional neural networks', 'recurrent neural networks']",entertainment
+10.1109/ACCESS.2024.3462793,[],"['collaborative filtering', 'content-based filtering', 'deep learning-based approaches', 'cascading transformer mechanism', 'sentence transformers', 'sentiment analysis models', 'FastText', 'Doc2Vec', 'Word2Vec']",ecommerce
+10.1007/978-981-97-0037-0_36,"['PUB-Med clinical database', 'three separate healthcare datasets']","['self-attention mechanism', 'transfer learning']",healthcare
+10.1007/978-981-97-7707-5_13,['three benchmark datasets'],"['graph neural networks', 'contrastive learning', 'data augmentation']",ecommerce
+10.1007/s10479-024-06151-w,"['MNIST', 'CSIC2010', 'COVID-19 chest X-rays']","['Quantization', 'Secure Multi-Party Computation (SMC)', 'Elliptic Curve Cryptography (ECC)']",recommendation systems
+10.18687/LACCEI2024.1.1.227,[],[],ecommerce
+10.1109/BlackSeaCom61746.2024.10646271,[],"['natural language processing (NLP)', 'bi-gram', 'tri-gram']",industrial sectors
+10.1007/978-3-031-70365-2_25,['five public datasets'],['Hierarchical Graph Contrastive Learning (HGCL)'],recommendation systems
+10.1109/IJCNN60899.2024.10651350,['two public datasets'],"['Bilateral Unsymmetrical Graph Contrastive Learning (BusGCL)', 'hypergraph-based GCN', 'GCN', 'perturbed GCN', 'bilateral slicing contrastive training']",recommendation
+10.1109/ICMIII62623.2024.00159,[],"['machine learning', 'personalized recommendation technologies']",ecommerce

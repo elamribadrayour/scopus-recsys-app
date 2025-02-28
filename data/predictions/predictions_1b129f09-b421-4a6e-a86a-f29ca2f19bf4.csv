@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/JBHI.2024.3438885,[],"['neural networks', 'multimodal attention network', 'ICD code embedding layer', 'multihead self-attention', 'CTR methods']",medical
+10.1109/ICDE60146.2024.00392,[],[],ecommerce
+10.1109/ICONSTEM60960.2024.10568676,[],"['machine learning', 'deep learning']",music therapy
+10.1007/s11042-024-19806-4,[],"['Ontology', 'BiLSTM', 'context mapping', 'MCDM techniques']",personalized learning
+10.1109/CIVEMSA58715.2024.10586444,"['Transportation Research Information Service', 'summarized literature of 36 highway agencies']","['Support Vector Machines (SVM)', 'Long Short-Term Memory network', 'linear regression']",engineering
+10.1109/ICITIIT61487.2024.10580247,[],"['machine learning', 'deep learning', 'artificial intelligence']",fashion
+10.1007/978-981-97-5492-2_19,"['IMDB', 'LastFM']","['KMHLP', 'RBC', 'GCN', 'K-GCN', 'cross-metapath type attention mechanism']",recommendation system
+10.1007/978-3-031-63992-0_14,['real-world e-commerce plus social data datasets'],"['single value decomposition (SVD)', 'debiasing methods']",ecommerce
+10.1109/INCET61516.2024.10593348,[],"['Random Forest', 'Decision Tree Classifier', 'K-Nearest Neighbour', 'Support Vector Machine', 'Logistic Regression', 'AdaBoost']",agriculture
+10.1007/s11761-024-00421-y,[],"['long short-term memory networks', 'convolutional neural networks', 'word frequency', 'inverse text frequency']",online marketing

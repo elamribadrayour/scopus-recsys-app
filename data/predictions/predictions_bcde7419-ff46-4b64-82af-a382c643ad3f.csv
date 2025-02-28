@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3570508,['popular benchmark datasets'],"['LR tuning mechanism', 'LR policy recommendation system']",machine learning
+10.1007/s11042-021-11575-8,"['Movies Lens', 'Film Trust', 'Netflix rating dataset']","['Restricted Boltzmann Machines', 'SVD', 'SVD ++', 'trust SVD', 'Stack Auto Encoder (SAE)']",ecommerce
+10.1016/j.scs.2023.104392,[],"['reinforcement learning', 'multi-agent reinforcement learning', 'recommendation system']",energy management
+10.1145/3581754.3584107,[],[],
+10.52549/ijeei.v11i1.4302,"['dataset from different Bangladeshi schools', ""PSC and JSC students' records""]","['extreme gradient boosting', 'Support Vector Machine', 'Local Interpretable Model Agnostic Explanations']",education
+10.1016/j.engappai.2022.105652,[],"['tabular generative adversarial network (TGAN)', 'gradient boosting regressor (GBR)', 'particle swarm optimization (PSO)']",construction materials
+10.1145/3539597.3570447,['real-world datasets'],"['CNN', 'Self-Attention', 'frequency-aware contrastive learning']",news recommendation
+10.3390/s23031431,[],['ant colony optimization'],firefighting
+10.3390/math11040895,"['MovieLens 100 K', 'MovieLens 1 M']","['deep learning', 'collaborative filtering', 'user-based collaborative filtering (User-CF)', 'item-based content-based filtering (Item-CF)', 'singular-value decomposition (SVD)']",ecommerce
+10.1109/TII.2022.3177411,['real-world data sets'],"['service-keyword correlation graph (SKCG)', 'keyword-based deep reinforced Steiner tree search (K-DRSTS)']",web services

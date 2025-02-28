@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3624986,"['three published datasets', 'one private WeChat Official Account dataset']","['variational auto-encoder', 'counterfactual reasoning based recommendation algorithm']",social media
+10.1145/3580305.3599771,[],"['transfer learning', 'adversarial learning', 'unsupervised domain adaptation', 'modified unsupervised domain adaptation (MUDA)']",online advertising
+10.1109/TKDE.2022.3208005,[],"['cross-domain recommendation (CDR)', 'meta-learning', 'meta-optimization', 'meta-model', 'cross-domain meta-learner (MetaCDR)']",recommendation systems
+10.1109/TKDE.2022.3209005,['real-world datasets'],"['meta-learning', 'dual conditional variational autoencoder (CVAE)', 'meta-augmentation']",recommendation systems
+10.3390/app13137627,[],"['feature enhancement', 'loss correction', 'shared attention mechanism', 'comparison learning']",entertainment
+10.4018/978-1-6684-8306-0.ch006,[],"['collaborative filtering (CF)', 'ripple nets', 'deep learning', 'recurrent neural networks (RNNs)']",multimedia
+10.3390/app13137726,['three real-world datasets'],"['reinforcement learning', 'attention-based tree recommendation (ATRec)']",ecommerce
+10.1007/s11227-023-05105-6,"['small dataset with 37 records', 'Adventure large dataset of Microsoft with 172,459 records']","['Apriori', 'S-Apriori', 'ORM model', 'Thanh and Huh Cryptography algorithm']",ecommerce
+10.1145/3599957.3606224,['big data from real-time education platform'],['machine learning'],education
+10.2174/97898151367461230101,[],"['machine learning', 'deep learning', 'tensor factorization', 'ranking framework', 'topic modeling']",entertainment

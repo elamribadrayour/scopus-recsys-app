@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/s13042-023-01850-5,[],"['convolutional neural networks', 'SHapley Additive exPlanations (SHAP)']",entertainment
+10.47836/pjst.31.6.05,[],"['artificial neural network (ANN)', 'multilayer perceptron (MLP)']",medical specialist recommendation
+10.1145/3652628.3652767,[],"['content-based recommendation algorithm', 'collaborative filtering recommendation algorithm', 'hybrid recommendation algorithm', 'recommendation algorithms based on deep learning']",education
+10.1007/s42452-023-05484-8,[],"['Sequential Forward Floating Selection', 'Multilinear Regression', 'Random Forest', 'C4.5', 'Naïve Bayes']",agriculture
+10.1145/3604915.3610249,[],['neural recommendation models'],ecommerce
+10.1145/3583780.3616007,[],[],
+10.1145/3660395.3660405,[],['collaborative filtering'],entertainment
+10.1063/5.0175781,[],['collaborative filtering'],beauty and cosmetics
+10.1145/3644116.3644250,"['diet and exercise data', 'medical knowledge']","['collaborative filtering', 'item-based recommendation algorithm', 'user-based recommendation algorithm', 'fused personalized diet and exercise recommendation algorithm']",healthcare
+10.1051/e3sconf/202343001033,[],"['SVM', 'k-nearest neighbours', 'Decision trees', 'neural networks', 'CNN', 'RNN']",music

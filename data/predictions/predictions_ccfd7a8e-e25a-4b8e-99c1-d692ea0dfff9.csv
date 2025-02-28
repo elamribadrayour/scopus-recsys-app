@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-319-93803-5_51,"['Gowalla', 'Brightkite']","['collaborative filtering', 'context-aware methods', 'deep neural network (DNN)']",location-based social networks
+10.1109/ASE.2017.8115680,"['fourteen open source systems', 'two systems from our industry partners']","['targeted association-rule mining', 'random forest classification', 'Co-Change', 'Tarmaq']",software change recommendation
+10.1007/978-3-319-93037-4_17,[],['Graph-Aware Embedding (GAEM)'],social media
+10.2991/ijcis.11.1.49,[],"['non-parametric Bayesian model', 'online evolutionary sentiment/topic modeling (OESTM)']",review recommendation system
+10.1109/ICDMW.2017.104,[],"['Item-based Collaborative Filtering', 'Markov Decision Process (MDP)']",entertainment
+10.1007/978-3-319-93040-4_47,['two real-world datasets'],['personalized recommendation diversification'],entertainment
+10.1007/978-981-10-7868-2_15,[],"['generalized-weighted tree similarity', 'collaborative filtering', 'content-based recommendation', 'hybrid approaches']",e-learning
+10.1007/978-3-319-91262-2_30,[],[],
+10.1007/978-3-319-97304-3_65,['juridical document corpus'],['Convolutional Neural Network (CNN)'],legal
+10.1007/978-3-319-77700-9_5,['external datasets'],['machine learning (supervised learning)'],fashion

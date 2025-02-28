@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3357384.3358050,['two widely used real-world datasets'],"['Nonlocal Neural Network', 'Recurrent Neural Network', 'gated recurrent unit (GRU)']",E-commerce
+10.1145/3350546.3352528,[],[],financial services
+10.1109/MLBDBI48998.2019.00047,"['SemEval2010', 'KDD', 'WWW']",['LDA model'],recommendation system
+10.1088/1742-6596/1325/1/012087,[],[],ecommerce
+10.1109/ICMLA.2019.00299,[],"['Graph Neural Networks (GNNs)', 'Hypergraph Link Prediction (HLP)']",medical
+10.1109/iSAI-NLP48611.2019.9045139,['Stackoverflow online forums dataset'],"['Extreme Multi-label Classification (XMLC)', 'Singular Value Decomposition (SVD)', 'Deep Learning']",entertainment
+10.1109/IUCC/DSCI/SmartCNS.2019.00100,[],"['matrix factorization', 'truncation function']",legal risk prediction
+10.1109/TAAI48200.2019.8959941,"['MovieLens 1M', 'DBpedia']","['PathSim', 'LambdaMart', 'SPrank']",entertainment
+10.1109/SysCoBIoTS48768.2019.9028023,['social media dataset'],['semantic recommendation system'],education
+10.1109/ICSESS47205.2019.9040791,[],['social network analysis'],software project management

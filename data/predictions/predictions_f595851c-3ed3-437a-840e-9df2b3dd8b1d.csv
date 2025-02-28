@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/LA-WEB.2012.23,['navigation data from a community college'],"['Bisecting K-Means clustering', 'association rules']",education
+10.1145/2442796.2442806,"['35 million publicly shared check-ins', 'over 400 million private query logs']",[],location-based recommendation systems
+10.1145/2390848.2390856,['1K-user dataset from Last.fm'],[],music streaming
+10.1109/ISCID.2012.88,[],"['Collaborative filtering', 'Trust based collaborative filtering']",ecommerce
+10.4018/978-1-4666-2542-6.ch003,[],['machine learning algorithms'],network intrusion detection
+10.1109/ICCSE.2012.6295215,[],"['collaborative filtering', 'content-based recommendation', 'knowledge-based recommendation', 'label propagation', 'VSM clustering']",ecommerce
+10.1109/WI-IAT.2012.113,['Web page dataset'],"['constrained clustering', 'constrained k-means', 'co-training framework']",recommendation systems
+10.1007/s10115-012-0568-8,"['three synthetic datasets', 'four real datasets']","['Support Vector Machines', 'Naive Bayes', 'Nearest Neighbor', 'Decision Trees']",recommendation systems
+10.4018/978-1-4666-0945-7.ch007,[],"['content-based filtering', 'collaborative filtering', 'clustering methodologies', 'hybrid method']",tourism
+10.1007/978-3-319-00551-5_38,[],"['similarity functions', 'clustering functions']",sustainability

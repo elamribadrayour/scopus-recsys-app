@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.sigpro.2021.108335,[],"['node copying model', 'Bayesian formulation']",recommendation system
+10.13052/jwe1540-9589.2141,"['tailored dataset created by scraping reviews of different e-learning resources', 'public dataset']","['hybrid e-learning recommendation system', 'Word Embeddings-Based-Sentiment Analysis (WEBSA)', 'Convolutional Neural Network (CNN)']",e-learning
+10.1145/3485447.3512248,[],[],housing
+10.1145/3492321.3519554,['real-world datasets'],"['deep learning based models', 'cache scheme', 'embedding caching']",recommendation systems
+10.1007/s12530-022-09435-3,[],"['Deep Recurrent Gaussian Nesterov’s Optimal Gradient (DR-GNOG)', 'Gaussian Nesterov’s Optimal Gradient model', 'Deep Recurrent Predictive Recommendation', 'GANCF', 'Bootstrapping method']",social media
+10.1109/WI-IAT55865.2022.00047,"[""traffic logs of Taobao's recommender system""]","['deep learning', 'multi-task learning', 'Mixture-of-Experts framework', 'ES-MMOE', 'Entire Space Multi-task Model (ESMM)']",ecommerce
+10.1109/ICSTCEE56972.2022.10099739,[],"['deep reinforcement learning (DRL)', 'classic recommendation approaches', 'deep learning-based methods']",ecommerce
+10.17705/1pais.14205,['Movielens 100K'],"['Feed-Forward Neural Networks', 'Collaborative Filtering', 'Singular Value Decomposition', 'k-Nearest Neighbors', 'Adaptive Moment Estimation (Adam)', 'Mean-Squared Error']",entertainment
+10.5281/zenodo.6853141,['160 learners'],"['RS with similarity', 'RS with diversity']",mobile language learning
+10.1145/3468227,"['Alibaba Mobile Recommendation dataset', 'Retailrocket recommender system dataset']","['collaborative filtering', 'Time-decayed Multifaceted Factorizing Personalized Markov Chains', 'Bayesian Sparse Factorization Machines', 'Markov Chain Monte Carlo']",ecommerce

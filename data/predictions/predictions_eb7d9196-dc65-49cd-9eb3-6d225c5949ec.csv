@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-031-12285-9_15,[],[],
+10.1109/SMART55829.2022.10046838,[],['LSTM'],education
+10.1109/ICATIECE56365.2022.10047417,['MOVIE dataset'],"['user-based CF (collaborative filtering)', 'Extended Jaccard Similarity (EJS)', 'hybrid recommendation engine', 'enhanced DBSCAN', 'TSVM (Transductive Support Vector Machine)', 'GSP (Generalized Sequential Patterns)']",entertainment
+10.1109/ICAST55766.2022.10039513,[],"['deep learning', 'Convolutional Neural Network (CNN)', 'Recurrent Neural Network (RNN)', 'Long Term Short Memory (LSTM)']",recommendations systems
+10.1109/ICAC57685.2022.10025220,[],"['Random Forest', 'k-means clustering', 'Convolution Neural Network']",agriculture
+10.1109/ICAC3N56670.2022.10074362,['music suggestion framework dataset'],"['collaborative filtering', 'content-based', 'hybrid', 'K-means']",entertainment
+10.1109/ICAC57685.2022.10025139,"['past data on tourists', 'data received from the SLTDA']","['Machine Learning-based recommendation system', 'unique machine learning approaches']",tourism
+10.1109/BigData55660.2022.10020543,[],['clustering technique'],scientific
+10.1109/ICDSAAI55433.2022.10028809,[],[],educational
+10.1109/BigData55660.2022.10020921,['public datasets'],"['Collaborative Filtering (CF)', 'Reinforcement Learning (RL)', 'Deep Reinforcement Learning (DRL)', 'actor-critic paradigm']",entertainment

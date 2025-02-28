@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-981-16-8763-1_58,[],"['KNN', 'XGBoost', 'random forest', 'artificial neural network', 'collaborative convolution neural network', 'DenseNet', 'MobileNetV2']",agriculture
+10.1007/978-981-16-9488-2_45,[],['machine learning-based algorithms'],ecommerce
+10.1007/978-981-16-8763-1_40,[],['deep learning'],entertainment
+10.1504/IJECRM.2022.124098,[],['recommendation systems'],fashion
+10.1504/IJBIC.2022.124322,['two real OSN datasets'],"['ELM-NeuralWalk', 'ELM-WalkNet']",social computing
+10.1080/1206212X.2022.2097769,"['movielens 100K', 'movielens 1M', 'movielens 10M']","['matrix factorization-based collaborative filtering', 'neural collaborative filtering', 'adaptive moment variance reduction gradient optimizer']",entertainment
+10.1109/IETC54973.2022.9796766,[],"['decision tree', 'Principal Component Analysis (PCA)']",education
+10.1007/978-3-031-10983-6_3,[],"['Knowledge Graph', 'Attention Mechanism', 'Convolutional Neural Network']",ecommerce
+10.1007/978-981-19-0252-9_36,[],"['user KNN', 'matrix factorization', 'hybrid recommender systems', 'global average algorithms']",music
+10.1155/2022/9991794,[],"['deep learning', 'data mining']",travel

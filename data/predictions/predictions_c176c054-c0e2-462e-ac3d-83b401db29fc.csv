@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-981-19-2894-9_16,['tourism web sites'],"['LDA', 'K-means clustering', 'naive Bayes (NB)', 'decision tree (DT)', 'support vector machine (SVM)', 'random Forest (RF)']",tourism
+10.1155/2022/2541421,[],['deep learning'],human resources
+10.1007/978-981-19-2452-1_6,[],"['personalized recommendation system', 'meta path', 'embedding adjustment']",entertainment
+10.1109/ICDE53745.2022.00312,"['public datasets', 'click-through-rate prediction dataset']","['Multi-task learning', 'Multi-gate Mixture-of-Experts (MMoE)', 'Calibrated Mixture of Insightful Experts (CMoIE)']",recommendation systems
+10.1109/ICACITE53722.2022.9823833,[],[],
+10.1109/ICACITE53722.2022.9823576,[],[],ecommerce
+10.1007/978-3-031-10869-3_8,[],['graph neural networks (GNNs)'],entertainment
+10.1007/978-981-19-2347-0_27,[],[],cloud computing
+10.1007/978-981-19-5194-7_3,[],"['Factorization Machines (FMs)', 'Bitwise Feature Importance Factorization Machine (BFIFM)', 'deep neural network (DNN)']",recommendation systems
+10.1109/ICME52920.2022.9859771,['real-world datasets'],['Review-based Preference Invariance Transfer Network (RPITN)'],ecommerce

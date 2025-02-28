@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICBDA.2018.8367695,[],"['correlation analysis', 'principal component analysis', 'collaborative recommendation algorithm']",entertainment
+10.1109/ICCUBEA.2018.8697862,[],[],tourism
+10.1109/IEMCON.2018.8615069,[],"['Matrix Factorization', 'Tensor Factorization', 'collaborative filtering', 'Deep Learning', 'Multi-task Tensor Factorization']",ecommerce
+10.1109/ICMLA.2018.00021,['four different realworld datasets'],"['collaborative filtering', 'deep learning', 'DeepHCF', 'Multi-Layer Perceptron (MLP)', 'Convolutional Neural Network (CNN)', 'factorization machines']",recommendation systems
+10.1109/ICCONS.2018.8663062,[],"['deep learning', 'sparse deep learning']",medical
+10.1109/UCC-Companion.2018.00067,[],"['machine-learning', 'recommender system']",travel assistance
+10.1186/s13062-017-0203-4,[],"['differential privacy', 'private regression', 'lasso regression']",precision medicine
+10.1145/3211346.3211348,[],[],
+10.1109/ARGENCON.2018.8646316,[],"['data mining techniques', 'clustering']",speech-language therapy
+10.1109/MMUL.2018.023121161,['TRECVIDs 2016'],"['bi-directional deep neural network (BiDNN)', 'autoencoders']",entertainment

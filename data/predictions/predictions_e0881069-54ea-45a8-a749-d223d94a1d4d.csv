@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1631/FITEE.1900533,[],"['model-based methods', 'model-free methods', 'advanced RL methods']",recommendation systems
+10.1109/SNAMS52053.2020.9336529,['Amazon'],['convolutional neural network'],ecommerce
+10.1109/PICC51425.2020.9362496,['MovieLens 25M'],"['Resnet-152', 'LSTM (Long Short Term Memory)']",entertainment
+10.1145/3441250.3441272,['dataset of more than 2000 college students from different majors in China'],"['Support Vector Machine (SVM)', 'Decision Tree (DT)', 'Naive Bayes (GNB)', 'Gradient Boosting Decision Tree (GBDT)', 'Random Forest (RF)', 'Convolutional Neural Network (CNN)', 'Recurrent Neural Network (RNN)', 'collaborative filtering (CF)']",education
+10.1109/ICCIT51783.2020.9392722,['benchmark Bangla personality traits detection dataset consisting of 3000 Bangla informal text'],['state-of-the-art supervised classification methods'],recommendation system
+10.1145/3429880.3430093,[],[],product recommendation systems
+10.1049/trit.2020.0031,['two real-world datasets'],"['collaborative filtering', 'matrix decomposition', 'deep learning', 'deep autoencoder', 'one-dimensional convolution neural network']",ecommerce
+10.1109/GHTC46280.2020.9342626,[],"['AI-based recommendation', 'personality insights']",sightseeing
+10.1109/MLBDBI51377.2020.00102,['MovieLens'],['LSTM-CNN'],entertainment
+10.3390/su12218888,[],[],ecommerce

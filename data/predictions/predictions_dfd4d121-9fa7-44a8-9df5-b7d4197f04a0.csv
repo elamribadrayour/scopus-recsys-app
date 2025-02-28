@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/TCE.2023.3333560,[],"['Federated Learning', 'privacy recommendation system', 'gradient-split mechanism']",consumer privacy
+10.1145/3675417.3675510,[],"['Backpropagation (BP) algorithm', 'collaborative filtering', 'content filtering', 'hybrid filtering methods', 'BP neural network algorithm', 'genetic algorithm', 'improved BP neural network algorithm']",mobile electronic commerce
+10.1145/3632410.3632503,[],"['AI-based recommendation system', 'goodness metric', 'set recommendation']",team formation
+10.1145/3672758.3672838,[],"['Graph Neural Networks (GNNs)', 'Graph Signal Processing (GSP)']",social media
+10.1007/978-3-031-73632-2_11,[],[],
+10.1109/EIT63098.2024.10762068,"['approximately 10,000 hotel reviews']","['DistilBERT', 'ensemble learning']",hospitality
+10.1109/ICTIIA61827.2024.10761479,[],"['content-based filtering', 'cosine similarity', 'clustering']",entertainment
+10.1145/3673277.3673334,"['Book-Crossing', 'Last.FM']","['Hybrid User Interest Knowledge Graph and Graph Convolutional Network (HUIKGKCN)', 'Long Short-Term Memory (LSTM) networks', 'GC-OTE embedding method']",entertainment
+10.1007/s00371-023-02843-9,[],"['β-VAE', 'mean constraint VAE']",recommendation systems
+10.1109/TCE.2023.3327408,['Freelancer.com'],"['meta-learning', 'self-attention']",gig economy

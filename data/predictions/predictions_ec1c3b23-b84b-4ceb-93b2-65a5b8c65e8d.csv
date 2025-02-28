@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.13053/CyS-27-1-4006,[],"['Word2Vec', 'neural networks']",music
+10.1007/978-981-19-9888-1_24,[],"['machine learning filtering methods', 'multi-criteria sorting process']",nutrition-based recipes
+10.1109/ICCCI56745.2023.10128563,[],"['bidirectional recurrent neural network', 'long-short term memory']",ecommerce
+10.14569/IJACSA.2023.0140524,[],"['Multi-Criteria Recommender System (MCRS)', 'cosine-based similarity calculations']",education
+10.1007/s00500-023-08619-6,"['university library data from five years including book information, reader information, book-borrowing records']","['deep learning algorithm', 'artificial intelligence recommendation algorithm']",education
+10.1109/ICCIKE58312.2023.10131874,[],['convolutional neural network'],entertainment
+10.3389/fendo.2023.1168688,[],[],healthcare
+10.1109/ICARC57651.2023.10145759,"[""Travelers' profiles dataset"", 'Sample of 600 domestic travelers']",['J48 decision tree learner'],tourism
+10.1007/978-981-19-7455-7_53,[],[],agriculture
+10.1007/978-3-031-30672-3_26,['four real-world datasets'],"['graph neural networks', 'hypergraphs', 'sequential hypergraph convolution network (SHCN)', 'node-hyperedge propagation method', 'hypergraph sampling strategy']",personalized recommendation

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1117/12.2636389,['Amazon data sets'],"['UIEncoder-DAMLPARL', 'convolutional neural networks', 'DAML model', 'neural factorization machine', 'deep learning recommendation method']",ecommerce
+10.1007/978-981-19-4546-5_45,[],[],education
+10.1109/ICICCS53718.2022.9788221,[],"['MobileNet', 'XGBoost', 'Random Forest']",agriculture
+10.1504/IJBIDM.2022.123809,[],"['k-nearest neighbour (k-NN)', 'singular value decomposition (SVD)', 'collaborative filtering', 'decision trees']",entertainment
+10.1109/ICOEI53556.2022.9776822,[],"['word2vec', 'CBOW', 'LSTM']",entertainment
+10.1007/978-3-031-09917-5_15,[],"['DBSCAN', 'real-time trajectory clustering']",recommendation systems
+10.1155/2022/3334047,[],[],clothing fashion
+10.1007/978-981-16-9113-3_4,"['users click data', 'user query', 'item configuration set']","['semantically driven technique', 'deep learning', 'optimization algorithms']",ecommerce
+10.1007/978-3-031-08473-7_23,[],"['CNN', 'text structural analysis model']",recommendation systems for tourists
+10.1109/ICAAIC53929.2022.9792783,[],"['machine learning model', 'recommendation system']",ecommerce

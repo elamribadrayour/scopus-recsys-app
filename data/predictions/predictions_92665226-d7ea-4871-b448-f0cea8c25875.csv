@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/BigData.2017.8258088,[],"['Collaborative Filtering (CF)', 'deep learning']",recruitment
+10.1109/IPACT.2017.8244895,[],['PID (Proportional-Integral-Derivative) algorithm'],ecommerce
+10.1007/978-3-319-58640-3_11,"['public profile of current congress members in Korea', 'people’s preference ratings to these politicians']","['collaborative filtering', 'content-based filtering']",politics
+10.1007/978-981-10-3325-4_36,[],"['Collaborative filtering', 'Sentiment classification', 'Naïve Bayesian (NB)', 'K-Nearest Neighbor (K-NN)']",Hotel recommendation
+10.1186/s40294-016-0023-x,['real patient datasets'],"['ontology driven clinical risk assessment', 'machine learning driven prognostic system', 'feature selection methods', 'clinical rules engine']",cardiovascular
+10.1504/IJHPCN.2017.083199,['MovieLens'],"['filtering', 'clustering']",entertainment
+10.1007/978-3-319-58524-6_22,[],['genetic algorithms'],financial services
+10.1007/978-3-319-64471-4_25,['real-world datasets from Vietnam C2C websites'],"['NoSQL data-based machine learning techniques', 'topic models', 'classification models']",C2C e-commerce
+10.1137/1.9781611974973.16,['The Globe and Mail'],['predictive model'],online news
+10.1007/978-981-10-2525-9_33,[],"['ant clustering', 'adaptive association rule mining']",ecommerce

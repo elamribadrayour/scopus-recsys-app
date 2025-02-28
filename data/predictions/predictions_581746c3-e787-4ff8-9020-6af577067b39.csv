@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/iMac4s.2013.6526470,[],"['web usage mining', 'content recommendation', 'hybrid approach']",web content
+10.1007/978-3-319-07173-2_68,['open graph database'],"['novel approach to recommendation systems', 'methods of discovering, searching and recommending objects', 'weighted paths in graphs']",entertainment
+10.1016/j.ins.2012.10.037,['Epinions'],"['cold start recommendation method', 'user model', 'trust and distrust networks']",ecommerce
+10.1016/j.eswa.2012.12.046,[],"['MultiStageBoost', 'Boosting algorithm']",product recommendation systems
+10.4028/www.scientific.net/AMM.347-350.3035,[],"['content filtering', 'collaborative filtering', 'hybrid algorithm', 'systematical recommendation algorithm', 'improved algorithm']",digital television
+10.1080/02763869.2013.837726,"['Google Blogs', 'Discussions']",['ranking based on frequency'],biomedical
+10.1109/SocialCom.2013.134,[],[],
+10.1145/2428556.2428570,[],[],
+10.4028/www.scientific.net/AMR.791-793.1760,[],"['fuzzy clustering', 'case-based reasoning']",ecommerce
+10.1109/IGARSS.2013.6723253,"['SILO', 'AWAP', 'ASRIS', 'CosmOz', 'MODIS imagery']",[],environmental knowledge recommendation system

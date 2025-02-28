@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICSADL61749.2024.00029,[],"['Support Vector Machines (SVM)', 'Principal Component Analysis (PCA)', 'Neural Networks (NN)', 'hierarchical clustering']",financial services
+10.1109/CSCWD61410.2024.10580318,['three real-world datasets'],"['Directed Acyclic Graph Neural Network (LDAG)', 'metric learning', 'directed acyclic graph convolution']",recommendation
+10.1109/ACCESS.2024.3424442,[],"['Bidirectional Encoder Representations from Transformers (BERT)', 'Graph Convolutional Neural Network (GCNN)', 'Convolutional Neural Network (CNN)']",education
+10.12694/scpe.v25i5.2599,[],"['artificial neural networks (ANN)', 'XGBoost (XGB)']",agriculture
+10.1109/SANER60148.2024.00070,[],"['modular deep learning architecture', 'neural modules']",software modeling
+10.1007/978-3-031-63219-8_18,['widely used dataset'],"['walks-based embeddings', 'language model embeddings']",recommendation systems
+10.1007/978-981-97-4393-3_35,[],['attention mechanism'],news
+10.1109/ICAAIC60222.2024.10575695,[],[],
+10.1007/s10796-024-10512-y,"['tourist visits performed in Verona, 2014-2019']","['machine learning', 'deep learning']",tourism
+10.3389/fmed.2024.1429291,[],[],

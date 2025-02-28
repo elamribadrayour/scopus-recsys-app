@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ISAIAM55748.2022.00014,['MovieLens video dataset'],"['DeepFM', 'UserCF', 'ItemCF']",entertainment
+10.1088/1742-6596/2171/1/012002,['dataset from Facebook'],"['K-Means clustering', 'OP-K-means']",social media
+10.4018/978-1-7998-9220-5.ch167,[],"['collaborative filtering', 'user-based filtering', 'item-based filtering', 'regression-based approach', 'machine learning-based models', 'latent factor models']",recommender systems
+10.1109/IATMSI56455.2022.10119276,[],"['logistic regression', 'decision tree', 'support vector machine (SVM)', 'multi-layer perceptron', 'random forest', 'VGG16', 'ResNet50', 'EfficientNetV2']",agriculture
+10.5220/0010816300003116,[],"['neural networks', 'machine learning methods']",education
+10.1109/CCIS57298.2022.10016386,[],"['deep reinforcement learning', 'social multi-agent reinforcement learning', 'graph convolutional neural networks', 'attention mechanisms']",ecommerce
+10.1109/CENTCON56610.2022.10051544,[],"['KNN-Means', 'Singular Value Decomposition', 'collaborative filtering']",ecommerce
+10.1109/C2I456876.2022.10051457,[],[],
+10.1109/IAECST57965.2022.10061920,[],['knowledge graph'],ecommerce
+10.1109/IC3I56241.2022.10072677,[],[],

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3326937.3341254,"['MovieLens-20M', 'RecSys15']","['recurrent network', 'attention-based recurrent mixture density network']",eCommerce
+10.3390/app9142861,"['large-scale motion traces of short-term foreign visitors', 'real-world big dataset']","['long short-term memory (LSTM) neural network', 'multinomial classification']",tourism
+10.1007/s12083-018-0673-x,[],"['deep learning', 'deep neural network']",content delivery networks
+10.1145/3292500.3330964,"['Amazon', 'YouTube', 'Twitter', 'Alibaba']","['embedding learning', 'transductive learning', 'inductive learning']",ecommerce
+10.33166/AETiC.2019.03.005,['Pima Indians Diabetes Dataset'],"['Support Vector Machine (SVM)', 'Multi-Layer Perceptron (MLP)', 'Logistic Regression', 'Random Forest', 'Decision Tree']",healthcare
+10.1145/3341161.3342869,['real logs from Apr 2017 to Sep 2017'],"['PGA-Recommender', 'session-based recommendation', 'collaborative filtering', 'content-based recommendation']",article recommendation
+10.11591/eecsi.v6.2008,[],"['Deep learning', 'Convolutional Neural Networks (CNN)', 'Deep Belief Network (DBN)', 'Long Short Term Memory (LSTM)', 'Recurrent Neural Network (RNN)', 'Word2Vec', 'Multichannel Convolutional Neural Network (MCNN)']",recommendation systems
+10.4018/IJERTCS.2019100102,[],"['ontology technology', 'information-theoretic based criteria']",data processing
+10.1109/ICVRIS.2019.00039,"['housing basic data samples', 'user feedback information']","['cosine similarity', 'deep learning']",housing
+10.1109/IIAI-AAI.2019.00057,"[""20 EFL learners' data""]",['association rule mining'],education

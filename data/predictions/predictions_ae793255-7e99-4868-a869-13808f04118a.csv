@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICSCNA58489.2023.10370392,[],[],education
+10.1109/DSC59305.2023.00064,['Amazon'],"['Asymmetrical Local-Global Attention Model (ALGM)', 'dynamic word embedding', 'attention mechanisms']",ecommerce
+10.13182/NPICHMIT23-41016,['data collected by simulating abnormal situations using the compact nuclear simulator'],"['deep neural network (DNN)', 'grid search', 'early stopping', 'efficient clause-wise rule extraction']",nuclear power plants
+10.1109/ICET59753.2023.10374798,"['Adience', 'UKTFace', 'custom-generated dataset of Pakistani faces']",['deep learning-based algorithm'],recommendation systems
+10.1109/GCAT59970.2023.10353534,[],"['Machine Learning', 'Natural Language Processing']",medical
+10.52783/jes.624,[],"['Semantic Data Fusion Recommender (SDFR)', 'federated deep learning', 'keyword-based content analysis']",education
+10.1109/GCAT59970.2023.10353331,['two movie datasets'],"['machine learning techniques', 'randomized sequence generator']",content-based movie recommendation systems
+10.1109/ICCCMLA58983.2023.10346916,[],"['machine learning algorithms', 'natural language processing', 'deep learning models']",consumer behaviour prediction
+10.37256/cm.4420232851,"['The Indian Express', 'PolitiFact', 'Kaggle']","['logistic regression', 'random forest', 'support vector machine', 'convolutional neural networks (CNNs)']",security
+10.1109/CISCT57197.2023.10351295,[],"['collaborative filtering', 'content-based filtering', 'session-based filtering', 'demographic filtering', 'hybrid filtering', 'classification', 'clustering', 'association rule discovery']","music, online dating, restaurant"

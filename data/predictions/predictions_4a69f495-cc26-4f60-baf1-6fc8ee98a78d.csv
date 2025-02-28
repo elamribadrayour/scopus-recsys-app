@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3570501,['three datasets'],"['Explainable Hyperbolic Temporal Point Process', 'temporal point process']",entertainment
+10.3390/app13042214,"['metadata from the academic database', 'keywords of papers published in Korean journals over the past five years']","['highly connected subgraphs (HCS) algorithm', 'text mining', 'professionalism index-based analysis']",academic
+10.1145/3582016.3582068,"['Kaggle', 'Terabyte']","['hybrid embedding representation', 'MP-Rec']",recommendation systems
+10.3390/math11051098,['datasets collected at the University of Dubai'],"['machine learning (ML)', 'graph analysis', 'performance modeling', 'explainable recommendations']",education
+10.1016/j.sigpro.2022.108826,[],"['low-rank matrix completion', 'Bayesian learning algorithm', 'variational inference']",recommendation systems
+10.1145/3572028,['three benchmark datasets'],"['dual-view user representations', 'coarse-grained graph embedding', 'contrastive learning']",entertainment
+10.3390/app13031505,[],[],
+10.1145/3533725,['three datasets'],['DENC (De-Bias Network Confounding in Recommendation)'],recommendation systems
+10.1007/s41870-023-01220-y,['two benchmark datasets'],"['hybrid recommendation system', 'autoencoder', 'recurrent neural network']",ecommerce
+10.4018/978-1-6684-7494-5.ch005,[],['recommendation systems'],human resource management

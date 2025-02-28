@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3468691.3468720,['yelp'],"['deep learning', 'recurrent neural network', 'MLP (Multi-Layer Perceptron)', 'attention mechanism']",tourism
+10.1145/3469213.3470228,['six grades textbooks'],"['machine learning methods', 'iRF', 'NB']",education
+10.1109/ICPS49255.2021.9468219,[],['Knowledge Graphs'],industrial
+10.4018/IJBIR.20210701.oa4,[],"['hybrid architecture', 'computational approaches', 'machine learning approaches']",people analytics
+10.4018/978-1-7998-5009-0.ch009,[],"['collaborative filtering', 'content-based techniques']",e-learning
+10.1145/3469213.3470423,['MovieLens'],"['deep neural networks', 'attention mechanism', 'traditional recommendation algorithms']",entertainment
+10.1109/ICSCC51209.2021.9528193,[],['deep learning'],ecommerce
+10.1145/3437984.3458832,[],"['Collaborative Filtering', 'matrix factorisation', 'k-nearest neighbours', 'co-clustering', 'slope one schemes']",ecommerce
+10.1007/s11633-020-1275-7,['MovieLens benchmarking datasets'],"['machine learning', 'weighted average method']",ecommerce
+10.1016/j.jretconser.2021.102528,['review data from existing online community'],"['user-based collaborative filtering', 'content-based']",eCommerce

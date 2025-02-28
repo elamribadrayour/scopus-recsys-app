@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/IC3IoT60841.2024.10550386,[],"['collaborative filtering', 'Information Filtering']",ecommerce
+10.1007/978-3-031-51167-7_22,[],"['federated machine learning', 'recommender systems']",entertainment
+10.1109/SCSE61872.2024.10550832,['code snippets dataset from software engineering professionals'],"['Support Vector Machine (SVM)', 'Decision Trees (DT)', 'K-Nearest Neighbors (KNN)', 'Long Short-Term Memory (LSTM)']",software engineering
+10.1007/978-3-031-60606-9_14,[],[],
+10.1109/IC-CGU58078.2024.10530808,['trained dataset'],"['deep learning', 'convolutional neural networks (CNNs)']",skin care
+10.2174/0118750362291402240621044046,[],[],
+10.1016/j.ibmed.2024.100149,[],"['generative adversarial networks (GAN)', 'deep CNN', 'Gabor Wavelet Transform (GWT)', 'Local Binary Pattern (LBP)', 'U-Net']",medical
+10.1007/978-3-031-58956-0_18,[],['XGBoost'],ecommerce
+10.1109/IC-CGU58078.2024.10530724,['Kaggle dataset repository'],"['Decision Trees', 'Random Forests', 'XGBoost', 'Support Vector Machine', 'K-nearest neighbors', 'Naive Bayes', 'Artificial Neural Networks', 'Deep Neural Networks', 'Temporal Convolutional Networks']",agriculture
+10.1109/ICBSII61384.2024.10564069,['UCI-MLR'],"['Linear Discriminant Analysis', 'Gradient Boost Classifier', 'Harris Hawks optimizer', 'LightGBM']",music recommendation systems

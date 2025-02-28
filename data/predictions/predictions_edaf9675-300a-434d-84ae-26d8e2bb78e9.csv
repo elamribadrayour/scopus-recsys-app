@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICDMW.2017.106,['real-world data set'],"['deep neural network', 'document embeddings']",news articles
+10.1007/978-3-319-97310-4_33,"['real tourism data set related to the city of Guilin in China', '10,109 real travelogues', '132 POIs profiles', '8,646 POI traffic times']",['POI-Visit pattern sequence mining algorithm'],tourism
+10.1109/ICCCNT.2017.8203963,[],"['natural language processing', 'machine learning']",personalized user experiences
+10.1007/978-3-319-90170-1_5,[],"['recommendation algorithms', 'machine learning techniques']",interactive TV
+10.1109/ICGI.2017.17,['movielens'],"['Long Short Term matrix decomposition (LstmMF)', 'probabilistic matrix factorization (PMF)']",entertainment
+10.14569/IJACSA.2018.090234,['Twitter'],"['sentiment analysis', 'predictive models']",social media
+10.1109/ICDM.2017.124,[],"['Semi-Naive Bayes Classifier', 'BEEP', 'SimBEEP']",marketing
+10.1007/s11432-016-9072-3,['936 Android apps from F-Droid'],"['collaborative filtering', 'naive Bayes multinomial classification']",Android applications
+10.1109/IDAP.2017.8090219,[],['similarity based link prediction methods'],healthcare
+10.1109/ICCSNT.2016.8070165,[],"['collaborative recommendation algorithm', 'k-means clustering', 'k-nearest neighbor']",personalized recommendation system

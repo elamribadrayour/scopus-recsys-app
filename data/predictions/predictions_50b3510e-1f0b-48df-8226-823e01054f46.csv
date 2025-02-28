@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1201/b18049-29,['MovieLens'],"['Collaborative Filtering', 'Distributed Collaborative Filtering', 'Two-Phase similarity', 'Weighted Distance Similarity Measure (WDSM)']",entertainment
+10.1007/978-3-s319-23461-8_12,"['large-scale, real-life TV viewership data']",['state-of-the-art recommendation methods'],entertainment
+10.1007/978-3-319-11227-5_1,[],"['Collaborative Filtering', 'Hadoop', 'Mahout']",ecommerce
+10.1007/978-3-319-20907-4_22,[],"['causal action-personality data-mining model', 'intelligent personalized behavior recommendation model']",sustainable lifestyle
+10.1109/ICDMW.2014.60,[],"['collaborative filtering', 'matrix factorization', 'factor analysis']",ecommerce
+10.1007/978-3-319-24770-0_19,[],"['content-based filtering', 'collaborative filtering']",recruitment
+10.1109/ICDMW.2014.32,[],[],media
+10.1007/978-3-319-21536-5_2,[],"['collaborative filtering', 'knowledge-based filtering']",medical
+10.1109/ICMU.2015.7061019,[],[],
+10.1007/978-3-319-23237-9_26,[],"['topic modeling', 'sentiment analysis']",ecommerce

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3640457.3688021,[],['Reinforcement Learning'],healthcare
+10.1016/j.heliyon.2024.e38907,[],"['Generative Adversarial Network (GAN)', 'Regularization Penalty Conditional Feature Generative Adversarial Network (RP-CFGAN)']",education
+10.1007/s11280-024-01295-y,['three real-world datasets'],"['sequential-hierarchical attention neural network', 'LSTM', 'self-attention', 'memory network']",travel
+10.31449/inf.v48i15.6405,[],"['deep learning', 'ResNet', 'BiLSTM', '1D-CNN', 'emotional response algorithm', 'deep reinforcement learning', 'advanced feature fusion strategy', 'attention mechanism']",digital media art
+10.1145/3687311.3687330,['real-world datasets'],"['multilayer perceptron (MLP)', 'attention mechanism']",education
+10.1016/j.renene.2024.121311,[],"['Machine Learning (ML)', 'Deep Learning (DL)', 'XGBoost', 'Random Forest regressor']",energy
+10.1007/s10115-024-02204-5,['two movie datasets'],"['hybrid recommendation system', 'deep learning-based recommendation system', 'convolutional autoencoder recommendation system (CAERS)', 'collaborative filtering (CF)', 'singular value decomposition (SVD)', 'linear regression']",entertainment
+10.53759/7669/jmc202404089,['Open University Learning Analytics Dataset (OULAD)'],"['k-means Clustering', 'Content-based Filtering', 'Collaborative Filtering', 'Random Forest (RF) classifiers']",education
+10.3138/jsp-2023-0018,[],[],
+10.1145/3627673.3679633,['four benchmark datasets'],"['model-based reinforcement learning', 'non-parametric reward shaping']",recommender systems

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1155/2022/8444672,[],"['content-based recommendation algorithm', 'deep learning', 'OCCNN (character-level convolutional neural network)', 'TF-W2V (word frequency and word vector)']",legal
+10.14569/IJACSA.2022.0131022,['real-world IoT dataset collected from Twitter API'],['Long Short-term Memory (LSTM) deep learning technique'],Internet of Things (IoT)
+10.1109/ICoICT55009.2022.9914833,['talent management dataset from a university in Indonesia'],['Gradient Tree Boosting (GTB)'],talent management
+10.1109/R10-HTC54060.2022.9929813,[],"['Machine Learning', 'crop recommendation system']",agriculture
+10.1109/SMC53654.2022.9945488,['MovieLens-100K'],"['deep learning', 'graph attention network', 'knowledge graph']",entertainment
+10.1109/ICESC54411.2022.9885648,[],['deep learning'],entertainment
+10.1155/2022/8323467,[],['user similarity calculation method'],ecommerce
+10.1109/CLUSTER51413.2022.00054,[],"['BALA-CPD', 'Canonical Polyadic Decomposition (CPD)']",recommendation systems
+10.1109/CoST57098.2022.00092,['reservation data of scenic spots in Gansu Province'],"['recall algorithm', 'clustering algorithms', 'sorting algorithms']",tourism
+10.1109/ICAASE56196.2022.9931575,[],"['classification algorithms', 'regression algorithms', 'machine learning algorithms']",e-learning

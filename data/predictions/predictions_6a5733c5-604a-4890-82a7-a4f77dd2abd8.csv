@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ECCS54035.2022.00011,[],"['Apriori association rule data mining algorithm', 'multi-item support tree algorithm']",ecommerce
+10.1109/MLCCIM55934.2022.00093,['two public datasets'],"['Deep Crossing', 'Wide Deep', 'FNN', 'DeepFM', 'multi-head attention mechanism', 'deep attention factorization machine network (DAFMN)']",recommendation system
+10.1109/ICIRCA54612.2022.9985535,[],"['Multinomial Naive Bayes', 'Bernoulli Naive Bayes', 'Gaussian Naive Bayes', 'Logistic Regression']",diet management
+10.1109/SmartNets55823.2022.9994020,[],"['Random Forest', 'Linear Regression', 'Naive Bayes', 'Gradient Boosting Regression']",health
+10.1007/978-3-031-21689-3_27,[],"['Average Support Value (ASV) filters', 'data-driven text mining']",cooking recipe recommendation
+10.1109/IV56949.2022.00057,[],[],
+10.1109/CLEI56649.2022.9959904,[],[],
+10.1109/ISMAR55827.2022.00067,[],[],ecommerce
+10.1007/978-3-031-21441-7_24,[],[],
+10.1109/ICICoS56336.2022.9930526,[],['ranking system'],mental health

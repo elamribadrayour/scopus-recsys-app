@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.3233/SHTI210899,[],[],healthcare
+10.1109/ICSC52841.2022.00009,['DailyDialog'],"['Genetic Algorithm (GA)', 'K-means clustering', 'Character embedding', 'Phonetic hashing', 'Attention', 'Conditional Random Fields (CRF)']",recommendation systems
+10.1109/ICCIT52419.2022.9711618,[],['user-collaborative filtering'],higher education
+10.3233/FAIA220006,"['dyeing manufacturing records', '28 different types of fabrics']",['K-means clustering'],fabric dyeing industry
+10.32604/csse.2022.022637,"['Sinyi real estate agent', 'Yungching real estate agent', 'FiveNineOne real estate agent', '213,325 object amplification images']","['convolutional neural network', 'deep learning', 'text mining']",real estate
+10.1007/978-3-030-99191-3_9,['two real-world datasets'],"['collaborative filtering', 'KPG4Rec', 'node2vec', 'Locality Sensitive Hashing (LSH)']",recommendation
+10.1007/978-3-030-90055-7_20,"['BookCrossing dataset', 'Goodbooks ""most popular books"" dataset']","['collaborative filtering', 'neighborhood-based algorithms', 'matrix factorization-based algorithms', 'SVD++']",entertainment
+10.1109/ICPECA53709.2022.9719163,['two real world data sets'],"['Attentional Item-Interaction Collaborative Filtering', 'multilayer perceptrons', 'matrix factorization']",recommendation systems
+10.1007/978-981-16-9605-3_37,"['data from travel websites', 'published and unpublished reports', 'literature', 'pilot study conducted in Pokhara city']","['kNN (k-Nearest Neighbors)', 'decision tree']",tourism
+10.1155/2022/1010122,[],"['deep learning', 'knowledge graph']",education

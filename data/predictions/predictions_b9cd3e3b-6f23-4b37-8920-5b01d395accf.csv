@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.eswa.2022.116850,['MovieLens'],"['graph-based model', 'Autoencoder', 'clustering', 'GHRS']",entertainment
+10.3390/s22134904,[],"['K-means clustering', 'principal component analysis', 'self-organizing maps']",entertainment
+10.1002/9781119842286,[],[],
+10.1145/3534678.3539070,[],['hybrid training algorithm'],recommendation systems
+10.3390/s22135002,['DeepFashion2'],['StarGANv2'],fashion
+10.1145/3487553.3524712,['Amazon-Book'],"['Collaborative Filtering (CF)', 'Graph Neural Network (GNN)', 'NGCF', 'LightGCN', 'GTN', 'link prediction methods']",ecommerce
+10.3390/math10071192,[],"['Natural Language Processing (NLP)', 'semantic analysis', 'clustering strategy', 'hybrid filtering', 'self organization systems', 'ensemble modeling']",e-learning
+10.3390/bdcc6010011,['Yelp dataset'],"['Query2Box', 'neural collaborative filtering (NCF)', 'matrix factorization']",restaurant
+10.1007/s11356-021-13248-3,[],"['k-nearest neighbor', 'neural network', 'modified fuzzy clustering', 'attractiveness-based particle swarm optimization (APSO)']",agriculture
+10.4081/ija.2021.1951,[],"['sensor/approach fusion', 'algorithm add-ons', 'machine learning techniques']",agriculture

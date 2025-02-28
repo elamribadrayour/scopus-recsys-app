@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-031-43085-5_21,['stock data of the six largest companies listed on the Warsaw Stock Exchange'],['convolutional neural networks (CNN)'],financial services
+10.1109/ISPDC59212.2023.00013,[],"['task partitioning', 'task assignment techniques']",product recommendation system
+10.1109/ICSECS58457.2023.10256401,"['insurance dataset, comprising 9422 records and 86 customer features']","['Graph Convolutional Network (GCN)', 'Long Short-term Memory Networks (LSTM)', 'Decision Tree (DT)', 'Support Vector Machines (SVM)', 'Borderline-SMOTE', 'Adaptive Synthetic Sampling Approach (ADASYN)', 'Gaussian Copula']",insurance
+10.1109/ICCE-Taiwan58799.2023.10226648,[],['graph attention network (GAT)'],entertainment
+10.1109/ICCPCT58313.2023.10245685,[],['BORUTA regression model'],agriculture
+10.1007/978-3-031-45124-9_9,"['LinkedIn', 'Glassdoor']",[],human resources
+10.1109/IC2E357697.2023.10262476,[],"['Machine Learning', 'Regression', 'Recommendation Algorithms']",agriculture
+10.1007/978-981-99-4284-8_12,[],"['deep learning', 'neural network models']",entertainment
+10.1504/IJES.2023.134120,[],"['content-based filtering', 'fuzzy C-means clustering', 'bat optimisation algorithm (BOA)']",smart tourism
+10.1117/12.2684772,[],['ResNet101'],ecommerce

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.5220/0012193000003598,['Amazon database'],"['neural hybrid recommender model', 'attentional hybrid sentiment analysis', 'BERT word embedding', 'generalized matrix factorization (GMF)', 'multilayer perceptron (MLP)']",ecommerce
+10.1109/ACCESS.2023.3340209,[],"['collaborative filtering', 'matrix factorization', 'singular vector decomposition', 'NGCF', 'LightGCN', 'WiGCN', 'SocialLGN', 'SEPT']",ecommerce
+10.1109/ICSEIET58677.2023.10303586,['yoga asanas dataset'],"['deep learning techniques', 'MoveNet']",health and fitness
+10.1109/CoDIT58514.2023.10284076,[],[],automotive
+10.1007/s10660-023-09790-6,[],[],ecommerce
+10.1109/ICSEIET58677.2023.10303391,[],"['artificial intelligence', 'machine learning algorithms']",entertainment
+10.32604/csse.2023.034712,['Amazon'],"['Graph Neural Networks (GNN)', 'Bidirectional Encoder Representation from Transformers (BERT)', 'Bi-Directional Gated Recurrent Unit (Bi-GRU)', 'Convolutional Neural Network (CNN)', 'attention mechanism']",ecommerce
+10.1109/EECSI59885.2023.10295808,[],"['Random Forest', 'K-Means', 'K-Nearest Neighbour', 'Naïve Bayes', 'SVM']",entertainment
+10.1117/12.3013443,[],[],ecommerce
+10.1109/ACCESS.2023.3339375,[],"['Machine learning', 'Deep Learning', 'Identification Model Improvement (IMI)', 'Few Shot Learning (FSL)', 'Generative Adversarial Networks (GANs)', 'Self Supervised Learning (SSL)']",agriculture

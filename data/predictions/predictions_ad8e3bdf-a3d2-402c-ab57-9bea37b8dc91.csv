@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/CISP-BMEI.2017.8302153,[],"['system dynamics', 'data mining']",entertainment
+10.1145/3097983.3098028,[],['dynamic forecasting model'],ecommerce
+10.1145/3097983.3098071,['Netflix'],"['Collaborative Ranking (CR)', 'Primal-CR', 'Primal-CR++', 'matrix factorization']",entertainment
+10.1145/3097983.3098173,"['Netflix', 'MovieLens']","['collaborative filtering', 'minimum-cost network flow']",entertainment
+10.1109/IHMSC.2017.130,[],"['multi-source attribute trust prediction method', 'D-S evidence theory', 'sevenfold cross-validation', 'machine learning methods']",ecommerce
+10.1109/ICCPCT.2017.8074240,[],[],ecommerce
+10.1109/CICN.2017.8319380,[],['classification models'],ecommerce
+10.1145/3097983.3098063,"['Amazon', 'Yelp']","['matrix factorization (MF)', 'factorization machine (FM)', 'FM with Group lasso (FMG)']",ecommerce
+10.1109/CICN.2016.66,[],"['Jaccard similarity', 'Dice', 'edit distance', 'Overlap']",ecommerce
+10.1109/CyberC.2017.81,[],"['improved logistic regression', 'text mining technology']",ecommerce

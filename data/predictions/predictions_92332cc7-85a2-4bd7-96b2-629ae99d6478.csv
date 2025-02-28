@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1088/1742-6596/2010/1/012061,['MUJOCO'],"['Reinforcement Learning (RL)', 'Soft Actor-Critic (SAC)', 'DQN']",recommendation systems
+10.1109/GCAT52182.2021.9587601,['2 vendors catering to 60 customers'],['machine learning model'],food service
+10.1080/19761597.2020.1822748,[],['artificial intelligence recommendation systems'],restaurant
+10.31341/jios.45.2.10,[],"['Collaborative Filtering', 'Content Based Filtering', 'Hybrid Recommender Systems', 'machine learning algorithm']",ecommerce
+10.1145/3468143.3483931,[],['deep reinforcement learning'],entertainment
+10.1145/3460231.3473322,[],"['RNN', 'Transformer']",e-commerce
+10.1007/s11042-020-08774-0,[],"['TF-IDMF', 'AFINN lexicon', 'Bing lexicon', 'sentence embedding method based on inter-sentence similarity']",multimedia
+10.1007/978-981-16-1866-6_31,[],['Deep Reinforcement Learning'],research
+10.1007/s11042-019-08356-9,[],"['collaborative filtering', 'content based recommendation', 'WaveNet', 'Word2Vec', 'reinforcement learning']",entertainment
+10.1016/j.knosys.2021.107521,['datasets from a large tourism e-commerce website in China'],['TRKG (Travel Recommendation with Keywords Generation)'],travel recommendation

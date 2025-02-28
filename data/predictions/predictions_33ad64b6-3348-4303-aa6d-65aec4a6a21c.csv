@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/s10639-019-10049-7,['data of each department (i.e. educational program)'],"['machine learning algorithm', 'data mining techniques']",education
+10.1007/s10729-018-9441-y,[],"['integer nonlinear programming', 'back propagation network (BPN)', 'response surface method (RSM)']",medical
+10.1109/ICCES48766.2020.09137998,[],"['collaborative filtering', 'deep learning', 'embedding']",entertainment
+10.1145/3394486.3403357,"['search click graph', 'Tencent QQ browser click history']","['GRU-based Relevant Words Generator (RWG)', 'BERT pairwise text-matching model', 'Reptile meta-learning algorithm']",search engines and recommendation systems
+10.1109/CCGrid49817.2020.00-13,['CIFAR10'],"['Deep Learning', 'Artificial Neural Networks (ANN)', 'DistributedDataParallel', 'Tensorflow', 'Keras', 'MXNet', 'PyTorch']",online recommendation systems
+10.1016/j.jvcir.2019.102735,[],"['kNN', 'dynamic selection model', 'RNN', 'attention mechanism']",ecommerce
+10.3390/sym12020185,[],"['K-Means algorithm', 'birch algorithm', 'mini-batch K-Means algorithm', 'mean-shift algorithm', 'affinity propagation algorithm', 'agglomerative clustering algorithm', 'spectral clustering algorithm', 'Apriori algorithm']",entertainment
+10.1145/3383972.3383997,[],"['collaborative filtering', 'improved collaborative filtering']",entertainment
+10.1145/3336191.3371810,['six datasets'],"['latent factor models', 'neural collaborative filtering (NCF)', 'multi-latent representations', 'end-to-end neural prediction model']",recommender systems
+10.3233/ISU-190067,[],['AWS SageMaker'],content recommendation

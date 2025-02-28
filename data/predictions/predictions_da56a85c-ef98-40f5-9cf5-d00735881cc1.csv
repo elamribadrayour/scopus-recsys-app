@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-031-37146-2_5,[],"['XAI', 'ANN']",healthcare
+10.1007/978-981-99-0973-5_31,[],[],music recommendation
+10.1109/ViTECoN58111.2023.10157577,[],"['Random Forest', 'K-Nearest Neighbor', 'Logistic Regression']",agriculture
+10.1109/ICECCT56650.2023.10179757,['1600 dataset'],"['classification algorithms', 'Multiclass Logistic Regression', 'Liblinear SVC (support vector classification)']",social media
+10.1007/978-981-19-8497-6_59,[],"['n-gram analysis', 'collaborative filtering']",ecommerce
+10.1109/ICSTSN57873.2023.10151666,['drug reviews dataset'],"['Archimedes Optimization with Enhanced Deep Learning based Recommendation System (AOAEDL-RS)', 'word2vec', 'BiLSTM-CNN', 'AOA for hyperparameter tuning']",pharmaceutical
+10.1109/MSR59073.2023.00061,[],[],
+10.1007/978-3-031-35641-4_23,[],[],
+10.1109/ICESC57686.2023.10193542,[],"['Random Forest', 'K-means clustering']",agriculture
+10.4018/978-1-6684-8516-3.ch010,[],[],agriculture

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.18293/SEKE2019-156,['real-world data set'],"['restricted Boltzmann machines (RBM)', 'non-negative matrix factorization (NMF)']",location-based social networks (LBSNs)
+10.1007/978-3-030-16148-4_32,['three publicly available datasets'],"['Probabilistic Matrix Factorization (PMF)', 'neural variational matrix factorization (NVMF)', 'variational autoencoder', 'Stochastic Gradient Variational Bayes (SGVB)']",recommendation systems
+10.1109/ACCESS.2018.2886026,[],[],recommendation systems
+10.1007/978-3-030-10659-1_12,['two real datasets'],"['collaborative filtering (CF)', 'user response-local angle (UR-LA)', 'clustering techniques']",ecommerce
+10.1007/978-3-030-16142-2_28,['real-world dataset'],"['regularized logistic regression', 'k-NN', 'Maximum Marginal Relevance', 'K-means']",software tool usage
+10.1007/978-3-030-00317-3_9,[],[],
+10.1109/TETCI.2018.2804335,['offline collected dataset'],"['contextual multiarmed bandit', 'Monte Carlo tree search', 'big data support online learning algorithm']",social media
+10.1007/978-981-13-3140-4_56,[],"['User Based Collaborative Filtering', 'User Similarity Measures']",ecommerce
+10.1109/I2CT.2018.8529683,[],"['collaborative filtering', 'association rule mining']",entertainment
+10.1007/978-3-030-11680-4_10,['Scopus co-authorship networks'],"['link prediction', 'five different classifiers']",social networks

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-642-13769-3_29,[],['logistic regression'],social media
+10.1145/1520340.1520396,[],[],product recommendation systems
+10.1109/WETICE.2010.11,[],[],
+10.1137/1.9781611972801.18,[],"['collaborative filtering', 'weighted nonnegative matrix factorization', 'graph regularized matrix factorization']",entertainment
+10.1109/IUCE.2009.43,['book circulation data of a university library'],"['supervised ARTMAP neural network', 'ART2 network', 'memory-based neighborhood algorithm']",library book recommendation system
+10.1016/j.eswa.2010.02.105,"['CTI', 'MSNBC']","['graph partitioning algorithm', 'longest common subsequence algorithm']",Web-based personalized services
+10.1145/1639714.1639734,[],"['stacking', 'ensemble learning']",entertainment
+10.1109/WISM.2009.129,[],"['clustering collaborative filtering', 'BP neural network']",ecommerce
+10.1109/IC4E.2010.114,['Tehran municipality database'],"['K-means clustering', 'association rule mining']",citizen relationship management
+10.1145/1363686.1363903,[],"['imputation-boosted collaborative filtering (IBCF)', 'Pearson correlation-based CF', 'naïve Bayes', 'content-boosted CF', 'predictive mean matching (PMM)']",ecommerce

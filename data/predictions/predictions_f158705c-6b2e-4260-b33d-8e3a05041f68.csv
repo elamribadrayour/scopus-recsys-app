@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-319-44944-9_47,['large dataset of Turkish songs'],['text classification framework'],music information retrieval
+10.1016/j.procs.2016.09.133,['data from a chain of perfumeries'],"['hybrid recommendation system', 'content-based filtering', 'collaborative filtering', 'association rule mining']",retail
+10.1007/978-3-319-46397-1_36,[],[],active ageing
+10.1007/978-3-319-46140-3_4,"['Jester', 'MovieLens']","['KNN', 'NNDescent']",recommendation systems
+10.1007/978-3-319-43518-3_23,[],[],
+10.5220/0006073502390244,[],['Markov Decision Processes (MDPs)'],crowdsourcing
+10.1016/j.aci.2014.10.001,"['click stream data', 'web users RSS address file']",['K-Nearest Neighbors (KNN)'],web usage data mining
+10.1145/2852082,"['several thousand existing workflows', 'data collected during the real-world deployment of the plug-in component']",['recommendation techniques'],data analytics
+10.1109/ICITBS.2015.93,[],[],ecommerce
+10.1007/978-3-319-44944-9_37,[],['extreme learning machines (ELMs)'],entertainment

@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.knosys.2014.09.012,[],['LIT-PrefixSpan'],entertainment
+10.1145/2732587.2732593,['DBLP citation dataset'],"['machine learning', 'recommendation system']",academic
+10.1016/j.procs.2015.04.055,[],"['collaborative filtering', 'similarity measures', 'Apache Mahout']",ecommerce
+10.1007/978-3-319-19033-4_31,[],"['clustering', 'K-means', 'knowledge-based recommender systems (KRS)']",education
+10.14257/ijseia.2015.9.12.12,[],"['Hadoop', 'HBase']",staffing
+10.1007/978-3-319-27926-8_29,[],"['matrix factorization', 'bandit algorithms']",entertainment
+10.1016/j.procs.2015.04.237,[],"['Collaborative Filtering', 'Matrix Factorization', 'Singular Value Decomposition', 'Principal Component Analysis', 'Probabilistic Matrix Factorization']",ecommerce
+10.3233/978-1-61499-609-5-157,[],['context-aware recommender system'],legal
+10.1201/b18284-33,[],"['collaborative filtering', 'CHAMELEON clustering', 'Support Vector Machine (SVM)', 'stacked regression']",medical
+10.1007/978-3-319-18032-8_56,[],['graph based recommendation framework'],location-based social networks

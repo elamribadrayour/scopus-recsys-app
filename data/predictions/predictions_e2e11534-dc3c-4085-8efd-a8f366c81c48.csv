@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICoICT.2019.8835323,[],"['content-based filtering', 'machine learning algorithms']",healthcare
+10.1088/1757-899X/569/5/052052,"['Caltech256', 'CIFAR-10']","['convolutional neural network', 'linear discriminate analysis']",image retrieval
+10.1145/3292500.3330660,"['big urban data', 'multi-source urban data']",['gradient boosting tree'],navigation
+10.1145/3340496.3342760,"['data from 24 potential context attributes of 1909 universities spread across North America', 'features from 41 apps']","['machine learning techniques', 'systematic attribute selection process']",emergency apps in universities
+10.1145/3299815.3314465,['Goodreads'],"['popularity-based', 'correlation-based (collaborative filtering)', 'content-based', 'Lexile recommender']",education
+10.1007/s13042-018-0808-7,['widely used image datasets'],"['incremental nonnegative matrix factorization', 'ICGNMF']",computer vision
+10.1088/1742-6596/1187/5/052101,['amazon movie dataset'],"['Collaborative Filtering (CF)', 'user rating style mining']",entertainment
+10.30534/ijatcse/2019/15832019,[],"['route reconstruction', 'Skyline routing', 'NER method']",travel planning
+10.1016/j.neucom.2019.01.028,['three real-world datasets from different domains'],"['deep variational matrix factorization (DVMF)', 'matrix factorization']",ecommerce
+10.1145/3308558.3314123,[],"['text network analysis', 'graph community detection algorithm']",recommendation systems

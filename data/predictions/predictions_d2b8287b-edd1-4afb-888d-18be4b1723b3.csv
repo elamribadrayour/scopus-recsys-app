@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3269206.3269285,[],"['multi-task learning model', 'long short-term memory networks (LSTM)']",ecommerce
+10.1109/ICODSE.2018.8705883,['Groceries dataset'],"['Collaborative Filtering', 'outlier labeling', 'clustering', 'association rule mining']",ecommerce
+10.1145/3219819.3219869,[],"['graph embedding', 'collaborative filtering']",ecommerce
+10.1109/IRI.2018.00050,"['data of current graduate schools', 'data of former graduate school applicants']","['Support Vector Machine', 'K-Nearest Neighbor']",education
+10.1109/SPAWC.2018.8445767,[],['learning algorithms'],recommendation systems
+10.1109/ICECDS.2017.8389579,[],"['Collaborative filtering', 'Content-based', 'Hybrid recommendation approach']",education
+10.23940/ijpe.18.07.p3.14011410,[],"['hybrid recommendation algorithm', 'opinion mining', 'web data mining']",ecommerce
+10.1109/ICCUBEA.2018.8697475,[],[],ecommerce
+10.1108/JKM-11-2016-0489,[],['machine learning classifiers'],social media
+10.1088/1742-6596/1025/1/012092,[],"[""Brown's Double Exponential Smoothing Method"", 'Preference Ranking Organization Method for Enrichment Evaluation (Promethee)']",education

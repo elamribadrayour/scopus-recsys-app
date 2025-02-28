@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.promfg.2018.03.081,[],"['association rule mining', 'FUCL technique']",library
+10.14419/ijet.v7i2.24.12126,[],"['sentiment analysis', 'opinion mining', 'machine learning', 'data mining techniques']",medical
+10.1016/j.procs.2018.05.139,[],"['content filtering', 'collaborative filtering', 'matrix factorization']",entertainment
+10.1007/978-981-10-7245-1_60,[],"['LDA', 'WNTM']",news recommendation
+10.1007/978-3-319-92639-1_39,[],['One-Class Support Vector Machine'],entertainment
+10.3390/app7111160,[],[],
+10.1109/IECON.2017.8217520,['three different datasets'],['Adaptive-Neuro-Fuzzy Inference System (ANFIS)'],smart transportation services
+10.1007/978-981-10-8180-4_11,"['Wikipedia movie plot of 640 movies', '540 movie plots for creating corpuses', '100 movie plots as a test set']","['bag-of-words model', 'text mining techniques', 'topic modeling', 'classifier']",entertainment
+10.1007/978-3-319-92639-1_1,[],['deep learning-based hybrid recommendation system'],financial services
+10.1504/IJAIP.2018.089492,[],[],

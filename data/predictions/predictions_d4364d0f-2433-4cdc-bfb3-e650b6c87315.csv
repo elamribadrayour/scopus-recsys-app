@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.18280/ria.380138,['Spotify dataset'],"['content-based filtering', 'K-means clustering']",music
+10.1109/TCE.2023.3329753,['Amazon'],"['cross-context recommendation algorithm', 'self-attention-based federated learning (SAFL)', 'knowledge fusion module', 'score prediction module']",ecommerce
+10.1049/PBSE025E_ch5,['MNIST'],"['split federated learning (SFL)', 'improved genetic algorithm (SFL-IGA)']",healthcare
+10.3390/app14031123,[],"['deep learning', 'correlation analysis-based model']",digital content
+10.1109/TCSS.2023.3253502,['CSML.ArXiv'],"['autoencoder framework', 'graph attention-based encoder and decoder networks', 'clustering-based approach']",research article recommendation
+10.3233/ATDE231245,[],"['collaborative filtering', 'KNN', 'SVM']",education
+10.1007/978-981-97-7710-5_18,[],[],education
+10.4018/JOEUC.335498,[],"['deep factorization machine (DeepFM)', 'neural matrix factorization (NeuMF)']",ecommerce
+10.1109/TBDATA.2024.3524839,"['real-world social network', 'scientific citation network']","['Casformer', 'cascade attention network (CAT)']",social media
+10.1145/3597428,[],[],

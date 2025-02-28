@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICOSEC51865.2021.9591715,[],"['image segmentation', 'dynamic shape method', 'image classification', 'neural network algorithm']",agriculture
+10.1109/ACCESS.2021.3117261,[],['gradient boosting regression tree'],fabric dyeing
+10.1007/978-3-030-92273-3_27,['multiple open datasets'],"['LSTM', 'GRU', 'GNN', 'EMDE (Efficient Manifold Density Estimator)']",entertainment
+10.1007/978-3-030-70665-4_16,[],"['Generative Adversarial Networks (GAN)', 'Attention mechanism', 'ACFGAN']",entertainment
+10.1155/2021/1418333,[],"['ConvMF', 'deep neural network', 'matrix decomposition', 'convolution neural network', 'one-hot coding', 'word embedding']",entrepreneurial projects
+10.1007/978-3-030-86472-9_13,"['GitHub comments', 'Jira comments', 'Stack Overflow posts']","['BERT', 'RoBERTa', 'ALBERT', 'Distil BERT', 'ensemble model']",software engineering
+10.1007/978-3-030-91702-9_30,['400 datasets'],"['Meta-Learning', 'clustering measures']",classification tasks
+10.1109/HPEC49654.2021.9622801,"['Reddit', 'Yelp', 'Amazon-2M']",['Graph Convolutional Network (GCN)'],recommendation systems
+10.53106/160792642021072204010,[],"['deep learning', 'Multi-Layer Perceptrons (MLPs)', 'Long Short-Term Memory (LSTM)']",Point Of Interest recommendation
+10.1007/978-3-030-73050-5_48,[],"['deep learning', 'content-based filtering', 'collaborative filtering']",entertainment

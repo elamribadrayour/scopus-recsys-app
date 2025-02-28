@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1063/5.0209059,[],"['SVM', 'Random Forest']",travel
+10.1109/TCSS.2024.3363843,['three publicly available datasets'],"['hypergraph convolutional networks', 'cross-view contrastive learning']",entertainment
+10.1145/3644712,[],"['Graph Neural Networks (GNNs)', 'vertex parallelism', 'feature parallelism']",recommendation systems
+10.1145/3664968.3664991,"['IEEE', 'Arxiv', 'Google Scholar']","['data mining techniques', 'consumer behavior analysis', 'personalized recommendation systems']",ecommerce
+10.4018/9798369355930.ch017,[],['machine learning algorithms'],financial services
+10.1063/5.0197448,['movielens dataset'],"['Hybrid Collaborative Filtering (CF)', 'HNPCC Recommendation Model']",entertainment
+10.1007/s10994-023-06444-4,[],"['contextual-bandit framework', 'reinforcement learning', 'deep neural networks', 'top-K Gaussian propensity scores']",social media
+10.5530/jscires.13.2.38,"['Web of Science (WoS)', 'Dimensions']","['machine learning', 'deep learning', 'ensemble model']",academic publishing
+10.1145/3671151.3671161,"['Criteo', 'Avazu']","['DeepFM', 'LSTM', 'Doc2Vec', 'self-attention mechanism']",ecommerce
+10.4018/9798369355930.ch015,[],['AI-powered search and recommendation systems'],library services for users with disabilities

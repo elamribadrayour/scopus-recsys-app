@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICDSAAI59313.2023.10452579,[],[],software
+10.1109/ICCD59681.2023.10420555,[],['NLP algorithms'],healthcare
+10.1109/UPCON59197.2023.10434685,[],['machine learning algorithms'],e-commerce
+10.1109/SMART59791.2023.10428135,['FER2013'],['convolutional neural network'],music
+10.1109/ICTACS59847.2023.10390402,['Plant Village Data set'],['CNN (Convolutional Neural Network)'],agriculture
+10.1109/ICDMW60847.2023.00189,['three real-world datasets'],"['Graph Neural Networks (GNNs)', 'GNN-GMVO (Graph Neural Network - Gross Merchandise Value Optimizer)']",eCommerce
+10.1109/DASC/PiCom/CBDCom/Cy59711.2023.10361412,[],"['Trans R recommendation algorithm', 'Node2Vec', 'graph convolutional network', 'multi-layer perceptron']",data security in power grid systems
+10.1109/ICSCAN58655.2023.10394917,[],['content-based approaches'],entertainment
+10.1109/ICVEE59738.2023.10348270,['Musical Instruments'],['Bi-GRU'],entertainment
+10.1109/VTC2023-Fall60731.2023.10333791,"['UAH-DriveSet', 'HCI Lab', 'PhysioNet']",['federated multi-objective multitask learning'],transportation

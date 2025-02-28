@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1016/j.aei.2020.101183,[],['NLP-based machine learning algorithm'],manufacturing
+10.1109/ICDABI51230.2020.9325599,[],"['collaborative filtering', 'sequential pattern mining', 'Cosine', 'Euclidean', 'Correlation', 'Manhattan', 'Jaccard']",eLearning
+10.1109/DSAA49011.2020.00063,[],[],
+10.1145/3394486.3403374,['large scale music recommendation data from Spotify'],"['contextual bandits', 'online gradient ascent learning algorithm']",entertainment
+10.1109/CISP-BMEI51763.2020.9263500,[],"['MMPC algorithm', 'conditional independence', 'scoring search', 'simulated annealing']",recommendation systems
+10.1109/MIS.2020.2999569,[],[],software engineering
+10.1145/3377571.3377594,[],[],ecommerce
+10.1109/ICTC49870.2020.9289301,[],"['deep learning', 'Candidate Generation Model', 'Ranking Model']",entertainment
+10.1109/ICAACI50733.2020.00029,[],['Web mining technology'],education
+10.1109/ECICE50847.2020.9301974,[],['machine learning'],healthcare

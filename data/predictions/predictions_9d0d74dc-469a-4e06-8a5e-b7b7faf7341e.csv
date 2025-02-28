@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-981-19-7660-5_72,['Crunchbase'],"['support vector machine (SVM)', 'k-nearest neighbor (KNN)', 'Naïve Bayes', 'logistic regression', 'k-means', 'fuzzy c-means (FCM)', 'convolutional neural network (CNN)']",business
+10.1109/TSP.2023.3242374,[],"['graphon neural network (WNN)', 'graph neural networks (GNNs)']",recommendation system
+10.5829/ije.2023.36.01a.15,"['Yahoo! Movie', 'MovieLens']","['collaborative filtering', 'Autoencoders', 'firefly algorithm']",ecommerce
+10.1117/12.2656882,[],['snapshot clustering segmentation method (SCSM)'],recommendation systems
+10.1007/s00521-023-08302-9,[],"['SVD++', 'SDD', 'Pearson correlation similarity', 'neighborhood-based collaborative filtering', 'UserCF', 'Slope one', 'OrdRec', 'Pure', 'AllRank', 'JSVD++', 'MSSVD++', 'NSSVD++', 'COV', 'CIL', '1-Call']",marketing
+10.1186/s12913-022-08441-0,[],"['iterative user-centered design (UCD)', 'artificial intelligence (AI)-based interval forecasting', 'personalized recommendations']",healthcare
+10.1016/j.seppur.2022.122111,[],[],
+10.1007/978-981-19-6737-5_25,[],"['random walk', 'label propagation algorithm']",recommendation system
+10.32604/iasc.2023.030361,"['Facebook', 'MovieLens']","['Monarch Butterfly Optimization (MBO)', 'Deep Belief Network (DBN)', 'Fuzzy C-means with Bat algorithm (FCM-BAT)', 'Collaborative filtering with k-NN (CF-kNN+NDCG)', 'User profile correlation-based similarity (UPCSim)', 'Deep Autoencoder']",entertainment
+10.3390/bdcc6040147,['resume/job offer dataset'],"['machine learning', 'similarity calculation']",employment

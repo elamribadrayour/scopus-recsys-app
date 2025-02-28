@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/OTCON60325.2024.10688032,['movie ratings dataset'],['Euclidean distance'],entertainment
+10.1109/ACCESS.2024.3486078,[],['machine learning model'],educational
+10.1109/ICDSNS62112.2024.10691270,[],"['Content-Based', 'Collaborative-Filtering', 'Hybrid recommender systems']",e-learning
+10.1109/IWQoS61813.2024.10682905,[],"['graph neural networks (GNNs)', 'multi-armed bandit (MAB)']",recommendation system
+10.1080/0952813X.2024.2401364,[],"['collaborative filtering', 'self-supervised learning', 'BERT-DNN', 'ItemKNN', 'UserKNN', 'Deep Neural Network', 'ensemble learning']",ecommerce
+10.55549/epstem.1523634,[],"['Content Based Filtering', 'TD IDF Vectorizer Algorithm', 'Count Vectorization']",health
+10.1007/978-981-97-2144-3_8,[],"['collaborative filtering', 'deep learning']",music
+10.1007/978-981-97-7235-3_9,[],"['contrastive learning', 'Mixed Augmentation Contrastive Learning (MACLR)']",recommendation systems
+10.11159/mvml24.122,[],"['VGG19', 'nearest neighbors algorithm']",ecommerce
+10.1109/ICMIII62623.2024.00150,[],"['decision tree', 'logistic regression', 'Apriorism', 'Eclat']",tourism

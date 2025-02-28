@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/s00521-024-10208-z,[],"['LIME', 'SHAP', 'integrated gradients (IG)', 'level-wise relevance propagation (LRP)']",agriculture
+10.1016/j.bspc.2024.106648,['emotion-physiological signal dataset'],['machine learning algorithms'],entertainment
+10.1007/s10958-024-07431-3,[],"['probabilistic models', 'generative adversarial networks']",research
+10.1145/3627673.3679979,['benchmark datasets'],"['Popularity- and Position-Aware Contrastive Learning (PPCL)', 'cascaded attention network', 'Entity-Level Retrieval Augmentation (ERA)']",news recommendation
+10.1145/3641308.3685021,['real-world driving data'],"['Random Forest', 'LightGBM', 'XGBoost', 'CatBoost']",automotive
+10.1201/9781003476207-15,[],[],healthcare
+10.1142/S0219649224500825,[],"['deep learning', 'attention mechanisms']",tourism
+10.1145/3640457.3688055,['multiple large-scale personalized video recommendation systems'],['Knowledge Distillation (KD)'],entertainment
+10.1016/j.asoc.2024.112075,['benchmark datasets'],"['Collaborative Filtering (CF)', 'Broad Learning System (BLS)', 'Matrix Completion (MC)', 'Adjusted Cosine Similarity (ACOS)']",social media
+10.1145/3640457.3691698,['Microsoft data'],"['constrained Q-learning', 'combinatorial reinforcement learning']",notification recommendation system

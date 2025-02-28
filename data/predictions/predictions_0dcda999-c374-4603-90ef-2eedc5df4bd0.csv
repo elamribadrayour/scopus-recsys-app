@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1007/978-3-031-17098-0_5,['a set of consumption time series of 400 real consumption sites from a French Energy company'],"['multi-criterion hierarchical classification algorithm', ""Pearson's correlation""]",energy management
+10.1016/B978-0-323-90585-5.00009-6,['Database for Emotion Analysis using Physiological signals'],"['machine learning', 'random forest classifier']",mental health
+10.1117/12.2655103,[],"['recommendation algorithm', 'data mining']",entertainment
+10.1109/ICSES55317.2022.9914247,[],[],healthcare
+10.1007/978-3-031-19968-4_7,['abstracts of the scientific publications published by Springer'],"['Naïve Bayes', 'support vector machine (SVM)']",research paper publications
+10.1016/B978-0-323-90585-5.00004-7,"['Protein-Protein Interaction (PPI) network from the Intact database', 'associations between drugs and targets from the DrugBank database']","['Alternating Least Square (ALS)', 'Matrix Factorization']",drug target recommendation
+10.5220/0011032000003182,['DAL - Dell Accessible Learning'],"['Information Retrieval', 'Machine Learning', 'Natural Language Processing', 'Nearest Neighbor', 'TF-IDF']",education
+10.1109/ACCESS.2022.3220322,['two real datasets'],"['Graph Convolutional Network (GCN)', 'Gated Recurrent Units (GRU)', 'Light GCN']",recommender systems
+10.1109/ICBDS53701.2022.9935998,[],['machine learning recommendations'],fundraising
+10.1109/IJCNN55064.2022.9892382,['Movie-lens 100k'],"['knowledge graph based approach', 'Siamese architecture', 'deep learning technique']",entertainment

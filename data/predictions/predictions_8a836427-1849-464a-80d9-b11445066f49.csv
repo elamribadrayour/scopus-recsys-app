@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ICDMW60847.2023.00192,"['MovieLens', 'Criteo']","['k-nearest neighbor (KNN)', 'DeepFM']",ecommerce
+10.1109/ICACCTech61146.2023.00076,[],"['matrix factorization', 'deep learning', 'mean square error (MSE)', 'Bayesian Personalized Ranking (BPR) loss', 'contrastive loss', 'self-supervised learning']",digital ecosystem
+10.1109/AIIIP61647.2023.00060,['two datasets'],['deep reinforcement learning'],entertainment
+10.1049/icp.2023.2916,[],['deep learning-based hybrid recommendation model'],interior design
+10.1109/ICIICS59993.2023.10421468,[],['machine learning'],arts
+10.3390/engproc2023059058,[],[],
+10.1109/ICAST59062.2023.10454907,[],['product recommendation'],ecommerce
+10.1109/OCIT59427.2023.10430867,"['data about job applicants', 'data about open positions from job sites and company career pages']",['matching algorithm'],employment
+10.1109/SMC53992.2023.10394320,"['Epinions', 'Ciao']","['Graph Neural Networks', 'Pearson similarity', 'attention network', 'bidirectional long-term and short-term memory networks', 'multilayer perceptron', 'residual connection structure']",social recommendations
+10.1109/ICCIT60459.2023.10441419,['real-world movie datasets'],"['Collaborative Filtering', 'Apriori algorithm']",entertainment

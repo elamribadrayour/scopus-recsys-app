@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/ACCESS.2024.3462509,['real-world dataset'],['spatiotemporal graph convolutional neural network'],entertainment
+10.56294/dm2024.352,"['e-commerce transaction records', 'customers’ browsing histories']","['Deep Learning (DL)', 'Machine Learning (ML)', 'Convolutional Neural Networks (CNNs)', 'Recurrent Neural Networks (RNNs)', 'Support Vector Machines (SVMs)']",ecommerce
+10.1109/IConSCEPT61884.2024.10627914,[],[],
+10.1109/ICCPCT61902.2024.10672704,['past crop performance data'],"['Artificial Intelligence (AI)', 'Machine Learning (ML)']",agriculture
+10.1109/IJCNN60899.2024.10651104,"['Yelp', 'TripAdvisor', 'Amazon']","['GPT-2', 'multi-task learning']",ecommerce
+10.1109/SIELA61056.2024.10637854,[],[],sports
+10.28945/5366,[],"['CNN (Convolutional Neural Networks)', 'RNN (Recurrent Neural Networks)', 'LSTM (Long Short-Term Memory)']",ecommerce
+10.1108/APJML-04-2024-0463,[],"['DT', 'LightGBM', 'RIPPER', 'CNNs']",maternity and baby care marketing
+10.1016/j.procs.2024.08.255,[],"['graph neural networks', 'Transformer', 'Large Language Models', 'graph collaborative filtering', 'sequential recommendation']",e-learning
+10.1109/IConSCEPT61884.2024.10627901,[],"['Machine Learning (ML)', 'Natural Language Processing (NLP)']",financial services

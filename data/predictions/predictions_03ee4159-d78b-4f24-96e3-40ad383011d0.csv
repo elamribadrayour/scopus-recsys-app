@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.20965/jaciii.2018.p1046,[],"['k-means', 'random forest']",education
+10.1109/BigDataCongress.2018.00046,['travel-tweet training dataset'],['machine learning classification model'],travel
+10.1145/3267305.3267592,['Dianping.com'],"['NeuMF', 'collaborative filtering', 'deep learning']",ecommerce
+10.1080/01969722.2017.1418730,['MyMovieHistory'],[],entertainment
+10.1109/ISCAIE.2018.8405471,[],['Rule Induction algorithm'],health
+10.1109/ICABCD.2018.8465475,[],"['BisoNets', 'text mining', 'Set and graph theory methods', 'Bisociative Knowledge Discovery techniques']",research paper recommendation
+10.1109/URTC45901.2018.9437568,[],[],healthcare
+10.1109/ICACCCN.2018.8748600,[],"['Collaborative Filtering', 'Content-based methods', 'Deep Content-Collaborative Recommender System (DCCRS)']",online services
+10.1145/3219819.3220007,"['synthetic dataset', 'binary classification benchmark']","['Multi-gate Mixture-of-Experts (MMoE)', 'Mixture-of-Experts (MoE) structure']",content recommendation system
+10.1145/3240323.3241617,[],"['Deep Learning', 'Restricted Boltzmann Machines', 'MultiLayer Perceptron (MLP)', 'Convolutional Neural Network (CNN)', 'Recurrent Neural Network (RNN)']",ecommerce

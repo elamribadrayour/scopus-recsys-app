@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1145/3445815.3445859,['real-world data gathered from Pantip.com'],"['Topic-oriented Gravity Model (TopicGM)', 'Hierarchical Dirichlet Process (HDP)']",viral marketing
+10.1109/SUMMA50634.2020.9280608,[],[],medical
+10.1021/acs.macromol.0c02127,[],[],material science
+10.1145/3393822.3432320,[],['neural networks'],education
+10.1145/3406499.3418765,['coffee beans dataset based on digitised reviews'],"['supervised learning techniques', 'unsupervised learning method']",food and beverage
+10.1109/TALE48869.2020.9368377,"['dataset of teachers on Pinterest, including 540 teachers across 5 states and 48 districts']","['link recommendation system', 'machine learning']",social media
+10.1109/ICISCE50968.2020.00089,[],"['data mining', 'association rules']",ecommerce
+10.1109/AUTEEE50969.2020.9315588,['MoiveLens'],"['TextCNN', 'random walking', 'fake user detection algorithms']",entertainment
+10.1109/IS3C50286.2020.00028,['student grade datasets'],"['personalized course selection', 'recommendation system']",education
+10.1109/IEEECONF51394.2020.9443570,[],"['Kolmogorov model (KM)', 'implication in mathematical logic']",recommendation systems

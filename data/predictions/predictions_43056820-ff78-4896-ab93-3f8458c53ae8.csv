@@ -1,0 +1,11 @@
+DOI,datasets,algorithms,application
+10.1109/COMPSAC51774.2021.00042,['commercially available news article data set'],"['Sequential Feature Bandits (SFB)', 'Cross Feature Bandits (CFB)', 'deep-Q learning']",e-commerce
+10.1109/ICICS52457.2021.9464601,['Amazon'],"['Long Short-Term Memory (LSTM)', 'Gated Recurrent Unit (GRU)']",ecommerce
+10.3390/sym13050758,"['user shopping history', 'personal click preference information of product items']","['Word2Vec', 'XGBoost regressor', 'XGBoost classifier']",ecommerce
+10.1016/j.comnet.2021.107859,[],[],
+10.24507/icicel.15.05.493,['Vuze-Azureus: An open-source Java-based software development changelog dataset'],['Fe2vec (Filename extension to vector)'],software development
+10.1145/3473714.3473843,[],['intelligent scoring algorithm'],information management
+10.3390/su13137156,[],"['extrapolative collaborative filtering', 'PP2Vec', 'Word2Vec']",ecommerce
+10.1088/1742-6596/1916/1/012068,[],"['Boltzmann Machine', 'FP-Growth', 'deep learning']",medical
+10.3390/app11093839,['more than 100 user profiles'],"['DBSCAN', 'semantic filtering', 'content filtering', 'heuristics']",education
+10.1016/j.jretconser.2021.102573,"['data collected from a supermarket chain in Germany', 'data from a supermarket chain in Taiwan']","['two-pathway matrix factorization (2way-MF)', 'Matrix Factorization']",ecommerce
