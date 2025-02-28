@@ -34,10 +34,13 @@ def clean_algorithm(text: str) -> str:
     patterns = [
         "algorithm",
         "algorithms",
+        "machine learning",
+        "deep learning",
     ]
     for pattern in patterns:
         text = text.replace(pattern, "").strip()
     return text
+
 
 @streamlit.cache_data()
 def get_data() -> pandas.DataFrame:
@@ -83,7 +86,9 @@ def get_applications_groups(data: pandas.DataFrame) -> pandas.DataFrame:
     for i, cluster in enumerate(clusters):
         applications = [data[j] for j in cluster]
         try:
-            name = Counter([y for x in applications for y in x.split()]).most_common(1)[0][0]
+            name = Counter([y for x in applications for y in x.split()]).most_common(1)[
+                0
+            ][0]
         except Exception as e:
             name = applications[0]
         output.append(
@@ -227,22 +232,24 @@ set_heatmap_and_metrics(data=relations)
 
 application_group_name = streamlit.selectbox(
     label="choose an application",
-    options=app_groups["application_group_name"].unique().tolist()
+    options=app_groups["application_group_name"].unique().tolist(),
 )
 
 application_group_data = data[data["application_group_name"] == application_group_name]
 
 
 streamlit.markdown(f"## {application_group_name}")
-frequencies = {x: 1 for x in application_group_data["application"].value_counts().to_dict()}
-wordcloud = WordCloud(width=800, height=400, background_color="#0D1118", colormap="magma").generate_from_frequencies(
-    frequencies
-)
+frequencies = {
+    x: 1 for x in application_group_data["application"].value_counts().to_dict()
+}
+wordcloud = WordCloud(
+    width=800, height=400, background_color="#0D1118", colormap="magma"
+).generate_from_frequencies(frequencies)
 streamlit.image(wordcloud.to_image(), width=1000)
 
 streamlit.markdown("## Algorithms")
 frequencies = application_group_data["algorithm"].value_counts().to_dict()
-wordcloud = WordCloud(width=800, height=400, background_color="#0D1118", colormap="magma").generate_from_frequencies(
-    frequencies
-)
+wordcloud = WordCloud(
+    width=800, height=400, background_color="#0D1118", colormap="magma"
+).generate_from_frequencies(frequencies)
 streamlit.image(wordcloud.to_image(), width=1000)
