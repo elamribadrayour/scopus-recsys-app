@@ -10,7 +10,9 @@ def get_connection() -> duckdb.DuckDBPyConnection:
     return duckdb.connect("data/db.duckdb")
 
 
-def get_result(connection: duckdb.DuckDBPyConnection, query: str, parameters: tuple = None) -> pandas.DataFrame:
+def get_result(
+    connection: duckdb.DuckDBPyConnection, query: str, parameters: tuple = None
+) -> pandas.DataFrame:
     return connection.execute(query=query, parameters=parameters).fetch_df()
 
 
@@ -23,12 +25,13 @@ def get_algorithms_applications_links() -> pandas.DataFrame:
     return get_result(connection=connection, query=query)
 
 
-def single_color_func(word, font_size, position, orientation, random_state=None, **kwargs):
+def single_color_func(
+    word, font_size, position, orientation, random_state=None, **kwargs
+):
     return "#B3E9C7"
 
 
 def set_occurences_stats() -> None:
-
     query = """
     SELECT
         COUNT(DISTINCT group_id) AS nb_algorithms
@@ -36,10 +39,7 @@ def set_occurences_stats() -> None:
     """
     data = get_result(connection=connection, query=query).to_dict(orient="records")[0]
     columns = streamlit.columns(2)
-    columns[0].metric(
-        label="Number of Algorithms", 
-        value=data["nb_algorithms"]
-    )
+    columns[0].metric(label="Number of Algorithms", value=data["nb_algorithms"])
 
     query = """
     SELECT
@@ -47,10 +47,7 @@ def set_occurences_stats() -> None:
     FROM application_similarity
     """
     data = get_result(connection=connection, query=query).to_dict(orient="records")[0]
-    columns[1].metric(
-        label="Number of Applications", 
-        value=data["nb_applications"]
-    )
+    columns[1].metric(label="Number of Applications", value=data["nb_applications"])
 
 
 def set_heatmap_and_metrics():
@@ -79,7 +76,9 @@ def set_heatmap_and_metrics():
     ORDER BY score DESC
     """
     data = get_result(connection=connection, query=query, parameters=(top_n,))
-    data = data.pivot(index='algorithm_name', columns='application_name', values='score')
+    data = data.pivot(
+        index="algorithm_name", columns="application_name", values="score"
+    )
     fig = px.imshow(
         img=data,
         aspect="auto",
@@ -91,7 +90,6 @@ def set_heatmap_and_metrics():
     streamlit.plotly_chart(fig)
 
 
-
 def set_algorithm_specific_applications():
     streamlit.subheader("Algorithm specific applications")
     connection = get_connection()
@@ -101,7 +99,9 @@ def set_algorithm_specific_applications():
     FROM algorithm_application_link
     ORDER BY score DESC
     """
-    algorithms = get_result(connection=connection, query=query)["algorithm_name"].unique()
+    algorithms = get_result(connection=connection, query=query)[
+        "algorithm_name"
+    ].unique()
     algorithm_name = streamlit.selectbox(
         options=algorithms,
         label="Select algorithm",
@@ -133,7 +133,9 @@ def set_application_specific_algorithms():
     FROM algorithm_application_link
     ORDER BY score DESC
     """
-    applications = get_result(connection=connection, query=query)["application_name"].unique()
+    applications = get_result(connection=connection, query=query)[
+        "application_name"
+    ].unique()
     application_name = streamlit.selectbox(
         options=applications,
         label="Select application",
@@ -148,7 +150,9 @@ def set_application_specific_algorithms():
     WHERE application_name = ?
     ORDER BY score DESC
     """
-    data = get_result(connection=connection, query=query, parameters=(application_name,))
+    data = get_result(
+        connection=connection, query=query, parameters=(application_name,)
+    )
     frequencies = dict(zip(data["algorithm_name"], data["score"]))
     wordcloud = WordCloud(
         width=800, height=400, background_color="#0D1118", colormap="magma"
@@ -156,8 +160,8 @@ def set_application_specific_algorithms():
     streamlit.image(wordcloud.to_image(), width=1000)
 
 
-# if helpers.password.is_password_ok() is False:
-#     streamlit.stop()
+if helpers.password.is_password_ok() is False:
+    streamlit.stop()
 
 streamlit.title("RecSys in Scopus")
 connection = get_connection()
