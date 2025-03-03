@@ -1,5 +1,7 @@
 """Password checking."""
 
+import os
+
 import streamlit
 
 
@@ -18,6 +20,9 @@ def password_entered() -> None:
 
 def is_password_ok() -> bool:
     """Returns `True` if the user had a correct password."""
+    if os.path.exists(".streamlit/secrets.toml") is False:
+        return True
+
     if "password_correct" not in streamlit.session_state:
         # First run, show inputs for username + password.
         streamlit.text_input("Username", on_change=password_entered, key="username")
