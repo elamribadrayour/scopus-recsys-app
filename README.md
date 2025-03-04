@@ -53,12 +53,4 @@ The application uses a DuckDB database (`data/db.duckdb`) containing:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions and feedback, please open an issue in the repository.
+This project is licensed under the Apache License - see the LICENSE file for details.
